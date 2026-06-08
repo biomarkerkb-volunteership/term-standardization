@@ -1,6 +1,9 @@
 # term-standardization
 Volunteer curation guide for the BiomarkerKB project: instructions, controlled vocabulary reference, and submission guidelines.
 
+# term-standardization
+Volunteer curation guide for the BiomarkerKB project: instructions, controlled vocabulary reference, and submission guidelines.
+
 # BiomarkerKB Volunteer Curation Documentation
 
 Welcome, and thank you for contributing to the BiomarkerKB project! This documentation is organized into short sections you can refer back to at any point during the project. You don't need to read it all at once - use it as a reference as questions come up.
@@ -95,38 +98,52 @@ You must use only the terms listed below when assigning each component. Do not i
 - Default to `level` when the raw term says things like "increased X" without further detail.
 - Use `expression` when the measurement is explicitly about gene/protein expression (e.g., fold-change, overexpression).
 - Use `sequence variation` for anything involving a specific mutation, SNP, deletion, insertion, or splice-site change.
-- Use `modification` for epigenetic marks (methylation, acetylation) and post-translational modifications (phosphorylation, glycosylation). Always try to specify the modification type in the biomarker term rather than leaving it as a bare `modification`.
+- Use `modification` for epigenetic marks (methylation, acetylation) and post-translational modifications (phosphorylation, glycosylation). **Always try to specify the modification type** in the biomarker term rather than leaving it as a bare `modification`.
 
 ---
 
 ## Section 3 - Step-by-Step Curation Instructions
 
-### Step 1 - Review the automated mapping
-Each biomarker in your dataset will have an automated `change | entity | aspect` mapping already filled in. Start by reading the raw term and the proposed mapping side by side.
+### What you are given
+Your dataset is a CSV file with two columns: a **source** (e.g., `civic`, `mw`, `cgi`) and a **raw biomarker term**. For example:
 
-Ask yourself:
-- Does the **change** term correctly reflect what is described?
-- Is the **entity** correctly identified and named using its standard symbol or abbreviation?
-- Is the **aspect** the most specific and accurate term available?
+```
+"civic","VHL (c.214T>C)"
+"civic","BRCA1 MUTATION"
+"civic","ALK Fusion"
+```
 
-### Step 2 - Classify the mapping
-Mark each mapping as one of the following:
+Your goal is to produce a `change | entity | aspect` mapping for each term.
+
+### Step 1 - Read the raw term
+Read the term carefully and identify what it is describing. Ask yourself:
+- Is a direction of change stated (increased, decreased) or is the change binary (mutation present/absent)?
+- What is the biological entity being measured - a gene, protein, RNA, cell, etc.?
+- What aspect of that entity is being assessed - its level, a specific sequence variant, a modification?
+
+### Step 2 - Assign the three components
+Using the controlled vocabulary in Section 2, assign a value for each of `change`, `entity`, and `aspect`. For example:
+
+| Raw term | Change | Entity | Aspect |
+|----------|--------|--------|--------|
+| `VHL (c.214T>C)` | presence of | VHL | sequence variation |
+| `BRCA1 MUTATION` | presence of | BRCA1 | sequence variation |
+| `ALK Fusion` | presence of | ALK | sequence variation |
+
+### Step 3 - Classify your confidence
+Mark each row with a status:
 
 | Status | Meaning |
 |--------|---------|
-| ✅ **Correct** | The automated mapping is accurate - no changes needed |
-| ✏️ **Corrected** | You have fixed one or more components - fill in your corrected values |
-| ❓ **Uncertain** | You are unsure of the correct mapping - flag for discussion |
-| 🚩 **Unmapped / Cannot map** | The term cannot be mapped using the current vocabulary - propose a rule or escalate |
+| **mapped** | You are confident in all three components |
+| **uncertain** | You have a best guess but are unsure - flag for discussion |
+| **cannot map** | The term cannot be mapped using the current vocabulary - propose a rule or escalate |
 
-### Step 3 - For corrected mappings
-Fill in the corrected `change`, `entity`, and `aspect` values in the designated columns. Always add a brief note explaining what was wrong and why you chose the new values.
-
-### Step 4 - For unmapped or uncertain terms
+### Step 4 - For uncertain or unmapped terms
 See Section 4 below.
 
 ### Step 5 - Look for patterns
-As you work, keep a running log of recurring problems (e.g., "all HGVS-style mutation strings like `VHL (c.551T>C)` are being mapped incorrectly"). These patterns will feed directly into normalization rule proposals in Week 3.
+As you work, keep a running log of term structures that come up repeatedly (e.g., "gene name followed by HGVS nucleotide change in parentheses", "gene name followed by the word Fusion"). These patterns will feed directly into normalization rule proposals in Week 3.
 
 ---
 
@@ -141,7 +158,7 @@ As you work, keep a running log of recurring problems (e.g., "all HGVS-style mut
 If you see a **pattern** of terms that cannot be handled by the existing vocabulary, don't just flag each one individually - propose a rule. A good rule proposal includes:
 
 1. **Pattern description** - What does this class of term look like? (e.g., "Gene name followed by an HGVS nucleotide change in parentheses")
-2. **Example terms** - At least 2–3 real examples from your dataset
+2. **Example terms** - At least 2-3 real examples from your dataset
 3. **Proposed mapping** - What should `change | entity | aspect` be for this pattern?
 4. **Reasoning** - Why does this mapping make sense given the existing vocabulary definitions?
 
@@ -152,18 +169,15 @@ You do not need to be an ontology expert. Your job is to notice what doesn't fit
 ## Section 5 - How to Submit and Log Your Work
 
 ### Logging format
-Use the provided curation spreadsheet. Each row corresponds to one biomarker term. The columns are:
+Create a curation spreadsheet. Each row corresponds to one biomarker term. The columns are:
 
 | Column | What to fill in |
 |--------|----------------|
 | `raw_term` | The original biomarker string - do not edit this |
-| `auto_change` | The automated change assignment - do not edit this |
-| `auto_entity` | The automated entity assignment - do not edit this |
-| `auto_aspect` | The automated aspect assignment - do not edit this |
-| `status` | Your classification: Correct / Corrected / Uncertain / Unmapped |
-| `curator_change` | Your corrected change value (if applicable) |
-| `curator_entity` | Your corrected entity value (if applicable) |
-| `curator_aspect` | Your corrected aspect value (if applicable) |
+| `change` | Your corrected change value |
+| `entity` | Your corrected entity value |
+| `aspect` | Your corrected aspect value |
+| `status` | mapped/uncertain/cannot map
 | `notes` | Your reasoning, especially for corrections and flags |
 
 ### Rule proposals
@@ -179,9 +193,9 @@ Refer to the project schedule for weekly deliverable dates. If you are falling b
 ```
 CHANGE TYPES       increased | decreased | presence of | absence of | differential
 ENTITY TYPES       protein | gene | DNA | RNA | cell | metabolite | lipid | glycan | element | image
-ASPECT TYPES       level | expression | sequence variation | modification
+ASPECT TYPES       level | expression | sequence variation | modification (specify which)
 
-STATUS CODES       ✅ Correct  ✏️ Corrected  ❓ Uncertain  🚩 Unmapped
+STATUS CODES       mapped | uncertain | cannot map
 
 GOLDEN RULE        If it doesn't fit, flag it and describe the pattern - don't force a mapping.
 ```
