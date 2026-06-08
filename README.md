@@ -1,9 +1,6 @@
 # term-standardization
 Volunteer curation guide for the BiomarkerKB project: instructions, controlled vocabulary reference, and submission guidelines.
 
-# term-standardization
-Volunteer curation guide for the BiomarkerKB project: instructions, controlled vocabulary reference, and submission guidelines.
-
 # BiomarkerKB Volunteer Curation Documentation
 
 Welcome, and thank you for contributing to the BiomarkerKB project! This documentation is organized into short sections you can refer back to at any point during the project. You don't need to read it all at once - use it as a reference as questions come up.
