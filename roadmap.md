@@ -41,8 +41,6 @@
 
 ## Week 5 - Mid-Project Check-in & Dataset Swap
 
-**All hands**
-- Meet with project lead to review rule proposals and resolve uncertain terms from Week 3
 - Volunteers swap datasets: Cynthia now receives Dataset B; Dia receives Dataset A
 - Each volunteer reviews the other's completed work independently - without reading their partner's notes first - to form unbiased initial impressions
 
