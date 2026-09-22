@@ -1,1 +1,4 @@
 .DS_Store
+
+# 284MB uncompressed masterlist; the zipped copy is committed instead
+data/mapped_processed/masterlist_v3.5.2.tsv
