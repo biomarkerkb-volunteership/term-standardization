@@ -9,14 +9,16 @@ Usage (single TSV, old behaviour):
     python append_ids_to_excel.py \
         --tsvs  path/to/curated_civic.tsv \
         --excel "Dataset A by Cynthia（final version）.xlsx" \
-        --out   "Dataset_A_with_IDs.xlsx"
+        --out   "Dataset_A_with_IDs.xlsx" \
+        --sheets "Curated Terms-No repeated terms"
 
 Usage (multiple source-specific TSVs):
     python append_ids_to_excel.py \
         --tsvs dataset_b_pmc.tsv dataset_b_cgi.tsv dataset_b_mw.tsv \
                dataset_b_oncomx.tsv dataset_b_upkb.tsv \
         --excel "Dataset A by Cynthia（final version）.xlsx" \
-        --out   "Dataset_A_with_IDs.xlsx"
+        --out   "Dataset_A_with_IDs.xlsx" \
+        --sheets "Curated Terms-No repeated terms"
 
 Each TSV is expected to have tab-separated columns including at minimum:
     SOURCE       — must match the SOURCE column in the Excel sheet
@@ -31,10 +33,21 @@ PMIDs are expected not to overlap across files (each file owns its source).
 
 import argparse
 import sys
+import re
 import pandas as pd
 from openpyxl import load_workbook
 from openpyxl.styles import Font, PatternFill, Alignment
 from openpyxl.utils import get_column_letter
+
+def _union_ids(series: pd.Series) -> str:
+    """Collect all non-empty unique IDs from multiple cells, return semicolon-joined."""
+    seen = set()
+    for cell in series:
+        for id_ in re.split(r"[;,|]", str(cell)):
+            id_ = id_.strip()
+            if id_:
+                seen.add(id_)
+    return ";".join(sorted(seen))
 
 # ---------------------------------------------------------------------------
 # CLI
@@ -76,24 +89,24 @@ def load_tsvs(paths: list) -> pd.DataFrame:
         df = pd.read_csv(path, sep="\t", header=0,
                          dtype=str, keep_default_na=False)
         df = df.rename(columns=TSV_RENAME)
-        # Normalise column names to upper-case so they match the Excel sheets
-        df.columns = [c.upper() if c in ("source", "SOURCE") else c for c in df.columns]
+        # Normalize join-key columns to lowercase
+        df.columns = [c.lower() if c.lower() in ("source", "raw_term") else c
+                      for c in df.columns]
         frames.append(df)
         print(f"    {path}: {len(df)} rows")
 
     combined = pd.concat(frames, ignore_index=True)
     print(f"  TSV total: {len(combined)} rows across {len(paths)} file(s).")
 
-    # Deduplicate so no (source, raw_term) pair appears more than once.
-    dupes = combined.duplicated(subset=["source", "raw_term"], keep=False)
-    if dupes.any():
-        dup_pairs = (combined.loc[dupes, ["source", "raw_term"]]
-                     .drop_duplicates().head(5).to_dict("records"))
-        print(f"  Warning: duplicated (source, raw_term) pairs detected; "
-              f"keeping first occurrence.\n  Examples: {dup_pairs}")
-        combined = combined.drop_duplicates(subset=["source", "raw_term"], keep="first")
-
-    lookup = combined.set_index(["source", "raw_term"])[["civic_ids", "pmids"]]
+    # Union pmids across all files; civic_ids should be consistent so take first
+    lookup = (
+        combined
+        .groupby(["source", "raw_term"], sort=False)
+        .agg(
+            civic_ids=("civic_ids", _union_ids),   # was "first"
+            pmids=("pmids", _union_ids),
+        )
+    )
     print(f"  Lookup built: {len(lookup)} unique (source, raw_term) pairs.")
     return lookup
 
@@ -107,6 +120,8 @@ def enrich_sheet(df: pd.DataFrame, lookup: pd.DataFrame) -> pd.DataFrame:
     composite key, then insert the two new columns right after source.
     Rows with no match in the lookup receive empty strings.
     """
+    df.columns = [c.lower() if c.lower() in ("source", "raw_term") else c for c in df.columns]
+
     lookup_reset = lookup.reset_index()   # source, raw_term, civic_ids, pmids
 
     merged = df.merge(
