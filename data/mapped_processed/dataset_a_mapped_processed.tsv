@@ -1,0 +1,5196 @@
+source	civic_id	pmid	raw_term	change	entity	entity type	aspect	status	notes
+llm_glycan			absence of glycosylation on CD274	absence of	CD274	glycan; protein	level	mapped	
+llm_glycan			increased level of terminal GalNAc on KLK3	increased	terminal GalNAc on KLK3	glycan; protein	level	mapped	
+llm_glycan			_-glucans associated with immunoglobulin M	differential	_-glucans associated with immunoglobulin M	glycan; protein	level	uncertain	"Association-only term: no explicit increase/decrease direction or measurable aspect is provided. ""Differential"" is retained only as a temporary schema placeholder; do not assign level by default. Verify the source dataset and associated PMID/manuscript before final mapping; retain as uncertain until confirmed."
+llm_glycan			mannans associated with immunoglobulin M	differential	mannans associated with immunoglobulin M	glycan; protein	level	uncertain	"Association-only term: no explicit increase/decrease direction or measurable aspect is provided. ""Differential"" is retained only as a temporary schema placeholder; do not assign level by default. Verify the source dataset and associated PMID/manuscript before final mapping; retain as uncertain until confirmed."
+llm_glycan			decreased level of agalactosylated glycan on immunoglobulin G	decreased	agalactosylated glycan on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			decreased level of FA2 on immunoglobulin G	decreased	FA2 on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			increased level of galactosylated glycans on immunoglobulin G	increased	galactosylated glycans on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			decreased level of galactosylation on immunoglobulin G	decreased	immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			decreased level of monosialylation on immunoglobulin G	decreased	immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			decreased level of bisecting N-acetylglucosamine on immunoglobulin G	decreased	bisecting N-acetylglucosamine on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			increased level of agalactosylation on immunoglobulin G	increased	immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			decreased level of sialylation on immunoglobulin G	decreased	immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			decreased level of FS1/FS2 ratio on immunoglobulin G	decreased	FS1/FS2 ratio on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			fucosylated IgG associated with immunoglobulin G	differential	fucosylated immunoglobulin G	glycan; protein	level	uncertain	"Association-only term: no explicit increase/decrease direction or measurable aspect is provided. ""Differential"" is retained only as a temporary schema placeholder; do not assign level by default. Verify the source dataset and associated PMID/manuscript before final mapping; retain as uncertain until confirmed."
+llm_glycan			afucosylated bisecting IgG associated with immunoglobulin G	differential	afucosylated bisecting immunoglobulin G	glycan; protein	level	uncertain	"Association-only term: no explicit increase/decrease direction or measurable aspect is provided. ""Differential"" is retained only as a temporary schema placeholder; do not assign level by default. Verify the source dataset and associated PMID/manuscript before final mapping; retain as uncertain until confirmed."
+llm_glycan			sialic acid containing IgG associated with immunoglobulin G	differential	sialic acid containing immunoglobulin G	glycan; protein	level	uncertain	"Association-only term: no explicit increase/decrease direction or measurable aspect is provided. ""Differential"" is retained only as a temporary schema placeholder; do not assign level by default. Verify the source dataset and associated PMID/manuscript before final mapping; retain as uncertain until confirmed."
+llm_glycan			agalactosylated fucosylated IgG (G0F) associated with immunoglobulin G	differential	agalactosylated fucosylated immunoglobulin G (G0F)	glycan; protein	level	uncertain	"Association-only term: no explicit increase/decrease direction or measurable aspect is provided. ""Differential"" is retained only as a temporary schema placeholder; do not assign level by default. Verify the source dataset and associated PMID/manuscript before final mapping; retain as uncertain until confirmed."
+llm_glycan			increased level of core 1-glycan on MUC1	increased	core 1-glycan on MUC1	glycan; protein	level	mapped	
+llm_glycan			decreased level of MUCST on MUC1	decreased	MUCST on MUC1	glycan; protein	level	mapped	
+llm_glycan			increased level of core 2 on MUC1	increased	core 2 on MUC1	glycan; protein	level	mapped	
+llm_glycan			increased level of fucosylated N-glycan on immunoglobulin G	increased	fucosylated N-glycan on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			decreased level of N-acetylneuraminic acid on immunoglobulin G	decreased	N-acetylneuraminic acid on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			decreased level of sialylated IgG on immunoglobulin G	decreased	sialylated IgG on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			increased level of N-glycolylneuraminic acid on MUC1	increased	N-glycolylneuraminic acid on MUC1	glycan; protein	level	mapped	
+llm_glycan			decreased level of 6-O-su-Le^c on immunoglobulin G	decreased	6-O-su-Le^c on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			decreased level of Le^y on immunoglobulin M	decreased	Le^y on immunoglobulin M	glycan; protein	level	mapped	
+llm_glycan			decreased level of digalactosylated on immunoglobulin G	decreased	digalactosylated on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			increased level of agalactosylated on immunoglobulin G	increased	agalactosylated on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			decreased level of F1H5N4S1 on IQGAP1	decreased	F1H5N4S1 on IQGAP1	glycan; protein	level	mapped	
+llm_glycan			decreased level of H5N4S1 on HP (Haptoglobin)	decreased	H5N4S1 on HP (Haptoglobin)	glycan; protein	level	mapped	
+llm_glycan			increased level of high-mannose-type glycans on CEACAM6	increased	high-mannose-type glycans on CEACAM6	glycan; protein	level	mapped	
+llm_glycan			sialylated HPT associated with HP (Haptoglobin)	differential	sialylated HPT associated with HP (Haptoglobin)	glycan; protein	/	uncertain	"Association-only term: no explicit increase/decrease direction or measurable aspect is provided. ""Differential"" is retained only as a temporary schema placeholder; do not assign level by default. Verify the source dataset and associated PMID/manuscript before final mapping; retain as uncertain until confirmed."
+llm_glycan			fucosylated HPT associated with HP (Haptoglobin)	differential	fucosylated HPT associated with HP (Haptoglobin)	glycan; protein	/	uncertain	"Association-only term: no explicit increase/decrease direction or measurable aspect is provided. ""Differential"" is retained only as a temporary schema placeholder; do not assign level by default. Verify the source dataset and associated PMID/manuscript before final mapping; retain as uncertain until confirmed."
+llm_glycan			increased level of GalNAcglycan structure on ITGA3	increased	GalNAcglycan structure on ITGA3	glycan; protein	level	mapped	
+llm_glycan			decreased level of fucosylation on ITGA2	decreased	ITGA2	glycan; protein	level	mapped	
+llm_glycan			decreased level of G1FN on immunoglobulin G	decreased	G1FN on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			decreased level of G2 on immunoglobulin G	decreased	G2 on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			decreased level of O-GlcNAcylated MYC on MYC	decreased	MYC	glycan; protein	level	mapped	
+llm_glycan			increased level of Tn antigen on FN1	increased	Tn antigen on FN1	glycan; protein	level	mapped	
+llm_glycan			increased level of sialyl Tn antigen on FN1	increased	sialyl Tn antigen on FN1	glycan; protein	level	mapped	
+llm_glycan			decreased level of T antigen on FN1	decreased	T antigen on FN1	glycan; protein	level	mapped	
+llm_glycan			decreased level of sialyl T antigen on FN1	decreased	sialyl T antigen on FN1	glycan; protein	level	mapped	
+llm_glycan			increased level of Gal_3GalNAc on immunoglobulin G	increased	Gal_3GalNAc on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			decreased level of core fucose on immunoglobulin G	decreased	core fucose on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			decreased level of high mannose on immunoglobulin G	decreased	high mannose on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			decreased level of GlcNAc on immunoglobulin G	decreased	GlcNAc on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			decreased level of Gal_4GlcNAc on immunoglobulin G	decreased	Gal_4GlcNAc on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			increased level of galactose on immunoglobulin G	increased	galactose on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			decreased level of galactose on immunoglobulin G	decreased	galactose on immunoglobulin G	glycan; protein	level	mapped	
+llm_glycan			decreased level of GalNAc on immunoglobulin G	decreased	GalNAc on immunoglobulin G	glycan; protein	level	mapped	
+civic	CIViC:447	PubMed:22906996	ABCB1 S893A/T mutation	presence of	ABCB1	gene	sequence variation	mapped	
+civic	CIViC:2878	PubMed:12623848	ABL1 Double Ph	presence of	ABL1	gene	sequence variation	mapped	
+civic	CIViC:2249	PubMed:21865346|PubMed:22371878	ABL1 Non-P-Loop Mutation	presence of	ABL1	gene	sequence variation	mapped	
+civic	CIViC:2248	PubMed:21865346|PubMed:22371878|PubMed:12623848	ABL1 P-Loop Mutation	presence of	ABL1	gene	sequence variation	mapped	
+civic	CIViC:2244	PubMed:19779040|PubMed:21865346|PubMed:19652056|PubMed:22371878	ABL1 TKD MUTATION	presence of	ABL1	gene	sequence variation	mapped	
+civic	CIViC:2444	PubMed:25207766	ABL2 Fusion	presence of	ABL2	gene	sequence variation	mapped	
+civic	CIViC:1937	PubMed:24705250	ACVR1 Gain-of-Function	presence of	ACVR1	gene	sequence variation	mapped	
+civic	CIViC:2852	PubMed:24705252	ACVR1 Mutation	presence of	ACVR1	gene	sequence variation	mapped	
+civic	CIViC:3126	PubMed:17590872	AKT1 S473 Phosphorylation	presence of	AKT1	protein	phosphorylation	mapped	
+civic	CIViC:813	PubMed:29054983|PubMed:26444240	ALK Alternative Transcript (ATI)	presence of	ALK	RNA	sequence variation	uncertain	Provisional mapping: entity type = RNA and aspect = sequence variation. An alternative transcript reflects transcript/splicing variation rather than increased or decreased expression. Final classification should be confirmed by the ontology team.
+civic	CIViC:497	PubMed:18927303|PubMed:22252991	ALK EML4::ALK e2-e20	presence of	EML4::ALK	gene	sequence variation	mapped	
+civic	CIViC:496	PubMed:20979469|PubMed:22912387	ALK EML4::ALK e20-e20	presence of	EML4::ALK	gene	sequence variation	mapped	
+civic	CIViC:499	PubMed:25408655|PubMed:18593892|PubMed:20979469|PubMed:18451166|PubMed:18594010|PubMed:22912387|PubMed:24675041	ALK EML4::ALK e6-e20	presence of	EML4::ALK	gene	sequence variation	mapped	
+civic	CIViC:546	PubMed:27049722	ALK Exon 4-11 Deletion	presence of	ALK	gene	sequence variation	mapped	
+civic	CIViC:495|CIViC:4311|CIViC:4708|CIViC:4236	PubMed:21345110|PubMed:28787259|PubMed:19737969|PubMed:28183697|PubMed:25727400|PubMed:35233056|PubMed:24330038|PubMed:25028698|PubMed:23598171|PubMed:10383129|PubMed:29352732|PubMed:25922291|PubMed:22277784|PubMed:21642865|PubMed:26973324|PubMed:20979469|PubMed:23724913|PubMed:25470694|PubMed:24478318|PubMed:27022118|PubMed:20940188|PubMed:23639470|PubMed:26938871|PubMed:25153538|PubMed:26708155|PubMed:21933749|PubMed:26466010|PubMed:28475456|PubMed:28586279|PubMed:28602779|PubMed:30413378|PubMed:28501140|PubMed:32780660|PubMed:24675041|PubMed:24687827|PubMed:26942346	ALK Fusion	presence of	ALK	gene	sequence variation	mapped	
+civic	CIViC:508	PubMed:24670165	ALK Mutation	presence of	ALK	gene	sequence variation	mapped	
+civic	CIViC:4308	PubMed:22277784	ALK T1151dup mutation	presence of	ALK	gene	sequence variation	mapped	
+civic	CIViC:174	PubMed:22440753|PubMed:23539443	APC Mutation	presence of	APC	gene	sequence variation	mapped	
+civic	CIViC:596	PubMed:26000489	AR Mutation	presence of	AR	gene	sequence variation	mapped	
+civic	CIViC:1267|CIViC:4882	PubMed:27364904|PubMed:25686104|PubMed:37418832	ARID1A Loss	presence of	ARID1A	gene	sequence variation	mapped	
+civic	CIViC:1590	PubMed:27364904	ARID1A P1175FS*5 mutation	presence of	ARID1A	gene	sequence variation	mapped	
+civic	CIViC:4882	PubMed:37418832	ARID1A Wildtype	absence of	ARID1A	gene	sequence variation	mapped	
+civic	CIViC:2106	PubMed:19533750|PubMed:27735949	ASS1 Loss	presence of	ASS1	gene	sequence variation	mapped	
+civic	CIViC:553	PubMed:23018865	ASXL1 EXON 12 MUTATION	presence of	ASXL1	gene	sequence variation	mapped	
+civic	CIViC:177	PubMed:25412851|PubMed:25308295|PubMed:22031865|PubMed:27276561|PubMed:26124496	ASXL1 Mutation	presence of	ASXL1	gene	sequence variation	mapped	
+civic	CIViC:1140	PubMed:23585524	ATM K468FS mutation	presence of	ATM	gene	sequence variation	mapped	
+civic	CIViC:178	PubMed:32343890|PubMed:26837699|PubMed:23585524|PubMed:21993670|PubMed:23960094|PubMed:20739657|PubMed:20124459|PubMed:26510020	ATM Mutation	presence of	ATM	gene	sequence variation	mapped	
+civic	CIViC:2919	PubMed:23585524	ATM c.7089+1del	presence of	ATM	gene	sequence variation	mapped	
+civic	CIViC:2920	PubMed:23585524	ATM c.7515+1_2del	presence of	ATM	gene	sequence variation	mapped	
+civic	CIViC:2918	PubMed:23585524	ATM c.902-1G>T mutation	presence of	ATM	gene	sequence variation	mapped	
+civic	CIViC:267	PubMed:19470935	ATR I774FS mutation	presence of	ATR	gene	sequence variation	mapped	
+civic	CIViC:3177	PubMed:23284920	ATRX Deletion	presence of	ATRX	gene	sequence variation	mapped	
+civic	CIViC:3072	PubMed:23104868	ATRX Mutation	presence of	ATRX	gene	sequence variation	mapped	
+civic	CIViC:2087	PubMed:28389374	BAP1 ALTERNATIVE TRANSCRIPT (ATI)	presence of	BAP1	RNA	sequence variation	uncertain	Provisional mapping: entity type = RNA and aspect = sequence variation. An alternative transcript reflects transcript/splicing variation rather than increased or decreased expression. Final classification should be confirmed by the ontology team.
+civic	CIViC:183	PubMed:23797736|PubMed:23792563|PubMed:25970771|PubMed:27751729|PubMed:22038994	BAP1 Mutation	presence of	BAP1	gene	sequence variation	mapped	
+civic	CIViC:2095	PubMed:27197561	BARD1 Loss-of-function	presence of	BARD1	gene	sequence variation	mapped	
+civic	CIViC:4390	PubMed:32343890	BARD1 Mutation	presence of	BARD1	gene	sequence variation	mapped	
+civic	CIViC:2109	PubMed:25452615	BCL2 Mutation	presence of	BCL2	gene	sequence variation	mapped	
+civic	CIViC:522	PubMed:22426421	BCL2L11 Deletion Polymorphism	presence of	BCL2L11	gene	sequence variation	mapped	
+civic	CIViC:4547	PubMed:26919435|PubMed:31104347|PubMed:29226988|PubMed:26573325|PubMed:26098867|PubMed:26516930|PubMed:27428733	BCOR ITD  mutation	presence of	BCOR	gene	sequence variation	mapped	
+civic	CIViC:659	PubMed:27313181	BCOR Mutation	presence of	BCOR	gene	sequence variation	mapped	
+civic	CIViC:586	PubMed:24943832	BIRC3 TRUNCATING MUTATION	presence of	BIRC3	gene	sequence variation	mapped	
+civic	CIViC:518	PubMed:26732095	BRAF DEL 485-490	presence of	BRAF	gene	sequence variation	mapped	
+civic	CIViC:2519	PubMed:27371698|PubMed:22614970	BRAF Exon 15 Mutation	presence of	BRAF	gene	sequence variation	mapped	
+civic	CIViC:395	PubMed:22169769|PubMed:25673558|PubMed:22586653|PubMed:20619739|PubMed:19603024|PubMed:21641636|PubMed:24112392	BRAF Mutation	presence of	BRAF	gene	sequence variation	mapped	
+civic	CIViC:2663	PubMed:29903880	BRAF N486_P490del	presence of	BRAF	gene	sequence variation	mapped	
+civic	CIViC:2281	PubMed:31924734|PubMed:28486044	BRAF Non-V600 mutation	presence of	BRAF	gene	sequence variation	mapped	
+civic	CIViC:2689	PubMed:31580757	BRAF V600_K601>E mutation	presence of	BRAF	gene	sequence variation	mapped	
+civic	CIViC:422	PubMed:24947927	BRAF Wildtype	absence of	BRAF	gene	sequence variation	mapped	
+civic	CIViC:2102	PubMed:29320312|PubMed:24265155	BRAF intron 10 rearrangement	presence of	BRAF	gene	sequence variation	mapped	
+civic	CIViC:2101	PubMed:29320312|PubMed:24265155	BRAF intron 9 rearrangement	presence of	BRAF	gene	sequence variation	mapped	
+civic	CIViC:690	PubMed:16088935	BRCA1 Alu insertion	presence of	BRCA1	gene	sequence variation	mapped	
+civic	CIViC:131	PubMed:28211448|PubMed:28242752|PubMed:28578601|PubMed:34081848|PubMed:23346317|PubMed:31157963|PubMed:26510020|PubMed:23569316	BRCA1 Loss-of-function	presence of	BRCA1	gene	sequence variation	mapped	
+civic	CIViC:185|CIViC:4409	PubMed:19553641|PubMed:32343890|PubMed:22274685|PubMed:27717299|PubMed:28792849|PubMed:26740259|PubMed:25218906|PubMed:21862407|PubMed:27908594|PubMed:30345884|PubMed:28882436|PubMed:24240112|PubMed:25366685|PubMed:25072261|PubMed:29338080|PubMed:29223478|PubMed:36753688|PubMed:25847936	BRCA1 Mutation	presence of	BRCA1	gene	sequence variation	mapped	
+civic	CIViC:473	PubMed:24137399	BRCA1 P968FS mutation	presence of	BRCA1	gene	sequence variation	mapped	
+civic	CIViC:132	PubMed:28211448|PubMed:28242752|PubMed:28578601|PubMed:34081848|PubMed:23346317|PubMed:31157963|PubMed:16243825|PubMed:26510020|PubMed:23569316	BRCA2 Loss-of-function	presence of	BRCA2	gene	sequence variation	mapped	
+civic	CIViC:186|CIViC:4409	PubMed:28792849|PubMed:19553641|PubMed:32343890|PubMed:22274685|PubMed:27717299|PubMed:26740259|PubMed:25218906|PubMed:21862407|PubMed:27908594|PubMed:30345884|PubMed:28882436|PubMed:24240112|PubMed:25366685|PubMed:25072261|PubMed:29338080|PubMed:29223478|PubMed:21508395|PubMed:36753688|PubMed:25847936	BRCA2 Mutation	presence of	BRCA2	gene	sequence variation	mapped	
+civic	CIViC:689	PubMed:16088935	BRCA2 TRUNCATING MUTATION	presence of	BRCA2	gene	sequence variation	mapped	
+civic	CIViC:4389	PubMed:32343890	BRIP1 Mutation	presence of	BRIP1	gene	sequence variation	mapped	
+civic	CIViC:2045|CIViC:5833	PubMed:28418267	BTK MUTATION	presence of	BTK	gene	sequence variation	mapped	
+civic	CIViC:555	PubMed:26486786|PubMed:25037629|PubMed:24496303	CALR EXON 9 FRAMESHIFT	presence of	CALR	gene	sequence variation	mapped	
+civic	CIViC:2261	PubMed:27069254	CALR Mutation	presence of	CALR	gene	sequence variation	mapped	
+civic	CIViC:639	PubMed:26732495	CBLB RS2305035 mutation	presence of	CBLB	gene	sequence variation	mapped	
+civic	CIViC:22	PubMed:14612939	CCND2 PROMOTER DEMETHYLATION	decreased	CCND2	DNA	methylation	mapped	
+civic	CIViC:23	PubMed:23079656	CCND3 Loss	presence of	CCND3	gene	sequence variation	mapped	
+civic	CIViC:3241	PubMed:26250934	CD44 CD44v6 mutation	presence of	CD44	gene	sequence variation	mapped	
+civic	CIViC:660|CIViC:1682	PubMed:27313181	CDH1 MUTATION	presence of	CDH1	gene	sequence variation	mapped	
+civic	CIViC:232	PubMed:24240700	CDK12 Loss-of-function	presence of	CDK12	gene	sequence variation	mapped	
+civic	CIViC:2633	PubMed:32343890	CDK12 Mutation	presence of	CDK12	gene	sequence variation	mapped	
+civic	CIViC:3181	PubMed:24045412	CDKN1A rs1059234 mutation	presence of	CDKN1A	gene	sequence variation	mapped	
+civic	CIViC:2540	PubMed:24045412	CDKN1A rs1801270 mutation	presence of	CDKN1A	gene	sequence variation	mapped	
+civic	CIViC:356	PubMed:25587029	CDKN1B CYTOPLASMIC MISLOCALIZATION	differential	CDKN1B	protein	/	cannot map	This term describes a protein subcellular-localization event. The current controlled vocabulary has no approved localization aspect; proposed addition: localization or subcellular localization. Retain as cannot map pending ontology review.
+civic	CIViC:2523	PubMed:29948154	CDKN2A Deletion	presence of	CDKN2A	gene	sequence variation	mapped	
+civic	CIViC:550|CIViC:4716|CIViC:4750	PubMed:30592434|PubMed:35100714|PubMed:25852058|PubMed:27286459|PubMed:26715889|PubMed:174591|PubMed:35050752|PubMed:21278246|PubMed:23898052|PubMed:12777976|PubMed:24495407	CDKN2A Loss	presence of	CDKN2A	gene	sequence variation	mapped	
+civic	CIViC:4716|CIViC:2573	PubMed:35100714|PubMed:158598	CDKN2A Mutation	presence of	CDKN2A	gene	sequence variation	mapped	
+civic	CIViC:4750	PubMed:35050752	CDKN2A Mutation )	presence of	CDKN2A	gene	sequence variation	mapped	
+civic	CIViC:27	PubMed:23111194	CDKN2A Promoter Hypermethylation	increased	CDKN2A	DNA	methylation	mapped	
+civic	CIViC:637	PubMed:27414035	CDKN2A RS3814960 mutation	presence of	CDKN2A	gene	sequence variation	mapped	
+civic	CIViC:2753	PubMed:11433531	CDKN2A c.151-1G>C mutation	presence of	CDKN2A	gene	sequence variation	mapped	
+civic	CIViC:551	PubMed:27286459|PubMed:23898052	CDKN2B Loss	presence of	CDKN2B	gene	sequence variation	mapped	
+civic	CIViC:765|CIViC:1848	PubMed:16307009	CDKN2B METHYLATION	presence of	CDKN2B	DNA	methylation	mapped	
+civic	CIViC:590	PubMed:27276561	CEBPA BIALLELIC INACTIVATION	presence of	CEBPA	gene	sequence variation	mapped	
+civic	CIViC:29	PubMed:19965647|PubMed:18450602|PubMed:14726504|PubMed:19304957|PubMed:25014773	CEBPA Mutation	presence of	CEBPA	gene	sequence variation	mapped	
+civic	CIViC:28	PubMed:14726504|PubMed:26167872	CEBPA N-TERMINAL FRAME SHIFT	presence of	CEBPA	gene	sequence variation	mapped	
+civic	CIViC:4391	PubMed:32343890	CHEK1 Mutation	presence of	CHEK1	gene	sequence variation	mapped	
+civic	CIViC:766|CIViC:1850|CIViC:1849	PubMed:26629066	CHEK2 1100DELC	presence of	CHEK2	gene	sequence variation	mapped	
+civic	CIViC:769	PubMed:26629066	CHEK2 IVS2+1G>A mutation	presence of	CHEK2	gene	sequence variation	mapped	
+civic	CIViC:227	PubMed:10617473	CHEK2 Loss-of-function	presence of	CHEK2	gene	sequence variation	mapped	
+civic	CIViC:4386	PubMed:32343890	CHEK2 mutation	presence of	CHEK2	gene	sequence variation	mapped	
+civic	CIViC:694	PubMed:23480694	CRBN Mutation	presence of	CRBN	gene	sequence variation	mapped	
+civic	CIViC:556	PubMed:23656643	CSF3R Mutation	presence of	CSF3R	gene	sequence variation	mapped	
+civic	CIViC:1270	PubMed:25970248	CTNNB1 Activating Mutation	presence of	CTNNB1	gene	sequence variation	mapped	
+civic	CIViC:2761	PubMed:19197950|PubMed:17172831|PubMed:23960186	CTNNB1 Exon 3 Mutation	presence of	CTNNB1	gene	sequence variation	mapped	
+civic	CIViC:702	PubMed:24098545	CYP2D6 Loss-of-function	presence of	CYP2D6	gene	sequence variation	mapped	
+civic	CIViC:189	PubMed:22490330|PubMed:27288520|PubMed:27276561|PubMed:22124213|PubMed:28351930|PubMed:21415852|PubMed:23341344	DNMT3A Mutation	presence of	DNMT3A	gene	sequence variation	mapped	
+civic	CIViC:719	PubMed:23988873	DPYD DPYD*13 HOMOZYGOSITY	presence of	DPYD	gene	sequence variation	mapped	
+civic	CIViC:718	PubMed:23988873	DPYD DPYD*2A HOMOZYGOSITY	presence of	DPYD	gene	sequence variation	mapped	
+civic	CIViC:2762	PubMed:31871216	DPYD EXON 11-19 DELETION	presence of	DPYD	gene	sequence variation	mapped	
+civic	CIViC:721	PubMed:23988873	DPYD RS67376798 HOMOZYGOSITY	presence of	DPYD	gene	sequence variation	mapped	
+civic	CIViC:520	PubMed:27019113	DUX4 Fusion	presence of	DUX4	gene	sequence variation	mapped	
+civic	CIViC:1423|CIViC:5951|CIViC:4497|CIViC:5939|CIViC:4648|CIViC:4647	PubMed:24353160|PubMed:31208370|PubMed:22270724|PubMed:23371856	EGFR A763_Y764insFQEA	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1487	PubMed:24353160|PubMed:31208370	EGFR A767_V769dupASV mutation	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:191	PubMed:17538160	EGFR Copy Number Variation	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1420	PubMed:31208370	EGFR D770_N771insG	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1422|CIViC:4494	PubMed:24353160	EGFR D770_N771insGL	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1474|CIViC:4643	PubMed:23371856	EGFR D770_N771insGT	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1477	PubMed:24353160	EGFR D770_N771insNPG	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1353|CIViC:5941|CIViC:4640|CIViC:4275	PubMed:24353160|PubMed:17877814	EGFR D770_N771insSVD	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:2090	PubMed:24353160	EGFR D770delinsGY	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:976	PubMed:15329413|PubMed:24893891	EGFR E746_A750del	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:977	PubMed:15329413	EGFR E746_T751>I mutation	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:4245	PubMed:26423602	EGFR EGFRVIII mutation	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:133|CIViC:4432	PubMed:23816960|PubMed:22452895|PubMed:24439929|PubMed:25589191|PubMed:22370314|PubMed:27566387|PubMed:27022112|PubMed:22285168|PubMed:16730237|PubMed:16818686|PubMed:25862853|PubMed:26515464|PubMed:18509184|PubMed:24868098|PubMed:23982599|PubMed:26768165|PubMed:31086949|PubMed:24755888|PubMed:21531810|PubMed:28958502|PubMed:32955177|PubMed:31591063|PubMed:24263064	EGFR Exon 19 Deletion	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:707	PubMed:26051236|PubMed:22895145|PubMed:31208370|PubMed:34339292|PubMed:34647988	EGFR Exon 20 Insertion	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:248	PubMed:23764753	EGFR Exon 4 Deletion	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1641	PubMed:15118073	EGFR Gain-of-function	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1354|CIViC:5940|CIViC:4276	PubMed:24353160	EGFR H773_V774insH	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1421|CIViC:4493	PubMed:24353160	EGFR H773_V774insNPH	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:986|CIViC:6005|CIViC:4270|CIViC:4266|CIViC:4267|CIViC:2605|CIViC:2606|CIViC:2610|CIViC:2611|CIViC:2609	PubMed:19147750|PubMed:28874593|PubMed:27032107|PubMed:24353160|PubMed:20573926|PubMed:20022809|PubMed:22452896|PubMed:23816960|PubMed:24893891	EGFR L747_P753delinsS	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1488	PubMed:15329413	EGFR L747_S752delinsQ	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1572|CIViC:4799	PubMed:24353160	EGFR M766_A767insAI	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:2089	PubMed:24353160	EGFR M766_A767insASV	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:438	PubMed:22810899|PubMed:21969500|PubMed:17409929|PubMed:22025157|PubMed:27083334|PubMed:20022809|PubMed:21258250|PubMed:19692680|PubMed:22452896|PubMed:15329413|PubMed:20038723|PubMed:21783417|PubMed:20942962	EGFR Mutation	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:3172	PubMed:31208370	EGFR N771_P772insL	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1575|CIViC:4802	PubMed:24353160	EGFR P772_H773insYNP	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1576|CIViC:4803	PubMed:24353160	EGFR P772_V774insPHV	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1739	PubMed:21531810	EGFR Rare Exon 18-21 Mutation	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:2207	PubMed:27022112	EGFR Rare Mutation	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1419	PubMed:31208370	EGFR S768_D770dup mutation	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:717	PubMed:26773740	EGFR V769_D770insASV	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:308	PubMed:26778701|PubMed:16282176|PubMed:25586468|PubMed:21653686|PubMed:17177598	EGFR VIII mutation	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:2050	PubMed:19692680	EGFR Wildtype	absence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:386	PubMed:22901364	EGFR Y1092 PHOSPHORYLATION	presence of	EGFR	protein	phosphorylation	mapped	
+civic	CIViC:1573|CIViC:4800|CIViC:5937	PubMed:24353160	EGFR Y764_V765insHH	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:670|CIViC:1712	PubMed:23793026	EIF1AX MUTATION	presence of	EIF1AX	gene	sequence variation	mapped	
+civic	CIViC:383|CIViC:932|CIViC:918	PubMed:22262166|PubMed:23340172	EIF4EBP1 PHOSPHORYLATION	presence of	EIF4EBP1	protein	phosphorylation	mapped	
+civic	CIViC:801	PubMed:21309036	EPCAM 3' Exon Deletion	presence of	EPCAM	gene	sequence variation	mapped	
+civic	CIViC:2526	PubMed:35939768	ERBB2 Activating Mutation	presence of	ERBB2	gene	sequence variation	mapped	
+civic	CIViC:2723	PubMed:34534430	ERBB2 Exon 20 Insertion	presence of	ERBB2	gene	sequence variation	mapped	
+civic	CIViC:795	PubMed:22325357|PubMed:25899785	ERBB2 G778_P780DUP mutation	presence of	ERBB2	gene	sequence variation	mapped	
+civic	CIViC:409	PubMed:22325357|PubMed:26598547	ERBB2 Kinase Domain Mutation	presence of	ERBB2	gene	sequence variation	mapped	
+civic	CIViC:37	PubMed:23220880	ERBB2 L755_T759del	presence of	ERBB2	gene	sequence variation	mapped	
+civic	CIViC:796|CIViC:1894	PubMed:25899785	ERBB2 M774DELINSWLV	presence of	ERBB2	gene	sequence variation	mapped	
+civic	CIViC:662|CIViC:4706	PubMed:25636205|PubMed:28679771|PubMed:36315917|PubMed:29320312	ERBB2 Mutation	presence of	ERBB2	gene	sequence variation	mapped	
+civic	CIViC:41|CIViC:1048|CIViC:285	PubMed:23220880|PubMed:25899785	ERBB2 P780INS	presence of	ERBB2	gene	sequence variation	mapped	
+civic	CIViC:493	PubMed:26243863	ERBB2 S310F/Y mutation	presence of	ERBB2	gene	sequence variation	mapped	
+civic	CIViC:412	PubMed:26811533	ERBB2 SERUM LEVELS	differential	ERBB2	protein	level	mapped	
+civic	CIViC:410	PubMed:26559459|PubMed:25789838|PubMed:22325357|PubMed:19122144|PubMed:25899785	ERBB2 Y772_A775DUP mutation	presence of	ERBB2	gene	sequence variation	mapped	
+civic	CIViC:4706	PubMed:36315917	ERBB3 Mutation	presence of	ERBB3	gene	sequence variation	mapped	
+civic	CIViC:306	PubMed:19718025	ERBB4 Mutation	presence of	ERBB4	gene	sequence variation	mapped	
+civic	CIViC:360	PubMed:25153719	ERBB4 NUCLEAR TRANSLOCATION	differential	ERBB4	protein	/	cannot map	This term describes a protein subcellular-localization event. The current controlled vocabulary has no approved localization aspect; proposed addition: localization or subcellular localization. Retain as cannot map pending ontology review.
+civic	CIViC:251	PubMed:26338418	ERCC5 RS751402 mutation	presence of	ERCC5	gene	sequence variation	mapped	
+civic	CIViC:3778	PubMed:35584336	ESR1 MUTATION	presence of	ESR1	gene	sequence variation	mapped	
+civic	CIViC:441	PubMed:26893365	ETS2 RS461155 mutation	presence of	ETS2	gene	sequence variation	mapped	
+civic	CIViC:3605	PubMed:33035457|PubMed:33492746	EZH2 Activating Mutation	presence of	EZH2	gene	sequence variation	mapped	
+civic	CIViC:253	PubMed:21926398	EZH2 Intron 6 Mutation	presence of	EZH2	gene	sequence variation	mapped	
+civic	CIViC:163	PubMed:26256760|PubMed:20601954	EZH2 Mutation	presence of	EZH2	gene	sequence variation	mapped	
+civic	CIViC:530	PubMed:16243825	FANCC Loss-of-function	presence of	FANCC	gene	sequence variation	mapped	
+civic	CIViC:633	PubMed:18787170|PubMed:24253377	FBXW7 Loss-of-function	presence of	FBXW7	gene	sequence variation	mapped	
+civic	CIViC:277	PubMed:24586741|PubMed:26508446	FBXW7 Mutation	presence of	FBXW7	gene	sequence variation	mapped	
+civic	CIViC:565	PubMed:21482694|PubMed:27069254	FGFR1 Fusion	presence of	FGFR1	gene	sequence variation	mapped	
+civic	CIViC:2528	PubMed:23583981	FGFR1 Internal Duplication	presence of	FGFR1	gene	sequence variation	mapped	
+civic	CIViC:2078	PubMed:26324363|PubMed:27870574|PubMed:29182496|PubMed:34358484|PubMed:30420614	FGFR2 Fusion	presence of	FGFR2	gene	sequence variation	mapped	
+civic	CIViC:507	PubMed:27870574|PubMed:29182496|PubMed:26574622	FGFR2 Mutation	presence of	FGFR2	gene	sequence variation	mapped	
+civic	CIViC:1599	PubMed:26324363	FGFR3 Fusion	presence of	FGFR3	gene	sequence variation	mapped	
+civic	CIViC:805	PubMed:27870574|PubMed:31340094|PubMed:29941343	FGFR3 Mutation	presence of	FGFR3	gene	sequence variation	mapped	
+civic	CIViC:3595	PubMed:23995526	FLCN c.1285dupC mutation	presence of	FLCN	gene	sequence variation	mapped	
+civic	CIViC:164	PubMed:9552022	FLI1 EWSR1::FLI1 e7-e6	presence of	EWSR1::FLI1	gene	sequence variation	mapped	
+civic	CIViC:609	PubMed:23969938	FLT3 D835H/Y mutation	presence of	FLT3	gene	sequence variation	mapped	
+civic	CIViC:55|CIViC:4616	PubMed:22490330|PubMed:21067377|PubMed:19965647|PubMed:17957027|PubMed:15626738|PubMed:21537333|PubMed:24801015|PubMed:16455956|PubMed:24855211|PubMed:11290608|PubMed:14726387|PubMed:18230792|PubMed:12357354|PubMed:11585760|PubMed:22368270|PubMed:24178622|PubMed:27276561|PubMed:23969938|PubMed:21482694|PubMed:27908881|PubMed:28516360|PubMed:21461300|PubMed:24981688	FLT3 ITD mutation	presence of	FLT3	gene	sequence variation	mapped	
+civic	CIViC:515	PubMed:14726504|PubMed:28546144|PubMed:28645776|PubMed:31665578	FLT3 Mutation	presence of	FLT3	gene	sequence variation	mapped	
+civic	CIViC:56	PubMed:17965322|PubMed:11290608|PubMed:18230792|PubMed:17940205|PubMed:20733134	FLT3 TKD MUTATION	presence of	FLT3	gene	sequence variation	mapped	
+civic	CIViC:328	PubMed:26033044	FNTB RS11623866 mutation	presence of	FNTB	gene	sequence variation	mapped	
+civic	CIViC:720	PubMed:26173738	FOS TRUNCATING FUSION	presence of	FOS	gene	sequence variation	mapped	
+civic	CIViC:4620	PubMed:26919435|PubMed:33536079	FOXR2 Rearrangement	presence of	FOXR2	gene	sequence variation	mapped	
+civic	CIViC:686	PubMed:26422378	GADD45A rs681673 mutation	presence of	GADD45A	gene	sequence variation	mapped	
+civic	CIViC:502	PubMed:26397223|PubMed:22805292|PubMed:24141786|PubMed:28103611	GNA11 Mutation	presence of	GNA11	gene	sequence variation	mapped	
+civic	CIViC:501	PubMed:26397223|PubMed:22805292|PubMed:24141786|PubMed:28103611	GNAQ Mutation	presence of	GNAQ	gene	sequence variation	mapped	
+civic	CIViC:851	PubMed:15824158|PubMed:17186357|PubMed:17020971|PubMed:16467086|PubMed:16033819|PubMed:19274060|PubMed:17356712|PubMed:24758907|PubMed:21156401	GNAS c.393T>C mutation	presence of	GNAS	gene	sequence variation	mapped	
+civic	CIViC:246	PubMed:25010864	GSTP1 Deletion	presence of	GSTP1	gene	sequence variation	mapped	
+civic	CIViC:2521	PubMed:29948154	H3-3A MUTATION	presence of	H3-3A	gene	sequence variation	mapped	
+civic	CIViC:429	PubMed:26872370	HIF1A 3' UTR Polymorphism	presence of	HIF1A	gene	sequence variation	mapped	
+civic	CIViC:799	PubMed:27959684	HLA-C COPY-NEUTRAL LOSS OF HETEROZYGOSITY	presence of	HLA-C	gene	sequence variation	mapped	
+civic	CIViC:271|CIViC:4715|CIViC:4748	PubMed:32636318|PubMed:26544513|PubMed:35363510|PubMed:33750196	HRAS Mutation	presence of	HRAS	gene	sequence variation	mapped	
+civic	CIViC:487	PubMed:24512910	HSPH1 T17 DELETION	presence of	HSPH1	gene	sequence variation	mapped	
+civic	CIViC:641	PubMed:29860938|PubMed:30725494|PubMed:26061751|PubMed:28148839|PubMed:31300360|PubMed:31615936	IDH1 Mutation	presence of	IDH1	gene	sequence variation	mapped	
+civic	CIViC:566	PubMed:20421455|PubMed:28193778|PubMed:28588020|PubMed:30725494|PubMed:26061751|PubMed:31615936	IDH2 Mutation	presence of	IDH2	gene	sequence variation	mapped	
+civic	CIViC:200	PubMed:19770381|PubMed:20445578|PubMed:22699455|PubMed:24366361|PubMed:24740809|PubMed:30044693|PubMed:25335741|PubMed:27815723|PubMed:29507076	IKZF1 Deletion	presence of	IKZF1	gene	sequence variation	mapped	
+civic	CIViC:2613	PubMed:19129520	IKZF1 IKZF1 deletion	presence of	IKZF1	gene	sequence variation	mapped	
+civic	CIViC:2613	PubMed:19129520	IKZF1 IKZF1 mutation	presence of	IKZF1	gene	sequence variation	mapped	
+civic	CIViC:1589	PubMed:27433843	JAK2 Splice Site (c.1641+2T>G)	presence of	JAK2	gene	sequence variation	mapped	
+civic	CIViC:611	PubMed:27433843	JAK2 c.1641+1dup mutation	presence of	JAK2	gene	sequence variation	mapped	
+civic	CIViC:1466	PubMed:18955458|PubMed:25239608	KIT A502_Y503insAY	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:951	PubMed:18955458	KIT D579del	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:66	PubMed:16551858|PubMed:10485475|PubMed:12000708|PubMed:14645423|PubMed:18955451|PubMed:18955458|PubMed:23177515|PubMed:22614970|PubMed:27371698|PubMed:15217946|PubMed:23775962|PubMed:22261812	KIT Exon 11 Mutation	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:2512	PubMed:14645423	KIT Exon 13 Mutation	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:69	PubMed:16551858	KIT Exon 14 Mutation	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:505	PubMed:16624552|PubMed:22439647|PubMed:18955458|PubMed:14645423|PubMed:18955451|PubMed:27371698|PubMed:22614970|PubMed:23177515	KIT Exon 9 Mutation	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:2494	PubMed:18955451	KIT F506_F508DUP mutation	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:67	PubMed:18421059	KIT Internal Duplication	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:2495|CIViC:2465	PubMed:18955451	KIT K484_G487DEL	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:923	PubMed:18955458	KIT K550_K558del	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:2565	PubMed:18955458	KIT K550_K559DEL	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:922	PubMed:25239608	KIT K550_W557del	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:938	PubMed:18955458	KIT K558_V559del	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:1457	PubMed:25239608	KIT K558delinsNP	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:384	PubMed:23231951|PubMed:21690468	KIT Mutation	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:1405	PubMed:25239608	KIT P551_E554delPMYE	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:478	PubMed:24178622	KIT RS3733542 mutation	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:2493|CIViC:2417	PubMed:18955451	KIT T417_D419delinsY	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:2564	PubMed:18955458	KIT V555_V559DEL	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:202|CIViC:4118|CIViC:4121|CIViC:4119|CIViC:4120|CIViC:4117|CIViC:2462|CIViC:2463|CIViC:2461|CIViC:486	PubMed:15201427|PubMed:26772734|PubMed:27371698|PubMed:23177515|PubMed:22614970|PubMed:18955458|PubMed:18955451|PubMed:14645423|PubMed:21364689	KIT V560DEL	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:1458	PubMed:25239608	KIT V560_L576DEL	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:935	PubMed:14645423|PubMed:18955458|PubMed:25239608	KIT W557_K558del	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:2520	PubMed:27371698	KIT Wildtype	absence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:920|CIViC:2484|CIViC:2394	PubMed:14645423|PubMed:16624552	KIT Y503_F504insAY	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:252	PubMed:21119596	KIT rs17084733 mutation	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:692	PubMed:21177507	KLLN PROMOTER METHYLATION	presence of	KLLN	DNA	methylation	mapped	
+civic	CIViC:4215	PubMed:29755131	KMT2C Loss	presence of	KMT2C	gene	sequence variation	mapped	
+civic	CIViC:664|CIViC:1696	PubMed:25303977	KMT2C MUTATION	presence of	KMT2C	gene	sequence variation	mapped	
+civic	CIViC:167	PubMed:21796119	KMT2D Loss-of-function	presence of	KMT2D	gene	sequence variation	mapped	
+civic	CIViC:3210	PubMed:24642870	KRAS A11_G12insGA	presence of	KRAS	gene	sequence variation	mapped	
+civic	CIViC:75	PubMed:24559322|PubMed:16618717|PubMed:18946061|PubMed:27037411|PubMed:25322874|PubMed:17590872|PubMed:22180495|PubMed:21862683|PubMed:23435671|PubMed:19903786	KRAS Exon 2 Mutation	presence of	KRAS	gene	sequence variation	mapped	
+civic	CIViC:3209	PubMed:24642870	KRAS G10_A11insG	presence of	KRAS	gene	sequence variation	mapped	
+civic	CIViC:77	PubMed:20619739|PubMed:18202412|PubMed:18316791|PubMed:19603024|PubMed:19223544|PubMed:15696205|PubMed:24915778	KRAS G12/G13 mutation	presence of	KRAS	gene	sequence variation	mapped	
+civic	CIViC:332|CIViC:4715|CIViC:4748	PubMed:22169769|PubMed:23934108|PubMed:26881434|PubMed:35363510|PubMed:21890455|PubMed:20956938|PubMed:25199829|PubMed:24685132|PubMed:24947927|PubMed:23434733|PubMed:21985784|PubMed:23828442|PubMed:26709701|PubMed:22586653|PubMed:20619739|PubMed:26666244|PubMed:27167191|PubMed:28275037|PubMed:24166148|PubMed:25294897|PubMed:21847063|PubMed:22810899|PubMed:23200175|PubMed:22805291|PubMed:22025157|PubMed:21258250|PubMed:28492898|PubMed:21969500|PubMed:27217383|PubMed:27876675|PubMed:28525386|PubMed:28259530|PubMed:25722381|PubMed:26802155|PubMed:26209642|PubMed:20038723|PubMed:24265155|PubMed:25968887|PubMed:32822286|PubMed:26725216|PubMed:27502722	KRAS Mutation	presence of	KRAS	gene	sequence variation	mapped	
+civic	CIViC:250	PubMed:22139083|PubMed:25081901	KRAS RS61764370 mutation	presence of	KRAS	gene	sequence variation	mapped	
+civic	CIViC:3069	PubMed:26161928	KRAS Wildtype	absence of	KRAS	gene	sequence variation	mapped	
+civic	CIViC:643|CIViC:679|CIViC:1645	PubMed:26428308|PubMed:22896685	LRP1B DELETION	presence of	LRP1B	gene	sequence variation	mapped	
+civic	CIViC:262	PubMed:22896685	LRP1B EXON 12-22 DELETION	presence of	LRP1B	gene	sequence variation	mapped	
+civic	CIViC:651|CIViC:1661	PubMed:26324360	MAP2K1 Q56_V60del	presence of	MAP2K1	gene	sequence variation	mapped	
+civic	CIViC:638	PubMed:27414035	MDM2 RS34886328 mutation	presence of	MDM2	gene	sequence variation	mapped	
+civic	CIViC:491	PubMed:26916894	MDM2 SNP309 mutation	presence of	MDM2	gene	sequence variation	mapped	
+civic	CIViC:663	PubMed:25625803	MEN1 FRAMESHIFT TRUNCATION	presence of	MEN1	gene	sequence variation	mapped	
+civic	CIViC:320	PubMed:26547802|PubMed:25971938|PubMed:25971939|PubMed:26729443|PubMed:26845194|PubMed:25769807|PubMed:160289|PubMed:123413|PubMed:26892698|PubMed:32877583	MET Exon 14 Skipping Mutation	presence of	MET	gene	sequence variation	mapped	
+civic	CIViC:319	PubMed:23213094	MET Mutation	presence of	MET	gene	sequence variation	mapped	
+civic	CIViC:4366	PubMed:26729443	MET Splice Site (c.3028G>A)	presence of	MET	gene	sequence variation	mapped	
+civic	CIViC:85	PubMed:11070098|PubMed:15758010|PubMed:19901104	MGMT Promoter Methylation	presence of	MGMT	DNA	methylation	mapped	
+civic	CIViC:334	PubMed:25910840	MGMT RS16906252 mutation	presence of	MGMT	gene	sequence variation	mapped	
+civic	CIViC:727	PubMed:25111426	MLH1 D667FS mutation	presence of	MLH1	gene	sequence variation	mapped	
+civic	CIViC:706	PubMed:25111426	MLH1 E13fs mutation	presence of	MLH1	gene	sequence variation	mapped	
+civic	CIViC:711	PubMed:25111426	MLH1 G606FS*2 mutation	presence of	MLH1	gene	sequence variation	mapped	
+civic	CIViC:714|CIViC:1796	PubMed:25111426	MLH1 K618DEL	presence of	MLH1	gene	sequence variation	mapped	
+civic	CIViC:4733	PubMed:31765263	MLH1 Loss	presence of	MLH1	gene	sequence variation	mapped	
+civic	CIViC:534|CIViC:1315	PubMed:24748501	MLH1 METHYLATION	presence of	MLH1	DNA	methylation	mapped	
+civic	CIViC:737	PubMed:25111426	MLH1 P536FS mutation	presence of	MLH1	gene	sequence variation	mapped	
+civic	CIViC:725	PubMed:25111426	MLH1 Q426FS mutation	presence of	MLH1	gene	sequence variation	mapped	
+civic	CIViC:716	PubMed:25111426	MLH1 R687FS mutation	presence of	MLH1	gene	sequence variation	mapped	
+civic	CIViC:731	PubMed:25111426	MLH1 V213FS mutation	presence of	MLH1	gene	sequence variation	mapped	
+civic	CIViC:712	PubMed:25111426	MLH1 c.790+1G>A mutation	presence of	MLH1	gene	sequence variation	mapped	
+civic	CIViC:483	PubMed:24327581|PubMed:26921265	MMP2 SERUM LEVELS	differential	MMP2	protein	level	mapped	
+civic	CIViC:484	PubMed:26921265	MMP9 SERUM LEVELS	differential	MMP9	protein	level	mapped	
+civic	CIViC:424	PubMed:26510020	MRE11 Frameshift	presence of	MRE11	gene	sequence variation	mapped	
+civic	CIViC:366	PubMed:24927325	MRE11 Loss	presence of	MRE11	gene	sequence variation	mapped	
+civic	CIViC:3886	PubMed:32589730	MS4A1 Mutation	presence of	MS4A1	gene	sequence variation	mapped	
+civic	CIViC:744	PubMed:25111426	MSH2 E28FS mutation	presence of	MSH2	gene	sequence variation	mapped	
+civic	CIViC:4733|CIViC:786	PubMed:31765263|PubMed:26674132	MSH2 Loss	presence of	MSH2	gene	sequence variation	mapped	
+civic	CIViC:743	PubMed:25111426	MSH2 V273FS mutation	presence of	MSH2	gene	sequence variation	mapped	
+civic	CIViC:746	PubMed:25111426	MSH6 I891FS mutation	presence of	MSH6	gene	sequence variation	mapped	
+civic	CIViC:787|CIViC:1878	PubMed:26674132	MSH6 LOSS	presence of	MSH6	gene	sequence variation	mapped	
+civic	CIViC:273	PubMed:24625776|PubMed:26490311	MTOR Mutation	presence of	MTOR	gene	sequence variation	mapped	
+civic	CIViC:4218	PubMed:23633565|PubMed:26810070|PubMed:31595312	MYB Rearrangement	presence of	MYB	gene	sequence variation	mapped	
+civic	CIViC:4878	PubMed:26810070|PubMed:31563982|PubMed:23633565	MYBL1 Rearrangement	presence of	MYBL1	gene	sequence variation	mapped	
+civic	CIViC:370	PubMed:24097869	NAPRT Promoter Hypermethylation	increased	NAPRT	DNA	methylation	mapped	
+civic	CIViC:4748	PubMed:35363510	NF1 Inactivating Mutation	presence of	NF1	gene	sequence variation	mapped	
+civic	CIViC:679	PubMed:24373973	NF1 Loss	presence of	NF1	gene	sequence variation	mapped	
+civic	CIViC:4715|CIViC:583	PubMed:35363510|PubMed:31151904|PubMed:28029918|PubMed:23171796|PubMed:23288408	NF1 Mutation	presence of	NF1	gene	sequence variation	mapped	
+civic	CIViC:275	PubMed:25878190	NF2 K159fs mutation	presence of	NF2	gene	sequence variation	mapped	
+civic	CIViC:678	PubMed:26359368	NF2 Loss	presence of	NF2	gene	sequence variation	mapped	
+civic	CIViC:241	PubMed:25798586	NF2 Y177fs mutation	presence of	NF2	gene	sequence variation	mapped	
+civic	CIViC:2871	PubMed:21294614	NF2 c.1396C>T mutation	presence of	NF2	gene	sequence variation	mapped	
+civic	CIViC:2618	PubMed:174406	NFE2L2 Mutation	presence of	NFE2L2	gene	sequence variation	mapped	
+civic	CIViC:597	PubMed:24277854	NOTCH1 Loss-of-function	presence of	NOTCH1	gene	sequence variation	mapped	
+civic	CIViC:206	PubMed:23086750|PubMed:24943832|PubMed:26837699|PubMed:22210878	NOTCH1 Mutation	presence of	NOTCH1	gene	sequence variation	mapped	
+civic	CIViC:207	PubMed:21670202|PubMed:22077063	NOTCH1 P2514FS mutation	presence of	NOTCH1	gene	sequence variation	mapped	
+civic	CIViC:138	PubMed:20007775	NOTCH1 S2275FS mutation	presence of	NOTCH1	gene	sequence variation	mapped	
+civic	CIViC:137	PubMed:20007775	NOTCH1 V2444FS mutation	presence of	NOTCH1	gene	sequence variation	mapped	
+civic	CIViC:86	PubMed:16455956|PubMed:16076867|PubMed:19357394|PubMed:17957027|PubMed:19059939|PubMed:19965647|PubMed:22417203|PubMed:24797300|PubMed:21719597|PubMed:24927407|PubMed:15659725|PubMed:19047294|PubMed:24855211|PubMed:22430270|PubMed:18450602|PubMed:20026798|PubMed:16051734|PubMed:19587375|PubMed:24859829|PubMed:26789727|PubMed:16046528	NPM1 EXON 12 MUTATION	presence of	NPM1	gene	sequence variation	mapped	
+civic	CIViC:87	PubMed:21067377|PubMed:21719597|PubMed:15659725	NPM1 W288FS mutation	presence of	NPM1	gene	sequence variation	mapped	
+civic	CIViC:592	PubMed:27276561	NRAS G12/G13 mutation	presence of	NRAS	gene	sequence variation	mapped	
+civic	CIViC:208|CIViC:4715|CIViC:4748	PubMed:15951308|PubMed:25504439|PubMed:33637626|PubMed:35363510|PubMed:24666267|PubMed:22586653|PubMed:20619739|PubMed:28275037|PubMed:22180178|PubMed:24947927|PubMed:22805292|PubMed:23431193|PubMed:24588908|PubMed:24265155|PubMed:18528420|PubMed:25542057|PubMed:23414587|PubMed:24950457|PubMed:26987942|PubMed:28284557	NRAS Mutation	presence of	NRAS	gene	sequence variation	mapped	
+civic	CIViC:2162	PubMed:29610121|PubMed:29802158	NRG1 Fusion	presence of	NRG1	gene	sequence variation	mapped	
+civic	CIViC:2767	PubMed:23377183	NT5C2 Mutation	presence of	NT5C2	gene	sequence variation	mapped	
+civic	CIViC:415	PubMed:28183697|PubMed:26603524|PubMed:31838007|PubMed:29466156|PubMed:26716414|PubMed:24162815|PubMed:29606586	NTRK1 Fusion	presence of	NTRK1	gene	sequence variation	mapped	
+civic	CIViC:2509	PubMed:32105622|PubMed:31838007	NTRK2 Fusion	presence of	NTRK2	gene	sequence variation	mapped	
+civic	CIViC:1251	PubMed:28183697|PubMed:31838007|PubMed:29466156	NTRK3 Fusion	presence of	NTRK3	gene	sequence variation	mapped	
+civic	CIViC:528	PubMed:21135251|PubMed:26510020	PALB2 Biallelic Inactivation	presence of	PALB2	gene	sequence variation	mapped	
+civic	CIViC:537	PubMed:18628482	PALB2 L531FS*30 mutation	presence of	PALB2	gene	sequence variation	mapped	
+civic	CIViC:2628	PubMed:32343890	PALB2 Mutation	presence of	PALB2	gene	sequence variation	mapped	
+civic	CIViC:161	PubMed:23620406|PubMed:23333114	PBRM1 Mutation	presence of	PBRM1	gene	sequence variation	mapped	
+civic	CIViC:917|CIViC:2460	PubMed:14645423	PDGFRA D842_H845DELDIMH	presence of	PDGFRA	gene	sequence variation	mapped	
+civic	CIViC:102	PubMed:22745105	PDGFRA D842_I843delinsVM	presence of	PDGFRA	gene	sequence variation	mapped	
+civic	CIViC:2496	PubMed:18955451	PDGFRA Exon 18 Mutation	presence of	PDGFRA	gene	sequence variation	mapped	
+civic	CIViC:563	PubMed:27069254	PDGFRA Fusion	presence of	PDGFRA	gene	sequence variation	mapped	
+civic	CIViC:101|CIViC:1309|CIViC:46	PubMed:22745105|PubMed:14645423	PDGFRA I843DEL	presence of	PDGFRA	gene	sequence variation	mapped	
+civic	CIViC:3143	PubMed:14645423	PDGFRA Mutation	presence of	PDGFRA	gene	sequence variation	mapped	
+civic	CIViC:564	PubMed:27069254|PubMed:16960151	PDGFRB Fusion	presence of	PDGFRB	gene	sequence variation	mapped	
+civic	CIViC:4636	PubMed:18371219	PIK3CA EXON 20 MUTATION	presence of	PIK3CA	gene	sequence variation	mapped	
+civic	CIViC:4636	PubMed:18371219	PIK3CA EXON 9 MUTATION	presence of	PIK3CA	gene	sequence variation	mapped	
+civic	CIViC:106|CIViC:1867	PubMed:17947469|PubMed:20619739|PubMed:22357840	PIK3CA Exon 10 Mutation	presence of	PIK3CA	gene	sequence variation	mapped	
+civic	CIViC:1867|CIViC:106|CIViC:3179	PubMed:22357840|PubMed:20619739|PubMed:19903786	PIK3CA Exon 10 mutation	presence of	PIK3CA	gene	sequence variation	mapped	
+civic	CIViC:105|CIViC:1867	PubMed:17947469|PubMed:20619739|PubMed:22357840	PIK3CA Exon 21 Mutation	presence of	PIK3CA	gene	sequence variation	mapped	
+civic	CIViC:1867|CIViC:105|CIViC:3179	PubMed:22357840|PubMed:20619739|PubMed:19903786	PIK3CA Exon 21 mutation	presence of	PIK3CA	gene	sequence variation	mapped	
+civic	CIViC:307	PubMed:25002028|PubMed:21358673|PubMed:19671852|PubMed:21594665|PubMed:17575221|PubMed:31091374|PubMed:25855885|PubMed:24608574|PubMed:22294718|PubMed:28489509|PubMed:35133871|PubMed:35138919|PubMed:25242168|PubMed:23435830|PubMed:22586653|PubMed:17590872|PubMed:20619739|PubMed:19603024|PubMed:19223544|PubMed:23094721|PubMed:24166148|PubMed:23674493|PubMed:23619167|PubMed:26589432|PubMed:30683736|PubMed:27091708|PubMed:17936563|PubMed:26920887|PubMed:21258250|PubMed:24088382	PIK3CA Mutation	presence of	PIK3CA	gene	sequence variation	mapped	
+civic	CIViC:3091	PubMed:19671852	PIK3CA Rare Mutation	presence of	PIK3CA	gene	sequence variation	mapped	
+civic	CIViC:2463	PubMed:23094721	PIK3CA Wildtype	absence of	PIK3CA	gene	sequence variation	mapped	
+civic	CIViC:629	PubMed:21358673	PIK3R1 Mutation	presence of	PIK3R1	gene	sequence variation	mapped	
+civic	CIViC:2046|CIViC:5834	PubMed:24869598	PLCG2 MUTATION	presence of	PLCG2	gene	sequence variation	mapped	
+civic	CIViC:457	PubMed:23670176	PML B2 DOMAIN MUTATION	presence of	PML	gene	sequence variation	mapped	
+civic	CIViC:504	PubMed:27001570	PMS2 K706FS*19 mutation	presence of	PMS2	gene	sequence variation	mapped	
+civic	CIViC:775	PubMed:27159395|PubMed:27683556	POLE Mutation	presence of	POLE	gene	sequence variation	mapped	
+civic	CIViC:619|CIViC:1590	PubMed:27226433	POT1 MUTATION	presence of	POT1	gene	sequence variation	mapped	
+civic	CIViC:544	PubMed:27177629	PPP1R15A RS557806 mutation	presence of	PPP1R15A	gene	sequence variation	mapped	
+civic	CIViC:4387	PubMed:32343890	PPP2R2A Mutation	presence of	PPP2R2A	gene	sequence variation	mapped	
+civic	CIViC:640|CIViC:1717|CIViC:1638	PubMed:27568520	PRDM1 MUTATION	presence of	PRDM1	gene	sequence variation	mapped	
+civic	CIViC:381	PubMed:23506848	PRKAA2 T172 PHOSPHORYLATION	presence of	PRKAA2	protein	phosphorylation	mapped	
+civic	CIViC:2785	PubMed:25962120	PRPS1 PRPS1 MUTATION	presence of	PRPS1	gene	sequence variation	mapped	
+civic	CIViC:298	PubMed:26169613	PTCH1 LOH mutation	presence of	PTCH1	gene	sequence variation	mapped	
+civic	CIViC:297	PubMed:29320312|PubMed:24651015	PTCH1 Mutation	presence of	PTCH1	gene	sequence variation	mapped	
+civic	CIViC:213	PubMed:17700571|PubMed:23582881|PubMed:27470558	PTEN Deletion	presence of	PTEN	gene	sequence variation	mapped	
+civic	CIViC:214	PubMed:23989949|PubMed:24387334|PubMed:25398829|PubMed:25409150|PubMed:21358673|PubMed:21594665|PubMed:20453058|PubMed:25672916|PubMed:22294718|PubMed:28330462|PubMed:28281183|PubMed:21163703|PubMed:19223544|PubMed:24166148|PubMed:23674493|PubMed:25300346|PubMed:27091708|PubMed:17936563|PubMed:20813970|PubMed:15324695|PubMed:19010894|PubMed:26920887|PubMed:24735930|PubMed:24265155|PubMed:15790433|PubMed:22025163|PubMed:11504908|PubMed:24088382|PubMed:15900596	PTEN Loss	presence of	PTEN	gene	sequence variation	mapped	
+civic	CIViC:506	PubMed:23287563|PubMed:23238879|PubMed:9331072|PubMed:25855885|PubMed:26589432|PubMed:25544636	PTEN Mutation	presence of	PTEN	gene	sequence variation	mapped	
+civic	CIViC:601	PubMed:24504448	PTEN V317FS mutation	presence of	PTEN	gene	sequence variation	mapped	
+civic	CIViC:797	PubMed:24633157	PTPRB Loss-of-function	presence of	PTPRB	gene	sequence variation	mapped	
+civic	CIViC:323	PubMed:26267899	PTPRD Mutation	presence of	PTPRD	gene	sequence variation	mapped	
+civic	CIViC:329	PubMed:25982282	PTPRT Promoter Hypermethylation	increased	PTPRT	DNA	methylation	mapped	
+civic	CIViC:4393	PubMed:32343890	RAD51B Mutation	presence of	RAD51B	gene	sequence variation	mapped	
+civic	CIViC:4395	PubMed:32343890	RAD51D Mutation	presence of	RAD51D	gene	sequence variation	mapped	
+civic	CIViC:4388	PubMed:32343890	RAD54L Mutation	presence of	RAD54L	gene	sequence variation	mapped	
+civic	CIViC:2111	PubMed:29127119	RASA1 Loss-of-function	presence of	RASA1	gene	sequence variation	mapped	
+civic	CIViC:602	PubMed:20473330|PubMed:20354191	RB1 Loss-of-function	presence of	RB1	gene	sequence variation	mapped	
+civic	CIViC:634	PubMed:27020857	RB1 M695FS*26 mutation	presence of	RB1	gene	sequence variation	mapped	
+civic	CIViC:777	PubMed:26802149	RB1 Mutation	presence of	RB1	gene	sequence variation	mapped	
+civic	CIViC:628|CIViC:1609	PubMed:25002028	RB1 PHOSPHORYLATION	presence of	RB1	protein	phosphorylation	mapped	
+civic	CIViC:4750	PubMed:35050752	RB1 Wildtype	absence of	RB1	gene	sequence variation	mapped	
+civic	CIViC:1595	PubMed:27825636|PubMed:27803005|PubMed:27825616|PubMed:27544060|PubMed:161573|PubMed:32846060|PubMed:34118197|PubMed:32846061|PubMed:34118198	RET Fusion	presence of	RET	gene	sequence variation	mapped	
+civic	CIViC:1598	PubMed:32846061	RET Mutation	presence of	RET	gene	sequence variation	mapped	
+civic	CIViC:661|CIViC:1683	PubMed:27313181	RHOA MUTATION	presence of	RHOA	gene	sequence variation	mapped	
+civic	CIViC:293	PubMed:24469055	RIT1 Mutation	presence of	RIT1	gene	sequence variation	mapped	
+civic	CIViC:2562	PubMed:30980071|PubMed:31838015	ROS1 Fusion	presence of	ROS1	gene	sequence variation	mapped	
+civic	CIViC:265|CIViC:4708	PubMed:22215748|PubMed:28183697|PubMed:35233056|PubMed:24296758|PubMed:26917690|PubMed:25922291|PubMed:25264305|PubMed:25667280|PubMed:29596029	ROS1 Rearrangement	presence of	ROS1	gene	sequence variation	mapped	
+civic	CIViC:391|CIViC:930	PubMed:22343617	RPS6 PHOSPHORYLATION	presence of	RPS6	protein	phosphorylation	mapped	
+civic	CIViC:155	PubMed:23341344|PubMed:21343560|PubMed:22753902|PubMed:27137476	RUNX1 Mutation	presence of	RUNX1	gene	sequence variation	mapped	
+civic	CIViC:782	PubMed:11830488	RUNX1 R135FSX177 mutation	presence of	RUNX1	gene	sequence variation	mapped	
+civic	CIViC:788	PubMed:18478040	RUNX1 T148HFSX9 mutation	presence of	RUNX1	gene	sequence variation	mapped	
+civic	CIViC:2284	PubMed:20193854	SDHB p.193_196dupSTSC (c.577_588dupAGCACCAGCTGC)	presence of	SDHB	gene	sequence variation	mapped	
+civic	CIViC:346	PubMed:23222956	SETBP1 Exon 4 Mutation	presence of	SETBP1	gene	sequence variation	mapped	
+civic	CIViC:215	PubMed:23568491|PubMed:23086750|PubMed:24943832|PubMed:26837699|PubMed:21995386	SF3B1 Mutation	presence of	SF3B1	gene	sequence variation	mapped	
+civic	CIViC:680	PubMed:26621817	SH2B3 RS3184504 mutation	presence of	SH2B3	gene	sequence variation	mapped	
+civic	CIViC:758	PubMed:23652803	SLCO1B1 RS4149056 mutation	presence of	SLCO1B1	gene	sequence variation	mapped	
+civic	CIViC:642	PubMed:12237773	SMAD4 Deletion	presence of	SMAD4	gene	sequence variation	mapped	
+civic	CIViC:560|CIViC:1412	PubMed:19273710	SMAD4 LOSS	presence of	SMAD4	gene	sequence variation	mapped	
+civic	CIViC:216	PubMed:26508446|PubMed:19584151	SMAD4 Mutation	presence of	SMAD4	gene	sequence variation	mapped	
+civic	CIViC:218	PubMed:24658004	SMARCA4 INACTIVATING MUTATION	presence of	SMARCA4	gene	sequence variation	mapped	
+civic	CIViC:2513	PubMed:30718506	SMARCA4 Loss	presence of	SMARCA4	gene	sequence variation	mapped	
+civic	CIViC:217|CIViC:513	PubMed:24658004	SMARCA4 MUTATION	presence of	SMARCA4	gene	sequence variation	mapped	
+civic	CIViC:677	PubMed:23620515	SMARCB1 Deletion	presence of	SMARCB1	gene	sequence variation	mapped	
+civic	CIViC:3071	PubMed:15105654|PubMed:30980040|PubMed:22686875|PubMed:28558987	SMARCB1 Loss	presence of	SMARCB1	gene	sequence variation	mapped	
+civic	CIViC:296	PubMed:25759020|PubMed:26546616|PubMed:29320312	SMO Mutation	presence of	SMO	gene	sequence variation	mapped	
+civic	CIViC:668	PubMed:24670642	SOX10 Loss	presence of	SOX10	gene	sequence variation	mapped	
+civic	CIViC:591|CIViC:1514	PubMed:27276561	SRSF2 MUTATION	presence of	SRSF2	gene	sequence variation	mapped	
+civic	CIViC:665	PubMed:24335498|PubMed:25186949	STAG2 MUTATION	presence of	STAG2	gene	sequence variation	mapped	
+civic	CIViC:407	PubMed:22591296	STAT3 SH2 DOMAIN MUTATION	presence of	STAT3	gene	sequence variation	mapped	
+civic	CIViC:299	PubMed:26625312	STK11 EXON 1-2 MUTATION	presence of	STK11	gene	sequence variation	mapped	
+civic	CIViC:481	PubMed:22425996|PubMed:26027660|PubMed:18281551|PubMed:19541609|PubMed:12865922	STK11 Loss	presence of	STK11	gene	sequence variation	mapped	
+civic	CIViC:696	PubMed:29773717|PubMed:26979979	STK11 Mutation	presence of	STK11	gene	sequence variation	mapped	
+civic	CIViC:220	PubMed:26765760|PubMed:29948154|PubMed:23955565|PubMed:23530248|PubMed:25217772|PubMed:23766237	TERT Promoter Mutation	presence of	TERT	gene	sequence variation	mapped	
+civic	CIViC:417	PubMed:26765760	TERT RS2736100 mutation	presence of	TERT	gene	sequence variation	mapped	
+civic	CIViC:157	PubMed:22430270|PubMed:21343549|PubMed:21828143|PubMed:19666869	TET2 Mutation	presence of	TET2	gene	sequence variation	mapped	
+civic	CIViC:3598	PubMed:26169997|PubMed:26975036|PubMed:19228722|PubMed:34986355	TFE3 Fusion	presence of	TFE3	gene	sequence variation	mapped	
+civic	CIViC:4747	PubMed:34986355|PubMed:22895266|PubMed:15644781	TFEB Fusion	presence of	TFEB	gene	sequence variation	mapped	
+civic	CIViC:1281|CIViC:3014|CIViC:2771	PubMed:11595686|PubMed:34166060	TP53 ALTERATION	differential	TP53	gene	sequence variation	uncertain	Alteration is broad,so I used differential and flagged for review.
+civic	CIViC:1274	PubMed:11595686	TP53 CONSERVED DOMAIN MUT	presence of	TP53	gene	sequence variation	mapped	
+civic	CIViC:238	PubMed:10786679|PubMed:12509970	TP53 DNA Binding Domain Mutation	presence of	TP53	gene	sequence variation	mapped	
+civic	CIViC:221	PubMed:25730903|PubMed:17671205|PubMed:22090360|PubMed:26459177|PubMed:26899019|PubMed:26646755	TP53 Deleterious Mutation	presence of	TP53	gene	sequence variation	mapped	
+civic	CIViC:4407	PubMed:22425996	TP53 Loss	presence of	TP53	gene	sequence variation	mapped	
+civic	CIViC:222	PubMed:26771088|PubMed:15922892|PubMed:22699455|PubMed:21747090|PubMed:22698404|PubMed:10786679|PubMed:25669829|PubMed:8241511|PubMed:18689542|PubMed:20697090|PubMed:21483000|PubMed:14726385|PubMed:24943832|PubMed:26837699|PubMed:19941080|PubMed:24740294|PubMed:8901856|PubMed:11325447|PubMed:22425996|PubMed:28453411|PubMed:28545823|PubMed:24836762|PubMed:17215851|PubMed:14514923	TP53 Mutation	presence of	TP53	gene	sequence variation	mapped	
+civic	CIViC:223	PubMed:21467160	TP53 Truncating Mutation	presence of	TP53	gene	sequence variation	mapped	
+civic	CIViC:365	PubMed:17671205|PubMed:25730903|PubMed:24957073|PubMed:23515910|PubMed:26459177|PubMed:26899019	TP53 Wildtype	absence of	TP53	gene	sequence variation	mapped	
+civic	CIViC:124	PubMed:22923433|PubMed:19966866	TSC1 Frameshift Truncation	presence of	TSC1	gene	sequence variation	mapped	
+civic	CIViC:125	PubMed:22923433	TSC1 Loss-of-function	presence of	TSC1	gene	sequence variation	mapped	
+civic	CIViC:261	PubMed:20628391	TYMS 5' TANDEM REPEAT	presence of	TYMS	gene	sequence variation	mapped	
+civic	CIViC:760	PubMed:23652803	TYMS RS34743033 mutation	presence of	TYMS	gene	sequence variation	mapped	
+civic	CIViC:517|CIViC:1262	PubMed:27058230	U2AF1 MUTATION	presence of	U2AF1	gene	sequence variation	mapped	
+civic	CIViC:127	PubMed:23029227|PubMed:23861105	U2AF1 Q157P/R mutation	presence of	U2AF1	gene	sequence variation	mapped	
+civic	CIViC:128	PubMed:23029227|PubMed:23861105	U2AF1 S34Y/F mutation	presence of	U2AF1	gene	sequence variation	mapped	
+civic	CIViC:710	PubMed:26313268	UGT1A1 UGT1A1*28 mutation	presence of	UGT1A1	gene	sequence variation	mapped	
+civic	CIViC:713	PubMed:26313268	UGT1A1 UGT1A1*60 mutation	presence of	UGT1A1	gene	sequence variation	mapped	
+civic	CIViC:2799	PubMed:11850829	VHL 106insR (c.316insGCC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2028	PubMed:22357542	VHL 3'UTR alteration (c.*70C>A)	differential	VHL	gene	sequence variation	uncertain	Alteration is broad,so I used differential and flagged for review.
+civic	CIViC:1900	PubMed:11409863	VHL 3'UTR alteration (c.639+10C>G)	differential	VHL	gene	sequence variation	uncertain	Alteration is broad,so I used differential and flagged for review.
+civic	CIViC:2240	PubMed:26365017	VHL 3p26.3-25.3 11Mb del	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1918	PubMed:12114495	VHL A149fs (c.445delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1899	PubMed:11409863	VHL A149fs (c.449del14-nt)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:752	PubMed:17024664	VHL A56FS (c.164_165insG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2141	PubMed:7977367	VHL A56_P59del (c.166_178del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:771	PubMed:7987306	VHL A56fs (c.164_165insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1661	PubMed:7987306	VHL A56fs (c.166_167insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2020	PubMed:17024664	VHL A56fs (c.166dup)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1911	PubMed:20846682	VHL C162fs (c.483del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2965	PubMed:8707293|PubMed:11850829	VHL C77_N78insL (c.230_231insTCT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2008	PubMed:7987306|PubMed:17024664	VHL C77fs (c.228dup)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:3114	PubMed:8634692	VHL C77fs (c.230del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2426	PubMed:7915601	VHL D121_A122del (c.361_366del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1794	PubMed:21463266	VHL D126FS (c.375_376insC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1720	PubMed:9829911	VHL D143fs (c.430delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2017	PubMed:17024664	VHL D197FS (c.589delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2801	PubMed:26763786	VHL Deletion	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1795	PubMed:21463266|PubMed:20660572	VHL E160FS (c.479_480delAG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1974	PubMed:9829911	VHL E160fs (c.477del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1745	PubMed:17661816|PubMed:24132471	VHL E189fs (c.565del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:745	PubMed:10408776	VHL E55FS (c.163_164delGA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:747	PubMed:8956040	VHL E55RfsTer11 (c.163delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2003	PubMed:10862095	VHL E94FS (c.279delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1816	PubMed:25867206	VHL EXON 2-3 DELETION	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:818	PubMed:20151405|PubMed:21972040|PubMed:25867206	VHL Exon 1 Deletion	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:819	PubMed:20151405	VHL Exon 1-2 Deletion	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:817	PubMed:20151405|PubMed:25867206	VHL Exon 1-3 Deletion	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1814	PubMed:25867206	VHL Exon 2 Deletion	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1815	PubMed:22357542|PubMed:28256701|PubMed:26584481|PubMed:25867206	VHL Exon 3 Deletion	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1964	PubMed:7728151|PubMed:21463266|PubMed:8641976|PubMed:10761708|PubMed:11409863|PubMed:20660572|PubMed:7987306|PubMed:9829911|PubMed:9829912|PubMed:23143947|PubMed:17024664|PubMed:17661816|PubMed:20151405|PubMed:22357542|PubMed:25867206|PubMed:26763786|PubMed:25078357	VHL F76del (c.224_226delTCT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:3026	PubMed:14722919|PubMed:8634692	VHL F76del (c.227_229del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1788	PubMed:19270817	VHL F76fs (c.223_224insT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2328	PubMed:25867206	VHL G114Vfs*45 (c.339delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2005	PubMed:17024664	VHL G114dup (c.342dupGGT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2011	PubMed:17024664	VHL G123fs (c.369_375delGACACAC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:3116	PubMed:8634692	VHL G144fs (c.429_439del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1825	PubMed:21972040	VHL G144fs (c.432insG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1973	PubMed:9829911	VHL G93_Y98del (c.275_292del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1933	PubMed:12624160	VHL H115fs (c.344del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2012	PubMed:17024664	VHL H125fs (c.374insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1834	PubMed:9829912	VHL H191FS (c.571delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2010	PubMed:17024664	VHL Intronic deletion (c.341-13delCGTTTCCAACAATTTCTCGGTGT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1748	PubMed:9829912	VHL K159fs (c.473dup)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2013	PubMed:17024664	VHL K159fs (c.474_476delGAAinsC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1916	PubMed:12114495	VHL K159fs (c.477_478insCA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2016	PubMed:17024664	VHL K196fs (c.584_585delAG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1717	PubMed:9829911	VHL L118fs (c.352_353insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1872	PubMed:8707293	VHL L129fs (c.384delT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1782	PubMed:17024664	VHL L135fs (c.404del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1836	PubMed:9829912	VHL L140fs (c.417_418delTC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1678	PubMed:7987306|PubMed:17024664	VHL L153fs (c.457delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1659	PubMed:8956040	VHL L158fs (c.471dupT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2015	PubMed:17024664	VHL L188fs (c.562delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:432	PubMed:16341243	VHL Loss	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:159	PubMed:11793370	VHL Loss-of-function	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:820	PubMed:15932632	VHL M1FS (c.1_17del17)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:807	PubMed:8187067	VHL M54IFS (c.162_166delGGAGG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1765	PubMed:17024664|PubMed:9829912	VHL M54fs (c.161dup)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:160	PubMed:18464292|PubMed:23620406|PubMed:23881929|PubMed:28103578|PubMed:26951309	VHL Mutation	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1676	PubMed:7987306|PubMed:17024664	VHL N131fs (c.390_391del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1905	PubMed:20660572	VHL N150fs (c.445_458del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2434	PubMed:7915601	VHL N150fs (c.447del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1646	PubMed:7728151	VHL N150fs (c.449del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2058	PubMed:8634692|PubMed:20660572	VHL Null (Large deletion)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1912	PubMed:20846682	VHL Null (Partial deletion of Exons 2 & 3)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1934	PubMed:12624160	VHL P102fs (c.305delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1671	PubMed:17024664	VHL P103FS (c.309_310delTG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1931	PubMed:12624160	VHL P146fs (c.437del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1647	PubMed:7728151	VHL P154fs (c.462delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1966	PubMed:7987306	VHL P40fs (c.118ins)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:825	PubMed:19270817	VHL P59fs (c.173_174insC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1805	PubMed:17024664	VHL P59fs (c.176delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2021	PubMed:17024664	VHL P61FS (c.182_185delCCGT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1890	PubMed:11409863	VHL P61fs (c.183insC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1831	PubMed:9829912	VHL P71fs (c.211insT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1634	PubMed:7728151	VHL P86fs (c.254_255insC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1917	PubMed:12114495	VHL Q73FS (c.217delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2007	PubMed:17024664	VHL Q73fs (c.214insGCCC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:3115	PubMed:8634692	VHL Q96_P97delinsH (c.288_290del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1897	PubMed:11409863	VHL R108dup (c.322_324dup)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2019	PubMed:17024664	VHL R113FS (c.337delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:3113	PubMed:8634692	VHL R120fs (c.358_359insAC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1656	PubMed:17024664	VHL R176fs (c.526del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1783	PubMed:17024664|PubMed:7987306	VHL R177fs (c.528del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2057	PubMed:9829912	VHL R177ins (c.531insCTGAGAGTAAAGCCTGAA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1840	PubMed:9829912	VHL R60FS (c.179delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1824	PubMed:21972040	VHL R69fs (c.204insG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2321	PubMed:25867206	VHL R79_S80del (c.236_241delGCAGTC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1965	PubMed:7987306|PubMed:17024664	VHL R82_V84del (c.243_251del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2140	PubMed:7728151	VHL R82_V84del (c.244_252del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2312	PubMed:24132471|PubMed:26763786	VHL Rearrangement	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1638	PubMed:7728151	VHL S111FS (c.331delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2006	PubMed:17024664	VHL S65FS (c.194delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1692	PubMed:17024664	VHL S72fs (c.214del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2384	PubMed:8634692	VHL S80fs (c.239del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1980	PubMed:21972040	VHL Splice Region (c.340+5G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2168	PubMed:9663592	VHL Splice Region (c.463+8C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1990	PubMed:17661816|PubMed:20518900|PubMed:23298237|PubMed:25952756|PubMed:24132471|PubMed:11148816	VHL Splice Site (c.340+1G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2009	PubMed:17024664|PubMed:17661816	VHL Splice Site (c.341-2A>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1874	PubMed:8707293	VHL Splice Site (c.463+1G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1951	PubMed:8707293|PubMed:22156657|PubMed:24132471|PubMed:25867206	VHL Splice Site (c.463+2T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1850	PubMed:8707293	VHL Splice Site (c.464-1G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1953	PubMed:17024664	VHL Splice Site (c.464-1G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1866	PubMed:8641976|PubMed:7987306	VHL Splice Site (c.464-1G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1954	PubMed:20660572|PubMed:17024664|PubMed:8707293	VHL Splice Site (c.464-2A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1868	PubMed:8707293	VHL Splice Site (c.464-2A>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1719	PubMed:9829911|PubMed:25867206	VHL T133fs (c.397del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1967	PubMed:7987306|PubMed:17024664	VHL T152fs (c.455insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1968	PubMed:7987306	VHL T157fs (c.472ins)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2018	PubMed:17024664	VHL T202fs (c.606insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1723	PubMed:9829911	VHL V181fs (c.540_543del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1853	PubMed:11409863	VHL V194fs (c.581_582del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:3053	PubMed:7728151	VHL V62Cfs*5 (c.180del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2320	PubMed:25867206	VHL V66Gfs*89 (c.197_209del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1975	PubMed:9829912	VHL V66del (c.197_220del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2305	PubMed:24132471	VHL V87fs (c.259_260insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1903	PubMed:20660572	VHL W117fs (c.349dup)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1915	PubMed:12114495	VHL W88FS (c.263_265delGGCinsTT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2172	PubMed:17661816	VHL W88fs (c.261dup)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:826	PubMed:15932632	VHL Y98FS (c.291_310del20)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2036	PubMed:24396697	VHL Y98FS (c.291delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2246	PubMed:15709172	VHL c.128-?_250+? mutation	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2308	PubMed:24132471	VHL c.341-59_341-14del	presence of	VHL	gene	sequence variation	mapped	
+civic			VHL c._213_ ?_463 ?del	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:327	PubMed:26057002	WEE1 RS3910384 mutation	presence of	WEE1	gene	sequence variation	mapped	
+civic	CIViC:129	PubMed:18591546|PubMed:19221039|PubMed:19536888|PubMed:18559874	WT1 Exon 7 Mutation	presence of	WT1	gene	sequence variation	mapped	
+civic	CIViC:130	PubMed:19221039|PubMed:18559874	WT1 Exon 9 Mutation	presence of	WT1	gene	sequence variation	mapped	
+civic	CIViC:4583	PubMed:37287693|PubMed:30976811	ZFTA ZFTA::RELA Methylation Profile	presence of	ZFTA::RELA	DNA	methylation	mapped	
+civic	CIViC:1936	PubMed:26444240	ALK (ATI)	presence of	ALK	RNA	sequence variation	uncertain	Provisional mapping: entity type = RNA and aspect = sequence variation. An alternative transcript reflects transcript/splicing variation rather than increased or decreased expression. Final classification should be confirmed by the ontology team.
+civic	CIViC:1244	PubMed:20979472	RANBP2-ALK	presence of	RANBP2-ALK	gene	sequence variation	mapped	
+civic	CIViC:1237	PubMed:24670165	ALK MUTATION	presence of	ALK	gene	sequence variation	mapped	
+civic	CIViC:1196|CIViC:1204|CIViC:1189|CIViC:1245	PubMed:22912387|PubMed:20979469|PubMed:25408655	ALK E20;A20	presence of	ALK	gene	sequence variation	mapped	
+civic	CIViC:1332|CIViC:1206|CIViC:1203|CIViC:1188|CIViC:1207|CIViC:1121|CIViC:262	PubMed:26554404|PubMed:22912387|PubMed:21258415|PubMed:17625570|PubMed:20979469|PubMed:23181703|PubMed:20979473	EML4-ALK	presence of	EML4-ALK	gene	sequence variation	mapped	
+civic	CIViC:1239|CIViC:1268|CIViC:1356|CIViC:1241	PubMed:18089725|PubMed:22912387|PubMed:25727400|PubMed:23598171	NPM-ALK	presence of	NPM-ALK	gene	sequence variation	mapped	
+civic	CIViC:4612|CIViC:4611|CIViC:4610|CIViC:1283|CIViC:1285|CIViC:1368|CIViC:1367|CIViC:1287|CIViC:1344|CIViC:1284	PubMed:24509625|PubMed:24675041|PubMed:25393798|PubMed:25228534|PubMed:25736571	ALK I1171	presence of	ALK	gene	sequence variation	mapped	
+civic	CIViC:1205|CIViC:1340|CIViC:1197|CIViC:1195|CIViC:1194|CIViC:1192|CIViC:1193	PubMed:22912387|PubMed:24675041|PubMed:18594010|PubMed:18451166|PubMed:18593892|PubMed:20979469	ALK E6;A20	presence of	ALK	gene	sequence variation	mapped	
+civic			ALK C1156Y�L1198F	presence of	ALK	gene	sequence variation	mapped	
+civic	CIViC:1187|CIViC:1202|CIViC:1279|CIViC:1323|CIViC:1335|CIViC:1198|CIViC:1199|CIViC:1175|CIViC:1200|CIViC:945|CIViC:1201|CIViC:1240|CIViC:1242|CIViC:1243|CIViC:1264|CIViC:1273|CIViC:1282|CIViC:1334|CIViC:1419|CIViC:1577|CIViC:1272|CIViC:1691|CIViC:2952|CIViC:4835|CIViC:1783	PubMed:20979469|PubMed:20940188|PubMed:25153538|PubMed:26951079|PubMed:19737969|PubMed:23724913|PubMed:25470694|PubMed:26973324|PubMed:24478318|PubMed:21642865|PubMed:27022118|PubMed:21345110|PubMed:23006951|PubMed:23598171|PubMed:24330038|PubMed:26938871|PubMed:26708155|PubMed:21933749|PubMed:26466010|PubMed:23639470|PubMed:25922291|PubMed:28183697|PubMed:28475456|PubMed:10383129	ALK FUSIONS	presence of	ALK	gene	sequence variation	mapped	
+civic	CIViC:1265|CIViC:1263|CIViC:1261	PubMed:26221234|PubMed:19636007|PubMed:21494621	CLTC-ALK	presence of	CLTC-ALK	gene	sequence variation	mapped	
+civic	CIViC:1266|CIViC:1190	PubMed:22252991|PubMed:18927303	ALK E2;A20	presence of	ALK	gene	sequence variation	mapped	
+civic	CIViC:1336	PubMed:27049722	DEL4-11	presence of	missing	/	sequence variation	cannot map	The raw term indicates a deletion but does not identify the affected gene/entity. Check the source dataset and associated PMID; if the entity cannot be recovered, retain as cannot map.
+civic	CIViC:4608|CIViC:444|CIViC:1349|CIViC:1348|CIViC:1347	PubMed:24675041|PubMed:22277784	ALK T1151INST	presence of	ALK	gene	sequence variation	mapped	
+civic			ALK C1156Y�L1196M	presence of	ALK	gene	sequence variation	mapped	
+civic	CIViC:6996|CIViC:6342|CIViC:6335|CIViC:6311	PubMed:22371878|PubMed:19652056|PubMed:21865346|PubMed:19779040	ABL1 MUTATION	presence of	ABL1	gene	sequence variation	mapped	
+civic	CIViC:6998|CIViC:6337|CIViC:6997|CIViC:6336	PubMed:22371878|PubMed:21865346	ABL1 Mutation	presence of	ABL1	gene	sequence variation	mapped	
+civic	CIViC:261|CIViC:344|CIViC:259|CIViC:232|CIViC:213|CIViC:260|CIViC:220	PubMed:20537386|PubMed:12476305|PubMed:25212276	BCR-ABL	presence of	BCR-ABL	gene	sequence variation	mapped	
+civic	CIViC:3046	PubMed:28486044	Non-V600	presence of	missing	/	sequence variation	cannot map	Indicates a non-V600 mutation status (sequence variation), but the specific gene entity (e.g., BRAF) is not stated in the raw term. Requires escalation or source context to map.
+civic	CIViC:462	PubMed:15630448	AKAP9-BRAF	presence of	AKAP9-BRAF	gene	sequence variation	mapped	
+civic	CIViC:1664|CIViC:1571	PubMed:24422672|PubMed:26072686	KIAA1549-BRAF	presence of	KIAA1549-BRAF	gene	sequence variation	mapped	
+civic	CIViC:3046|CIViC:1704|CIViC:1404|CIViC:936|CIViC:4121	PubMed:28486044|PubMed:22586653|PubMed:25673558|PubMed:22169769|PubMed:27371698	BRAF MUTATION	presence of	BRAF	gene	sequence variation	mapped	
+civic	CIViC:1570	PubMed:26072686	PPFIBP2-BRAF	presence of	PPFIBP2-BRAF	gene	sequence variation	mapped	
+civic	CIViC:1267	PubMed:26732095	BRAF DEL	presence of	BRAF	gene	sequence variation	mapped	
+civic	CIViC:5977	PubMed:29320312	CUX1-BRAF	presence of	CUX1-BRAF	gene	sequence variation	mapped	
+civic	CIViC:6401|CIViC:5973|CIViC:6400|CIViC:5974	PubMed:24265155|PubMed:29320312	BRAF rearrangement	presence of	BRAF	gene	sequence variation	mapped	
+civic	CIViC:1416|CIViC:727	PubMed:24345920	TRIM24-BRAF	presence of	TRIM24-BRAF	gene	sequence variation	mapped	
+civic	CIViC:995	PubMed:24947927	BRAF TYPE	presence of	BRAF	gene	sequence variation	uncertain	"""Type"" is insufficiently specific to guarantee it means mutation type rather than protein-level classification. Flagged for expert review."
+civic	CIViC:73	PubMed:23031422	BRAF V600E+V600M	presence of	BRAF	gene	sequence variation	mapped	
+civic	CIViC:1662	PubMed:26324360	BRAF-CUL1	presence of	BRAF-CUL1	gene	sequence variation	mapped	
+civic	CIViC:5976|CIViC:5975	PubMed:29320312	BRAF Fusion	presence of	BRAF	gene	sequence variation	mapped	
+civic	CIViC:726|CIViC:725	PubMed:24345920	PAPSS1-BRAF	presence of	PAPSS1-BRAF	gene	sequence variation	mapped	
+civic	CIViC:1663	PubMed:26314551	ZKSCAN1-BRAF	presence of	ZKSCAN1-BRAF	gene	sequence variation	mapped	
+civic	CIViC:93|CIViC:1750|CIViC:1598|CIViC:1574|CIViC:1576|CIViC:1415|CIViC:1407|CIViC:88|CIViC:1000|CIViC:994|CIViC:30	PubMed:23020132|PubMed:22663011|PubMed:26287849|PubMed:26392102|PubMed:22608338|PubMed:23325582|PubMed:23434733|PubMed:24947927|PubMed:21166657	BRAF V600	presence of	BRAF	gene	sequence variation	mapped	
+civic	CIViC:723|CIViC:724	PubMed:23890088	AGK-BRAF	presence of	AGK-BRAF	gene	sequence variation	mapped	
+civic	CIViC:1897|CIViC:1775|CIViC:1772|CIViC:1675|CIViC:1677|CIViC:1684|CIViC:1531|CIViC:1529|CIViC:1370|CIViC:464	PubMed:27908594|PubMed:21862407|PubMed:26740259|PubMed:25218906|PubMed:25847936|PubMed:24240112|PubMed:19553641|PubMed:22274685	BRCA1 MUTATION	presence of	BRCA1	gene	sequence variation	mapped	
+civic	CIViC:4623	PubMed:23415752	BRCA1 W1815X	presence of	BRCA1	gene	sequence variation	mapped	
+civic	CIViC:2878	PubMed:27908594	BRCA1 Q1467*	presence of	BRCA1	gene	sequence variation	mapped	
+civic	CIViC:1123|CIViC:1124	PubMed:24137399	BRCA1 P968FS	presence of	BRCA1	gene	sequence variation	mapped	
+civic	CIViC:1759	PubMed:16088935	BRCA1 insertion	presence of	BRCA1	gene	sequence variation	mapped	
+civic	CIViC:1924|CIViC:845|CIViC:1523|CIViC:211|CIViC:1925|CIViC:1524|CIViC:1308|CIViC:650|CIViC:212|CIViC:155|CIViC:1525|CIViC:4831|CIViC:4829|CIViC:4828|CIViC:428|CIViC:435|CIViC:5953|CIViC:1784|CIViC:1307|CIViC:1895|CIViC:5994|CIViC:1535|CIViC:1595|CIViC:6399|CIViC:2982|CIViC:2983|CIViC:531|CIViC:623|CIViC:1628|CIViC:1632	PubMed:28211448|PubMed:26510020|PubMed:23569316|PubMed:23346317|PubMed:16243825|PubMed:22923433|PubMed:24277854|PubMed:28103578|PubMed:23881929|PubMed:16341243|PubMed:11793370|PubMed:21796119|PubMed:27197561|PubMed:24098545|PubMed:24633157|PubMed:29127119|PubMed:20473330|PubMed:20354191|PubMed:29736026|PubMed:27364904|PubMed:25686104|PubMed:10617473|PubMed:24240700|PubMed:24253377|PubMed:18787170	LOSS-OF-FUNCTION	presence of	missing	/	sequence variation	cannot map	Indicates a loss-of-function molecular status, but the specific host gene/protein entity is not stated in the raw term. Requires escalation or source database context to resolve.
+civic	CIViC:2877	PubMed:27908594	BRCA1 R1443*	presence of	BRCA1	gene	sequence variation	mapped	Default gene alteration pattern: presence of entity sequence variation.
+civic	CIViC:1776|CIViC:1773|CIViC:1678|CIViC:1685|CIViC:1676|CIViC:1532|CIViC:1530|CIViC:1371|CIViC:465|CIViC:1758	PubMed:21862407|PubMed:25218906|PubMed:25847936|PubMed:26740259|PubMed:24240112|PubMed:19553641|PubMed:22274685|PubMed:16088935	BRCA2 MUTATION	presence of	BRCA2	gene	sequence variation	mapped	
+civic	CIViC:219	PubMed:14612939	CCND2 DEMETHYLATION	decreased	CCND2	DNA	methylation	mapped	
+civic	CIViC:263	PubMed:23079656	CCND3 LOSS	presence of	CCND3	gene	sequence variation	mapped	
+civic	CIViC:1881|CIViC:1765|CIViC:1559|CIViC:1372|CIViC:1373|CIViC:1375|CIViC:1377	PubMed:25852058|PubMed:26715889|PubMed:22711607|PubMed:12777976|PubMed:23898052|PubMed:24495407|PubMed:21278246	CDKN2A LOSS	presence of	CDKN2A	gene	sequence variation	mapped	
+civic	CIViC:1635	PubMed:27414035	CDKN2A RS3814960	presence of	CDKN2A	gene	sequence variation	mapped	
+civic	CIViC:167|CIViC:122|CIViC:168|CIViC:467|CIViC:468|CIViC:166	PubMed:18450602|PubMed:19965647|PubMed:14726504|PubMed:19304957|PubMed:25014773	CEBPA MUTATION	presence of	CEBPA	gene	sequence variation	mapped	
+civic	CIViC:1512	PubMed:27276561	CEBPA INACTIVATION	presence of	CEBPA	gene	sequence variation	mapped	
+civic	CIViC:1103	PubMed:26167872	CEBPA SHIFT	presence of	CEBPA	gene	sequence variation	mapped	
+civic	CIViC:1643|CIViC:754|CIViC:405|CIViC:532	PubMed:27029710|PubMed:25557953|PubMed:24578576|PubMed:25698061	DNAJB1-PRKACA	presence of	DNAJB1-PRKACA	gene	sequence variation	mapped	
+civic	CIViC:11|CIViC:18|CIViC:25|CIViC:66|CIViC:31|CIViC:64|CIViC:186|CIViC:189|CIViC:112|CIViC:65|CIViC:113|CIViC:24|CIViC:170|CIViC:68|CIViC:110|CIViC:62|CIViC:187|CIViC:114|CIViC:67|CIViC:50|CIViC:51|CIViC:115|CIViC:4|CIViC:49|CIViC:3|CIViC:61|CIViC:157|CIViC:63	PubMed:22081665|PubMed:21067377|PubMed:22291079|PubMed:24512939|PubMed:22490330|PubMed:23632886	DNMT3A R882	presence of	DNMT3A	gene	sequence variation	mapped	
+civic	CIViC:2926|CIViC:1585|CIViC:1586|CIViC:1587|CIViC:1238|CIViC:469|CIViC:188	PubMed:28351930|PubMed:27288520|PubMed:27276561|PubMed:22124213|PubMed:21415852|PubMed:23341344|PubMed:22490330	DNMT3A MUTATION	presence of	DNMT3A	gene	sequence variation	mapped	
+civic	CIViC:6185|CIViC:2512	PubMed:27022112|PubMed:19692680	EGFR WILDTYPE	absence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:4762|CIViC:4755|CIViC:6186	PubMed:21531810|PubMed:27022112	EGFR MUT	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1128|CIViC:1017|CIViC:773|CIViC:848|CIViC:772|CIViC:971	PubMed:16282176|PubMed:26778701|PubMed:26423602|PubMed:21653686|PubMed:25586468	EGFR VIII	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:4801	PubMed:24353160	EGFR D770_N771insGY	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1799	PubMed:26773740	EGFR V769_770INSASV	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:472	PubMed:17538160	EGFR VARIATION	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:4298	PubMed:21531810	EGFR L861	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:3016|CIViC:2939|CIViC:1937|CIViC:1728|CIViC:1701|CIViC:1056	PubMed:20038723|PubMed:17409929|PubMed:20022809|PubMed:27083334|PubMed:22810899|PubMed:26888827	EGFR MUTATION	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:5949|CIViC:5948|CIViC:4665|CIViC:4666	PubMed:24353160|PubMed:21132006	EGFR A767_V769dupASV	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:923	PubMed:22901364	EGFR PHOSPHORYLATION	presence of	EGFR	protein	phosphorylation	mapped	
+civic	CIViC:662|CIViC:413|CIViC:2519|CIViC:2996|CIViC:2995|CIViC:1666|CIViC:273|CIViC:881|CIViC:969|CIViC:981|CIViC:884|CIViC:880|CIViC:983|CIViC:882	PubMed:23764753|PubMed:16818686|PubMed:22370314|PubMed:23982599|PubMed:24868098|PubMed:18509184|PubMed:16730237|PubMed:25862853|PubMed:26515464|PubMed:24439929|PubMed:22285168|PubMed:23816960|PubMed:25589191|PubMed:22452895	EGFR DELETION	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1782	PubMed:26773740	EGFR S720	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1780|CIViC:4189	PubMed:26773740|PubMed:21531810	EGFR G719	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:4931	PubMed:15118073	Gain-of-function	presence of	missing	/	sequence variation	cannot map	Indicates a gain-of-function molecular status, but the specific host gene/protein entity is not stated in the raw term. Requires escalation or source database context to resolve.
+civic	CIViC:1809|CIViC:1789	PubMed:26051236|PubMed:26773740	EGFR INSERTION	presence of	EGFR	gene	sequence variation	mapped	
+civic	CIViC:1890|CIViC:1892	PubMed:22325357|PubMed:25899785	ERBB2 G778_P780DUP	presence of	ERBB2	gene	sequence variation	mapped	
+civic	CIViC:972|CIViC:973	PubMed:26811533	ERBB2 LEVELS	differential	ERBB2	protein	level	mapped	
+civic	CIViC:1125|CIViC:1047|CIViC:1046|CIViC:1049|CIViC:1045|CIViC:960	PubMed:25789838|PubMed:19122144|PubMed:25899785|PubMed:26559459	ERBB2 M774INSAYVM	presence of	ERBB2	gene	sequence variation	mapped	
+civic	CIViC:1694|CIViC:1043|CIViC:959	PubMed:25636205|PubMed:26598547|PubMed:22325357	ERBB2 MUTATION	presence of	ERBB2	gene	sequence variation	mapped	
+civic	CIViC:281	PubMed:23220880	ERBB2 DEL	presence of	ERBB2	gene	sequence variation	mapped	
+civic	CIViC:4518|CIViC:1179	PubMed:26243863	ERBB2 S310F/Y	presence of	ERBB2	gene	sequence variation	mapped	
+civic	CIViC:1853|CIViC:1847	PubMed:24122810	FGFR2-AHCYL1	presence of	FGFR2-AHCYL1	gene	sequence variation	mapped	
+civic	CIViC:6444|CIViC:5912	PubMed:28314589|PubMed:29182496	FGFR2 mutations	presence of	FGFR2	gene	sequence variation	mapped	
+civic	CIViC:296	PubMed:24550739	FGFR2-TACC3	presence of	FGFR2-TACC3	gene	sequence variation	mapped	
+civic	CIViC:5908	PubMed:29182496	FGFR2 fusions	presence of	FGFR2	gene	sequence variation	mapped	
+civic	CIViC:1912|CIViC:1236	PubMed:27870574|PubMed:26574622	FGFR2 MUTATION	presence of	FGFR2	gene	sequence variation	mapped	
+civic	CIViC:1913|CIViC:1918	PubMed:27870574|PubMed:26324363	FGFR2 FUSION	presence of	FGFR2	gene	sequence variation	mapped	
+civic	CIViC:295	PubMed:24550739	FGFR2-MGEA5	presence of	FGFR2-MGEA5	gene	sequence variation	mapped	
+civic	CIViC:1851|CIViC:1917|CIViC:1920|CIViC:1846	PubMed:24122810|PubMed:26324363	FGFR2-BICC1	presence of	FGFR2-BICC1	gene	sequence variation	mapped	
+civic	CIViC:6409|CIViC:2962|CIViC:1919	PubMed:29848605|PubMed:27771611|PubMed:26324363	FGFR3-TACC3	presence of	FGFR3-TACC3	gene	sequence variation	mapped	
+civic	CIViC:144	PubMed:23558953	FGFR3-BAIAP2L1	presence of	FGFR3-BAIAP2L1	gene	sequence variation	mapped	
+civic	CIViC:1910	PubMed:27870574	FGFR3 MUTATION	presence of	FGFR3	gene	sequence variation	mapped	
+civic	CIViC:1295|CIViC:373|CIViC:322|CIViC:248|CIViC:247|CIViC:214|CIViC:171|CIViC:156	PubMed:20733134|PubMed:17940205|PubMed:11290608|PubMed:18230792|PubMed:22368270|PubMed:17965322|PubMed:14726504	FLT3 MUTATION	presence of	FLT3	gene	sequence variation	mapped	
+civic	CIViC:1557	PubMed:23969938	FLT3 D835H/Y	presence of	FLT3	gene	sequence variation	mapped	
+civic	CIViC:130|CIViC:131|CIViC:298|CIViC:299|CIViC:1112|CIViC:1040|CIViC:1137|CIViC:297|CIViC:127|CIViC:1555|CIViC:191|CIViC:193|CIViC:1109|CIViC:198|CIViC:52|CIViC:158|CIViC:128|CIViC:129|CIViC:195|CIViC:69|CIViC:192|CIViC:159|CIViC:190|CIViC:222|CIViC:371|CIViC:372|CIViC:1515	PubMed:15626738|PubMed:18230792|PubMed:12357354|PubMed:24981688|PubMed:22368270|PubMed:24178622|PubMed:14726387|PubMed:19965647|PubMed:23969938|PubMed:21537333|PubMed:21461300|PubMed:24855211|PubMed:22490330|PubMed:17957027|PubMed:16455956|PubMed:21067377|PubMed:24801015|PubMed:11290608|PubMed:11585760|PubMed:27276561	FLT3 ITD	presence of	FLT3	gene	sequence variation	mapped	
+civic	CIViC:4024|CIViC:4026|CIViC:4025|CIViC:1038|CIViC:1037|CIViC:1036|CIViC:1039	PubMed:15459012|PubMed:12531805|PubMed:14654525|PubMed:22504184|PubMed:19318574|PubMed:23430109|PubMed:22368270	FLT3 D835	presence of	FLT3	gene	sequence variation	mapped	
+civic	CIViC:2933|CIViC:1639	PubMed:28148839|PubMed:26061751	IDH1 MUTATION	presence of	IDH1	gene	sequence variation	mapped	
+civic	CIViC:323|CIViC:481|CIViC:480|CIViC:374|CIViC:349|CIViC:348|CIViC:223|CIViC:160	PubMed:20368538|PubMed:19228619|PubMed:20494930|PubMed:20127344|PubMed:19933982|PubMed:20376086|PubMed:20805365	IDH1 R132	presence of	IDH1	gene	sequence variation	mapped	
+civic	CIViC:1542|CIViC:350|CIViC:330|CIViC:329|CIViC:327	PubMed:21997850|PubMed:21596855|PubMed:22033490|PubMed:22616558	IDH2 R140	presence of	IDH2	gene	sequence variation	mapped	
+civic	CIViC:1511|CIViC:482|CIViC:483	PubMed:27276561|PubMed:19228619	IDH2 R172	presence of	IDH2	gene	sequence variation	mapped	
+civic	CIViC:4833|CIViC:2932|CIViC:1640|CIViC:328	PubMed:28193778|PubMed:28148839|PubMed:26061751|PubMed:20421455	IDH2 MUTATION	presence of	IDH2	gene	sequence variation	mapped	
+civic	CIViC:4825	PubMed:27433843	JAK2 MUTATION	presence of	JAK2	gene	sequence variation	mapped	
+civic	CIViC:1436	PubMed:27069254	PCM1-JAK2	presence of	PCM1-JAK2	gene	sequence variation	mapped	
+civic	CIViC:1568	PubMed:27433843	JAK2 insertion	presence of	JAK2	gene	sequence variation	mapped	
+civic	CIViC:4144	PubMed:27371698	KIT WILDTYPE	absence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:70|CIViC:4686|CIViC:58|CIViC:1224|CIViC:654|CIViC:653|CIViC:376|CIViC:333|CIViC:225|CIViC:53|CIViC:334|CIViC:2475|CIViC:1424|CIViC:1223|CIViC:1221|CIViC:1222|CIViC:919|CIViC:666	PubMed:16551858|PubMed:21523734|PubMed:23775962|PubMed:22261812|PubMed:14645423|PubMed:10485475|PubMed:12000708|PubMed:15217946|PubMed:18955458|PubMed:22439647|PubMed:16624552|PubMed:21690468|PubMed:23231951|PubMed:21119596	KIT MUTATION	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:2481|CIViC:4085|CIViC:4089|CIViC:4086|CIViC:4088|CIViC:4082|CIViC:4087|CIViC:4084|CIViC:4083|CIViC:2435|CIViC:2436|CIViC:2434	PubMed:14645423|PubMed:26772734|PubMed:27371698|PubMed:23177515|PubMed:22614970|PubMed:18955458|PubMed:25239608|PubMed:16638875|PubMed:18955451|PubMed:21364689	KIT W557_K558DELWK	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:1136	PubMed:24178622	KIT RS3733542	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:2441	PubMed:18955451	KIT F506_F508DUP	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:2487|CIViC:4142|CIViC:4143|CIViC:2485	PubMed:14645423|PubMed:18955458|PubMed:26772734|PubMed:21364689	KIT D579DEL	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:302	PubMed:18421059	KIT DUPLICATION	presence of	KIT	gene	sequence variation	mapped	
+civic	CIViC:135|CIViC:194|CIViC:990|CIViC:622|CIViC:134	PubMed:18202412|PubMed:24915778|PubMed:20619739	KRAS G12/G13	presence of	KRAS	gene	sequence variation	mapped	
+civic	CIViC:489	PubMed:18528420	KRAS Q61	presence of	KRAS	gene	sequence variation	mapped	
+civic	CIViC:2938|CIViC:487|CIViC:336|CIViC:378|CIViC:377|CIViC:337|CIViC:215|CIViC:8	PubMed:17409929|PubMed:18528420|PubMed:19934290|PubMed:15597105|PubMed:11208838|PubMed:18794081|PubMed:24571676	KRAS G12	presence of	KRAS	gene	sequence variation	mapped	
+civic	CIViC:488	PubMed:18528420	KRAS G13	presence of	KRAS	gene	sequence variation	mapped	
+civic	CIViC:1131	PubMed:19661358	KRAS Q22*	presence of	KRAS	gene	sequence variation	mapped	
+civic	CIViC:872|CIViC:664	PubMed:25081901|PubMed:22139083	KRAS RS61764370	presence of	KRAS	gene	sequence variation	mapped	
+civic	CIViC:35|CIViC:1208|CIViC:1219|CIViC:1326|CIViC:993|CIViC:917|CIViC:916|CIViC:250|CIViC:87|CIViC:1182|CIViC:1220|CIViC:947|CIViC:1139|CIViC:1183|CIViC:1140|CIViC:1218|CIViC:820|CIViC:894|CIViC:943|CIViC:988|CIViC:989|CIViC:991|CIViC:992|CIViC:997|CIViC:998|CIViC:999|CIViC:1003|CIViC:1004|CIViC:1001|CIViC:1642|CIViC:1702|CIViC:935|CIViC:2998|CIViC:4842|CIViC:1596|CIViC:1700	PubMed:15696205|PubMed:27037411|PubMed:21862683|PubMed:25322874|PubMed:18946061|PubMed:23435671|PubMed:16618717|PubMed:24559322|PubMed:26709701|PubMed:22805291|PubMed:20956938|PubMed:23828442|PubMed:26881434|PubMed:23934108|PubMed:21847063|PubMed:25968887|PubMed:24166148|PubMed:21890455|PubMed:25199829|PubMed:24685132|PubMed:24947927|PubMed:23200175|PubMed:26725216|PubMed:21985784|PubMed:23434733|PubMed:25294897|PubMed:22586653|PubMed:22169769|PubMed:28492898|PubMed:27217383|PubMed:27502722|PubMed:22810899	KRAS MUTATION	presence of	KRAS	gene	sequence variation	mapped	
+civic	CIViC:403	PubMed:24186003	MEF2D-CSF1R	presence of	MEF2D-CSF1R	gene	sequence variation	mapped	
+civic	CIViC:822	PubMed:25910840	MGMT RS16906252	presence of	MGMT	gene	sequence variation	mapped	
+civic	CIViC:491|CIViC:490|CIViC:309|CIViC:308|CIViC:307|CIViC:172	PubMed:15758010|PubMed:19901104|PubMed:11070098	MGMT METHYLATION	presence of	MGMT	DNA	methylation	mapped	
+civic	CIViC:147|CIViC:148|CIViC:149|CIViC:151|CIViC:150|CIViC:137|CIViC:146|CIViC:120|CIViC:119|CIViC:1369|CIViC:196|CIViC:177|CIViC:182|CIViC:181|CIViC:108|CIViC:1102|CIViC:184|CIViC:179|CIViC:175|CIViC:180|CIViC:117|CIViC:185|CIViC:116|CIViC:174|CIViC:111|CIViC:199|CIViC:176|CIViC:173|CIViC:183|CIViC:118	PubMed:22417203|PubMed:24797300|PubMed:21719597|PubMed:24927407|PubMed:19965647|PubMed:19059939|PubMed:16455956|PubMed:16046528|PubMed:19587375|PubMed:15659725|PubMed:22430270|PubMed:24855211|PubMed:26789727|PubMed:20026798|PubMed:19047294|PubMed:17957027|PubMed:16051734|PubMed:19357394|PubMed:16076867|PubMed:24859829|PubMed:18450602	NPM1 MUTATION	presence of	NPM1	gene	sequence variation	mapped	
+civic	CIViC:1510|CIViC:152|CIViC:153|CIViC:121|CIViC:109	PubMed:27276561|PubMed:21719597|PubMed:15659725|PubMed:21067377	NPM1 W288FS	presence of	NPM1	gene	sequence variation	mapped	
+civic	CIViC:1473|CIViC:1226|CIViC:497|CIViC:124|CIViC:36|CIViC:14|CIViC:10	PubMed:18390968|PubMed:23414587|PubMed:22650231|PubMed:20619739|PubMed:23569304|PubMed:23861977	NRAS Q61	presence of	NRAS	gene	sequence variation	mapped	
+civic	CIViC:1516	PubMed:27276561	NRAS G12/G13	presence of	NRAS	gene	sequence variation	mapped	
+civic	CIViC:1429|CIViC:2937|CIViC:2931|CIViC:1703|CIViC:1476|CIViC:1509|CIViC:1472|CIViC:71|CIViC:56|CIViC:1230|CIViC:1227|CIViC:1225|CIViC:996|CIViC:27|CIViC:496	PubMed:23431193|PubMed:28284557|PubMed:26987942|PubMed:22586653|PubMed:24950457|PubMed:24588908|PubMed:23414587|PubMed:22180178|PubMed:15951308|PubMed:25504439|PubMed:22805292|PubMed:25542057|PubMed:24947927|PubMed:24666267|PubMed:18528420	NRAS MUTATION	presence of	NRAS	gene	sequence variation	mapped	
+civic	CIViC:57	PubMed:16434492	NRAS G12	presence of	NRAS	gene	sequence variation	mapped	
+civic	CIViC:2038	PubMed:23094721	PIK3CA TYPE	differential	PIK3CA	gene	sequence variation	uncertain	"The modifier ""TYPE"" is insufficiently specific to guarantee the exact clinical assay type. "
+civic	CIViC:6199|CIViC:138|CIViC:6198|CIViC:3040|CIViC:1616|CIViC:1705|CIViC:1610|CIViC:1490|CIViC:1504|CIViC:1600|CIViC:1503|CIViC:1607|CIViC:1384|CIViC:1501|CIViC:1364|CIViC:1358|CIViC:1360|CIViC:1402|CIViC:1296|CIViC:771|CIViC:915|CIViC:892|CIViC:123	PubMed:17947469|PubMed:20619739|PubMed:28489509|PubMed:23674493|PubMed:22586653|PubMed:21358673|PubMed:26589432|PubMed:22294718|PubMed:25002028|PubMed:17936563|PubMed:24088382|PubMed:25855885|PubMed:23619167|PubMed:24608574|PubMed:27091708|PubMed:25242168|PubMed:23435830|PubMed:24166148	PIK3CA MUTATION	presence of	PIK3CA	gene	sequence variation	mapped	
+civic	CIViC:2486	PubMed:18955451	PDGFRA MUTATION	presence of	PDGFRA	gene	sequence variation	mapped	
+civic	CIViC:47	PubMed:22745105	DI842-843VM	presence of	missing	/	sequence variation	cannot map	The sequence variant details are mathematically precise, but the host entity is completely missing from the raw term. 
+civic	CIViC:1838	PubMed:25658984	TNKS2-PDGFRA	presence of	TNKS2-PDGFRA	gene	sequence variation	mapped	
+civic	CIViC:1433|CIViC:1425	PubMed:27069254	PDGFRA FUSIONS	presence of	PDGFRA	gene	sequence variation	mapped	
+civic	CIViC:1774|CIViC:1441|CIViC:1445|CIViC:1777	PubMed:24456122|PubMed:14504092|PubMed:12660384|PubMed:24407160	FIP1L1-PDGFRA	presence of	FIP1L1-PDGFRA	gene	sequence variation	mapped	
+civic	CIViC:1092	PubMed:23670176	PML MUTATION	presence of	PML	gene	sequence variation	mapped	
+civic	CIViC:1519|CIViC:316|CIViC:1090|CIViC:1091	PubMed:21505136|PubMed:8674046|PubMed:7628753|PubMed:11704842	PML-RARA	presence of	PML-RARA	gene	sequence variation	mapped	
+civic	CIViC:1931|CIViC:1522|CIViC:1359|CIViC:1467|CIViC:1491|CIViC:1232	PubMed:9331072|PubMed:25544636|PubMed:25855885|PubMed:26589432|PubMed:23287563|PubMed:23238879	PTEN MUTATION	presence of	PTEN	gene	sequence variation	mapped	
+civic	CIViC:645|CIViC:864|CIViC:644|CIViC:708|CIViC:711|CIViC:714|CIViC:506|CIViC:507|CIViC:893|CIViC:938|CIViC:1297|CIViC:1383|CIViC:1385|CIViC:1386|CIViC:1455|CIViC:1492|CIViC:1493|CIViC:1500|CIViC:1502|CIViC:716|CIViC:1611|CIViC:1614|CIViC:643	PubMed:24387334|PubMed:25300346|PubMed:23989949|PubMed:24735930|PubMed:25398829|PubMed:25672916|PubMed:21163703|PubMed:11504908|PubMed:24166148|PubMed:22025163|PubMed:27091708|PubMed:17936563|PubMed:20813970|PubMed:15324695|PubMed:15790433|PubMed:15900596|PubMed:24088382|PubMed:22294718|PubMed:25409150|PubMed:21358673|PubMed:23674493|PubMed:17700571	PTEN LOSS	presence of	PTEN	gene	sequence variation	mapped	
+civic	CIViC:1741|CIViC:1231|CIViC:505	PubMed:27470558|PubMed:23582881|PubMed:17700571	PTEN DELETION	presence of	PTEN	gene	sequence variation	mapped	
+civic	CIViC:1627	PubMed:19706758	PTEN R130*	presence of	PTEN	gene	sequence variation	mapped	
+civic	CIViC:1534	PubMed:24504448	PTEN V317FS	presence of	PTEN	gene	sequence variation	mapped	
+civic	CIViC:317|CIViC:343	PubMed:20085938|PubMed:22479427	PTEN R233*	presence of	PTEN	gene	sequence variation	mapped	
+civic	CIViC:7069|CIViC:7066|CIViC:6949|CIViC:4850|CIViC:4848|CIViC:4847|CIViC:4849	PubMed:29912274|PubMed:27544060|PubMed:27803005|PubMed:27825636|PubMed:27825616	RET FUSION	presence of	RET	gene	sequence variation	mapped	
+civic	CIViC:1601	PubMed:26787234	CCDC6-RET	presence of	CCDC6-RET	gene	sequence variation	mapped	
+civic	CIViC:1622|CIViC:698	PubMed:25982012|PubMed:23584301	KIF5B-RET	presence of	KIF5B-RET	gene	sequence variation	mapped	
+civic	CIViC:1882	PubMed:18478040	RUNX1 T148HFSX9	presence of	RUNX1	gene	sequence variation	mapped	
+civic	CIViC:1873	PubMed:11830488	RUNX1 R135FSX177	presence of	RUNX1	gene	sequence variation	mapped	
+civic	CIViC:411|CIViC:1558|CIViC:430|CIViC:508|CIViC:429|CIViC:509	PubMed:21343560|PubMed:27137476|PubMed:23341344|PubMed:22753902	RUNX1 MUTATION	presence of	RUNX1	gene	sequence variation	mapped	
+civic	CIViC:1872	PubMed:11830488	RUNX1 Y260*	presence of	RUNX1	gene	sequence variation	mapped	
+civic	CIViC:352|CIViC:1487|CIViC:1540|CIViC:1480|CIViC:510	PubMed:21995386|PubMed:24943832|PubMed:26837699|PubMed:23086750|PubMed:23568491	SF3B1 MUTATION	presence of	SF3B1	gene	sequence variation	mapped	
+civic	CIViC:525|CIViC:526|CIViC:2783|CIViC:641|CIViC:1146|CIViC:851|CIViC:1145|CIViC:1481|CIViC:850|CIViC:2784|CIViC:2820|CIViC:518|CIViC:1478|CIViC:523|CIViC:524|CIViC:1451|CIViC:1450|CIViC:2999|CIViC:519|CIViC:1452|CIViC:1018|CIViC:521|CIViC:1507|CIViC:1028|CIViC:1485|CIViC:522|CIViC:2966|CIViC:2968|CIViC:2967|CIViC:1148|CIViC:1170|CIViC:1147|CIViC:517	PubMed:21467160|PubMed:10786679|PubMed:12509970|PubMed:22425996|PubMed:22698404|PubMed:14726385|PubMed:24740294|PubMed:14514923|PubMed:8901856|PubMed:21483000|PubMed:11325447|PubMed:18689542|PubMed:8241511|PubMed:28453411|PubMed:19941080|PubMed:20697090|PubMed:26771088|PubMed:24836762|PubMed:26837699|PubMed:15922892|PubMed:24943832|PubMed:17215851|PubMed:26459177|PubMed:17671205|PubMed:25730903|PubMed:26899019|PubMed:26646755|PubMed:22090360	TP53 MUTATION	presence of	TP53	gene	sequence variation	mapped	
+civic	CIViC:2993	PubMed:11595686	TP53 MUT	presence of	TP53	gene	sequence variation	mapped	
+civic	CIViC:399|CIViC:393	PubMed:9569050	TP53 R249	presence of	TP53	gene	sequence variation	mapped	
+civic	CIViC:2965|CIViC:2963|CIViC:2964|CIViC:906|CIViC:1149|CIViC:875	PubMed:26459177|PubMed:17671205|PubMed:25730903|PubMed:23515910|PubMed:26899019|PubMed:24957073	TP53 TYPE	differential	TP53	gene	sequence variation	uncertain	"The modifier ""TYPE"" is structurally ambiguous and cannot guarantee the exact assay measurement. Marked as uncertain for manual context review."
+civic	CIViC:154|CIViC:320	PubMed:19966866|PubMed:22923433	TSC1 TRUNCATION	presence of	TSC1	gene	sequence variation	mapped	
+civic	CIViC:338|CIViC:339|CIViC:400|CIViC:217	PubMed:23029227|PubMed:23861105	U2AF1 Q157P/R	presence of	U2AF1	gene	sequence variation	mapped	
+civic	CIViC:340|CIViC:401|CIViC:218	PubMed:23029227|PubMed:23861105	U2AF1 S34Y/F	presence of	U2AF1	gene	sequence variation	mapped	
+civic	CIViC:139|CIViC:206|CIViC:205|CIViC:204|CIViC:203|CIViC:202|CIViC:201|CIViC:163|CIViC:162|CIViC:210|CIViC:165	PubMed:18591546|PubMed:18559874|PubMed:19221039|PubMed:19536888	WT1 MUTATION	presence of	WT1	gene	sequence variation	mapped	
+civic	CIViC:1014|CIViC:495	PubMed:22077063|PubMed:21670202	NOTCH1 P2514FS	presence of	NOTCH1	gene	sequence variation	mapped	
+civic	CIViC:383	PubMed:20007775	NOTCH1 V2444FS	presence of	NOTCH1	gene	sequence variation	mapped	
+civic	CIViC:382	PubMed:20007775	NOTCH1 S2275FS	presence of	NOTCH1	gene	sequence variation	mapped	
+civic	CIViC:494|CIViC:1479|CIViC:1486|CIViC:1538	PubMed:22210878|PubMed:23086750|PubMed:24943832|PubMed:26837699	NOTCH1 MUTATION	presence of	NOTCH1	gene	sequence variation	mapped	
+civic	CIViC:796|CIViC:1651|CIViC:1186|CIViC:1185|CIViC:736|CIViC:797	PubMed:23213094|PubMed:26845194|PubMed:25971938|PubMed:26729443|PubMed:26547802|PubMed:25971939	MET MUTATION	presence of	MET	gene	sequence variation	mapped	
+civic	CIViC:431	PubMed:9552022	FLI1 1	differential	FLI1	gene	sequence variation	uncertain	"The numerical modifier ""1"" is highly ambiguous. It could refer to an exon number, a cluster type, or a variant type, which requires source context to clarify."
+civic	CIViC:478	PubMed:23706910	EWSR1-FLI1	presence of	EWSR1-FLI1	gene	sequence variation	mapped	
+civic	CIViC:427|CIViC:426|CIViC:421|CIViC:419|CIViC:417|CIViC:415	PubMed:21343549|PubMed:21828143|PubMed:22430270|PubMed:19666869	TET2 MUTATION	presence of	TET2	gene	sequence variation	mapped	
+civic	CIViC:1855|CIViC:1835	PubMed:17024664	VHL (c.164_165insG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6516|CIViC:6113|CIViC:5760|CIViC:5463|CIViC:5417|CIViC:5257|CIViC:5238|CIViC:5298	PubMed:24132471|PubMed:12807974|PubMed:20151405|PubMed:20660572|PubMed:12000816|PubMed:19958924|PubMed:19574279|PubMed:9829912	VHL (c.467A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5618|CIViC:5401|CIViC:5259|CIViC:5074	PubMed:22156657|PubMed:12000816|PubMed:20442526|PubMed:8956040	VHL (c.482G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5649	PubMed:9829911	VHL D92fs	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5142|CIViC:4984	PubMed:17024664|PubMed:7987306	VHL (c.538A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6865|CIViC:5549	PubMed:25078357|PubMed:12624160	VHL (c.262T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:4916|CIViC:5032	PubMed:7728151|PubMed:9829911	VHL (c.180delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5731	PubMed:17024664	VHL (c.341delCGTTTCCAACAATTTCTCGGTGT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6160|CIViC:5146|CIViC:5580|CIViC:5464|CIViC:5389|CIViC:5239|CIViC:4977	PubMed:11505222|PubMed:17024664|PubMed:14722919|PubMed:20660572|PubMed:10761708|PubMed:19574279|PubMed:7987306	VHL (c.472C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5102|CIViC:5280	PubMed:17661816|PubMed:9829912	VHL (c.473insT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5444|CIViC:5133|CIViC:5078	PubMed:20583150|PubMed:17024664|PubMed:8956040	VHL (c.491A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5547|CIViC:5548|CIViC:5510|CIViC:5288	PubMed:12624160|PubMed:12202531|PubMed:9829912	VHL (c.238A>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:7005|CIViC:6632|CIViC:5300|CIViC:5440	PubMed:25867206|PubMed:27527340|PubMed:9829912|PubMed:11409863	VHL (c.525C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1914	PubMed:8187067	VHL (c.162_166delGGAGG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6723	PubMed:12673678	VHL (c.640T>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:7006|CIViC:6606|CIViC:5129|CIViC:5046	PubMed:25867206|PubMed:17024664|PubMed:9829911	VHL (c.392A>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6593|CIViC:5199|CIViC:4985	PubMed:26763786|PubMed:21463266|PubMed:7987306	VHL (c.551T>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1951	PubMed:15932632	VHL (C.291_310DEL20)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6920|CIViC:6576|CIViC:5196	PubMed:7915601|PubMed:26763786|PubMed:21463266	VHL (c.458T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6604|CIViC:5515|CIViC:5494|CIViC:5755|CIViC:5274	PubMed:25867206|PubMed:12202531|PubMed:21103895|PubMed:20151405|PubMed:9829912	VHL (c.345C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6062	PubMed:7977367	VHL (c.166_178del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5741	PubMed:17024664	VHL (c.337delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:4994|CIViC:5801|CIViC:5430|CIViC:5230	PubMed:8592333|PubMed:24877602|PubMed:11409863|PubMed:19215943	VHL (c.250G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6850|CIViC:6714|CIViC:6671|CIViC:6625|CIViC:6633|CIViC:6286|CIViC:5754|CIViC:5223|CIViC:6626|CIViC:6423|CIViC:6290|CIViC:6852|CIViC:5767|CIViC:5224|CIViC:6672|CIViC:5850|CIViC:6542|CIViC:6641|CIViC:5759|CIViC:7132|CIViC:6634|CIViC:6223|CIViC:6886|CIViC:6715|CIViC:6857|CIViC:6854|CIViC:6476|CIViC:6521|CIViC:1942|CIViC:6851|CIViC:6750|CIViC:6709|CIViC:6705|CIViC:6627|CIViC:6533|CIViC:6517|CIViC:6425|CIViC:5226|CIViC:1943|CIViC:1944	PubMed:28388566|PubMed:26308528|PubMed:25834951|PubMed:25867206|PubMed:27527340|PubMed:26421964|PubMed:20151405|PubMed:21463266|PubMed:17661816|PubMed:26584481|PubMed:22357542|PubMed:25952756|PubMed:27617348|PubMed:28379443|PubMed:28256701|PubMed:25078357|PubMed:24581539|PubMed:28721348|PubMed:17537157|PubMed:19280651|PubMed:27439424|PubMed:28646318	VHL DELETION	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6687|CIViC:5768	PubMed:29330336|PubMed:22357542	VHL (c.481C>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5448|CIViC:4964	PubMed:20660572|PubMed:7987306	VHL (c.240T>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6922|CIViC:6613|CIViC:4938|CIViC:5103|CIViC:5281|CIViC:4951|CIViC:4902	PubMed:7915601|PubMed:25867206|PubMed:7728151|PubMed:17661816|PubMed:9829912|PubMed:7977367|PubMed:7553625	VHL (c.473T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5619|CIViC:5467	PubMed:22156657|PubMed:20660572	VHL (c.488T>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:4895	PubMed:12202531	VHL (c.136G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5054	PubMed:9829911	VHL (c.540_543delCGTC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5041|CIViC:5293	PubMed:9829911|PubMed:9829912	VHL (c.313A>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6826|CIViC:6608|CIViC:4992|CIViC:5607|CIViC:5579|CIViC:4935	PubMed:28388566|PubMed:25867206|PubMed:7977367|PubMed:22156657|PubMed:14722919|PubMed:7728151	VHL (c.404T>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6925|CIViC:6638|CIViC:5403|CIViC:5359|CIViC:5096|CIViC:5051	PubMed:7915601|PubMed:26920352|PubMed:12000816|PubMed:8707293|PubMed:17661816|PubMed:9829911	VHL (c.490C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5739	PubMed:17024664	VHL (c.589delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6902|CIViC:5586|CIViC:5452	PubMed:7915601|PubMed:15002726|PubMed:20660572	VHL (c.340G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5653	PubMed:9829912	VHL (c.197_220del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5733	PubMed:17024664	VHL (c.374insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6523|CIViC:5098	PubMed:24132471|PubMed:17661816	VHL (c.565delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5799	PubMed:25586603	VHL (c.449A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5282|CIViC:5066	PubMed:9829912|PubMed:9829911	VHL (c.563T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5478|CIViC:5084|CIViC:5065	PubMed:20846682|PubMed:8956040|PubMed:9829911	VHL (c.381_382GC>TT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5495	PubMed:12114495	VHL (c.263_265delGGCinsTT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5681|CIViC:5481|CIViC:5466|CIViC:6501|CIViC:5795|CIViC:5673|CIViC:5526|CIViC:5669|CIViC:6836|CIViC:6338|CIViC:5262|CIViC:6496|CIViC:5061|CIViC:6754|CIViC:4911|CIViC:5311|CIViC:5179|CIViC:6774|CIViC:5699|CIViC:5400|CIViC:5125|CIViC:5706|CIViC:5584|CIViC:6691|CIViC:6776|CIViC:7141	PubMed:23842656|PubMed:20846682|PubMed:20660572|PubMed:24707167|PubMed:24466223|PubMed:9497878|PubMed:21362373|PubMed:9215674|PubMed:28388566|PubMed:20960261|PubMed:9829912|PubMed:14767570|PubMed:9829911|PubMed:27539324|PubMed:7728151|PubMed:19464396|PubMed:21463266|PubMed:29022557|PubMed:23404858|PubMed:12000816|PubMed:17024664|PubMed:23427520|PubMed:14722919|PubMed:28432847|PubMed:29124493|PubMed:29662268	VHL (c.482G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6910|CIViC:6824|CIViC:6637|CIViC:6115|CIViC:5531|CIViC:5301	PubMed:7915601|PubMed:28388566|PubMed:28214514|PubMed:14722919|PubMed:12393546|PubMed:9829912	VHL (c.388G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5777	PubMed:22357542	VHL (c.642+70C>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5128|CIViC:4973	PubMed:17024664|PubMed:7987306	VHL (c.390_391delTA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6772|CIViC:6704|CIViC:6498|CIViC:6478|CIViC:5094|CIViC:5674|CIViC:5255|CIViC:5185	PubMed:28944243|PubMed:28646318|PubMed:19576851|PubMed:17639058|PubMed:17661816|PubMed:9663592|PubMed:19808854|PubMed:21463266	VHL (c.191G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5502|CIViC:5458|CIViC:5384|CIViC:5358	PubMed:21181474|PubMed:20660572|PubMed:10761708|PubMed:8707293	VHL (c.394C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5593|CIViC:5245	PubMed:22156657|PubMed:21972040	VHL (c.204insG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:4975|CIViC:5145	PubMed:7987306|PubMed:17024664	VHL (c.457delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6564|CIViC:6665|CIViC:5217|CIViC:5397|CIViC:5844|CIViC:6354	PubMed:26763786|PubMed:25834951|PubMed:21463266|PubMed:10761708|PubMed:25952756|PubMed:28650583	VHL (c.293A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6549	PubMed:25867206	VHL (c.236_241delGCAGTC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6620|CIViC:6842|CIViC:6766	PubMed:25867206|PubMed:28388566|PubMed:28006088	VHL (c.500G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5640	PubMed:7987306	VHL (c.472ins)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:4898	PubMed:23298237	VHL (c.163G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5727	PubMed:17024664	VHL (c.194delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5479	PubMed:20846682	VHL (c.386T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5465|CIViC:5616	PubMed:20660572|PubMed:22156657	VHL (c.478_479delGA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6807|CIViC:6552|CIViC:6140|CIViC:5600|CIViC:5753|CIViC:5449|CIViC:5321|CIViC:5150|CIViC:5086|CIViC:4965|CIViC:5368	PubMed:28388566|PubMed:25867206|PubMed:11505222|PubMed:22156657|PubMed:20151405|PubMed:20660572|PubMed:20447124|PubMed:17024664|PubMed:8956040|PubMed:7987306|PubMed:8707293	VHL (c.266T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5037	PubMed:9829911	VHL (c.227T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5441	PubMed:11409863	VHL (c.581_582delTG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1946	PubMed:15932632	VHL M1?	presence of	VHL	gene	sequence variation	uncertain	Refers to a suspected or questionable alteration at the start codon (M1) of the VHL gene. Marked as uncertain due to the trailing question mark indicating unverified status.
+civic	CIViC:6805|CIViC:5296	PubMed:28388566|PubMed:9829912	VHL (c.263G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5057|CIViC:4944	PubMed:9829911|PubMed:7728151	VHL (c.556G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5780|CIViC:5805|CIViC:7140|CIViC:6742|CIViC:6288|CIViC:6503|CIViC:6860|CIViC:6120|CIViC:5273	PubMed:25562111|PubMed:25715769|PubMed:27439424|PubMed:24132471|PubMed:25078357|PubMed:17661816|PubMed:9829912	VHL (c.208G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5283	PubMed:9829912	VHL (c.161insT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6417|CIViC:5456	PubMed:12000816|PubMed:20660572	VHL (c.364_365GC>AT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5638	PubMed:7987306	VHL (c.118ins)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6603	PubMed:25867206	VHL (c.339delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5459	PubMed:20660572	VHL (c.445_458del)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6810|CIViC:5771|CIViC:5405|CIViC:5561|CIViC:5550|CIViC:5433|CIViC:4966|CIViC:5137	PubMed:28388566|PubMed:22357542|PubMed:12000816|PubMed:22133049|PubMed:12624160|PubMed:11409863|PubMed:7987306|PubMed:17024664	VHL (c.280G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5228|CIViC:5022|CIViC:5005	PubMed:19133167|PubMed:17024664|PubMed:8730290	VHL (c.346C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic			VHL c.128_?_250+?	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6106	PubMed:9663592	VHL (c.431G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6429|CIViC:4921|CIViC:5842|CIViC:5001|CIViC:6548|CIViC:5587|CIViC:6863|CIViC:6795|CIViC:6558|CIViC:5665|CIViC:6289|CIViC:5376|CIViC:5521|CIViC:6545|CIViC:5250|CIViC:6022|CIViC:5680|CIViC:5491|CIViC:6745|CIViC:5187|CIViC:6656|CIViC:5027|CIViC:5020	PubMed:26984080|PubMed:7728151|PubMed:25952756|PubMed:8730290|PubMed:25867206|PubMed:15109448|PubMed:25078357|PubMed:28388566|PubMed:26763786|PubMed:22777797|PubMed:8707293|PubMed:21362373|PubMed:19464396|PubMed:7591282|PubMed:23842656|PubMed:12114495|PubMed:27439424|PubMed:21463266|PubMed:27174753|PubMed:17661816|PubMed:17024664	VHL (c.233A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5174	PubMed:19270817	VHL (c.223_224insT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:4928	PubMed:7728151	VHL (c.331delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5024	PubMed:17024664	VHL (c.498C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5591|CIViC:5422|CIViC:5033|CIViC:4988	PubMed:22156657|PubMed:11409863|PubMed:9829911|PubMed:7977367	VHL (c.194C>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5729	PubMed:17024664	VHL (c.227insC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6844|CIViC:6699|CIViC:5774|CIViC:5716|CIViC:5148	PubMed:28388566|PubMed:28469506|PubMed:22357542|PubMed:10088816|PubMed:17024664	VHL (c.533T>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6837|CIViC:6616|CIViC:6585|CIViC:6535|CIViC:6527|CIViC:5355|CIViC:5190|CIViC:5267|CIViC:4941|CIViC:5063	PubMed:28388566|PubMed:25867206|PubMed:26763786|PubMed:27617348|PubMed:10022713|PubMed:8707293|PubMed:21463266|PubMed:9829912|PubMed:7728151|PubMed:9829911	VHL (c.486C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5105	PubMed:17661816	VHL (c.202T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:4832|CIViC:1672|CIViC:422|CIViC:418	PubMed:28103578|PubMed:23881929|PubMed:23620406|PubMed:18464292	VHL MUTATION	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6573|CIViC:6512|CIViC:6347|CIViC:5757|CIViC:5152|CIViC:5608|CIViC:5543|CIViC:5284|CIViC:5202|CIViC:4974|CIViC:5764	PubMed:26763786|PubMed:24132471|PubMed:28650583|PubMed:20151405|PubMed:17024664|PubMed:22156657|PubMed:12624160|PubMed:9829912|PubMed:21463266|PubMed:7987306|PubMed:23968328	VHL (c.407T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6875|CIViC:4909	PubMed:25078357|PubMed:7728151	VHL (c.445G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5268	PubMed:9829912	VHL (c.315insAC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6589|CIViC:6164|CIViC:5147|CIViC:5197	PubMed:26763786|PubMed:11505222|PubMed:17024664|PubMed:21463266	VHL (c.506T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5443	PubMed:11409863	VHL (c.639+10C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5364	PubMed:8707293	VHL (c.230_insTCT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6764|CIViC:5696|CIViC:5366|CIViC:5867	PubMed:27539324|PubMed:23397066|PubMed:8707293|PubMed:10533077	VHL (c.533T>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5290	PubMed:9829912	VHL (c.179delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5336	PubMed:20560986	VHL (c.642A>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6467|CIViC:4937	PubMed:7981696|PubMed:7728151	VHL (c.462delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5170|CIViC:6015|CIViC:4986|CIViC:5056	PubMed:17024664|PubMed:7977367|PubMed:7987306|PubMed:9829911	VHL (c.555C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5748|CIViC:5730|CIViC:6746|CIViC:6727|CIViC:6073|CIViC:5642|CIViC:5614|CIViC:5388|CIViC:5343|CIViC:5351|CIViC:6830|CIViC:5613|CIViC:5745|CIViC:6685|CIViC:5724|CIViC:5615|CIViC:5462|CIViC:5851|CIViC:6611|CIViC:6831|CIViC:5612|CIViC:5898|CIViC:5387|CIViC:5357|CIViC:5309	PubMed:17661816|PubMed:17024664|PubMed:27439424|PubMed:23797736|PubMed:8758206|PubMed:7987306|PubMed:22156657|PubMed:10761708|PubMed:8641976|PubMed:8707293|PubMed:28388566|PubMed:29330336|PubMed:20660572|PubMed:25867206|PubMed:21463266|PubMed:19464396	VHL alteration	differential	VHL	gene	sequence variation	uncertain	Broad alteration term: the exact molecular event and assay context are not specified. Verify the CIViC source record and associated PMID before final mapping. The current gene/sequence-variation interpretation is provisional, so the status remains uncertain.
+civic	CIViC:5191	PubMed:21463266	VHL (c.479_480delAG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5246|CIViC:5004	PubMed:21972040|PubMed:8730290	VHL (c.340+5G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6584|CIViC:5189|CIViC:5050|CIViC:4940	PubMed:26763786|PubMed:21463266|PubMed:9829911|PubMed:7728151	VHL (c.485G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6507|CIViC:6493|CIViC:5407|CIViC:5362|CIViC:5100|CIViC:6072|CIViC:5081|CIViC:5562	PubMed:24132471|PubMed:17922902|PubMed:12000816|PubMed:8707293|PubMed:17661816|PubMed:8768845|PubMed:8956040|PubMed:22136840	VHL (c.277G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5743	PubMed:17024664	VHL (c.182_185delCCGT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1947	PubMed:11505222	VHL (c.3G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5045	PubMed:9829911	VHL (c.352insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6122	PubMed:17661816	VHL (c.261dupA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5176	PubMed:19270817	VHL (c.586A>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:4927|CIViC:5168|CIViC:5598|CIViC:5060	PubMed:7728151|PubMed:17024664|PubMed:22156657|PubMed:9829911	VHL (c.262T>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:4830|CIViC:1035	PubMed:28103578|PubMed:16341243	VHL LOSS	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6801|CIViC:6561|CIViC:6551|CIViC:6104|CIViC:5158|CIViC:6008|CIViC:5775|CIViC:5785|CIViC:5752|CIViC:5391|CIViC:5286|CIViC:5278	PubMed:28388566|PubMed:26763786|PubMed:25867206|PubMed:8956040|PubMed:17024664|PubMed:7977367|PubMed:22357542|PubMed:25562111|PubMed:20151405|PubMed:10761708|PubMed:9829912|PubMed:19464396	VHL (c.256C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5718|CIViC:5131	PubMed:10567493|PubMed:17024664	VHL (c.395A>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1950	PubMed:19270817	VHL (c.173_174insC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5482	PubMed:20846682	VHL (c.483delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1608	PubMed:27518686	VHL (c.598C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5067	PubMed:9829911	VHL (c.330CA>TT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:4936	PubMed:7728151	VHL (c.448delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5414	PubMed:12000816	VHL (c.203C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5269	PubMed:9829912	VHL (c.211insT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6635|CIViC:6560|CIViC:6550|CIViC:5209|CIViC:4925	PubMed:27034144|PubMed:26763786|PubMed:25867206|PubMed:21463266|PubMed:7728151	VHL (c.256C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5335	PubMed:20560986	VHL (c.642A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5738	PubMed:17024664	VHL (c.584_585delAG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6112|CIViC:5297	PubMed:12202531|PubMed:9829912	VHL (c.466T>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6843|CIViC:6522|CIViC:5863|CIViC:5029|CIViC:5092|CIViC:5013	PubMed:28388566|PubMed:24132471|PubMed:9681858|PubMed:17661816|PubMed:8956040|PubMed:8730290	VHL (c.509T>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5416	PubMed:12000816	VHL (c.466T>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5373	PubMed:8707293	VHL (c.463+1G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6677|CIViC:6592|CIViC:5211|CIViC:4954|CIViC:5623|CIViC:5471|CIViC:5370	PubMed:25834951|PubMed:26763786|PubMed:21463266|PubMed:7977367|PubMed:22156657|PubMed:20660572|PubMed:8707293	VHL (c.548C>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6707|CIViC:5559|CIViC:5489	PubMed:26308528|PubMed:21673464|PubMed:12114495	VHL (c.233A>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5166|CIViC:4947|CIViC:5652	PubMed:17024664|PubMed:7728151|PubMed:9829911	VHL (c.526delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1948	PubMed:11536052	VHL (c.19A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1828	PubMed:10408776	VHL (c.163_164delGA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6819|CIViC:5772|CIViC:5605|CIViC:5377	PubMed:28388566|PubMed:22357542|PubMed:22156657|PubMed:8707293	VHL (c.344A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:4932	PubMed:7728151	VHL (c.336C>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5442	PubMed:11409863	VHL A149fs	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1945	PubMed:15932632	VHL (c.1_17del17)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5715|CIViC:5164	PubMed:10088816|PubMed:17024664	VHL (c.367delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5349|CIViC:6161|CIViC:5175|CIViC:4939	PubMed:8641976|PubMed:11505222|PubMed:19270817|PubMed:7728151	VHL (c.484T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6609|CIViC:5154|CIViC:5684|CIViC:5609|CIViC:5461|CIViC:4976|CIViC:4949	PubMed:25867206|PubMed:17024664|PubMed:23143947|PubMed:22156657|PubMed:20660572|PubMed:7987306|PubMed:7977367	VHL (c.461C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5437|CIViC:5578|CIViC:5455|CIViC:4991	PubMed:11409863|PubMed:14722919|PubMed:20660572|PubMed:7977367	VHL (c.362A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6059|CIViC:5035|CIViC:5445|CIViC:5361	PubMed:7728151|PubMed:9829911|PubMed:20660572|PubMed:8707293	VHL (c.208G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6682|CIViC:6330|CIViC:5090|CIViC:5395|CIViC:5044|CIViC:4933|CIViC:5295	PubMed:29330336|PubMed:15709172|PubMed:8956040|PubMed:10761708|PubMed:9829911|PubMed:7728151|PubMed:9829912	VHL (c.351G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6703|CIViC:6505|CIViC:5806|CIViC:5537|CIViC:5390|CIViC:5369|CIViC:5039	PubMed:28503092|PubMed:24132471|PubMed:25883647|PubMed:12414898|PubMed:10761708|PubMed:8707293|PubMed:9829911	VHL (c.241C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5138|CIViC:4968	PubMed:17024664|PubMed:7987306	VHL (c.309_310delTG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5163|CIViC:4999	PubMed:17024664|PubMed:8730290	VHL (c.214delT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5365	PubMed:8707293	VHL (c.384delT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5341|CIViC:5130|CIViC:4962|CIViC:4920	PubMed:8641976|PubMed:17024664|PubMed:7987306|PubMed:7728151	VHL (c.232A>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5454|CIViC:5436|CIViC:5411|CIViC:5088|CIViC:4908	PubMed:20660572|PubMed:11409863|PubMed:12000816|PubMed:8956040|PubMed:7728151	VHL (c.357C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1858	PubMed:9829912	VHL (c.165G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6201|CIViC:5031|CIViC:5028|CIViC:5670|CIViC:6488|CIViC:6614|CIViC:5761|CIViC:6583|CIViC:5791|CIViC:6770|CIViC:5009|CIViC:5793|CIViC:4978|CIViC:5240|CIViC:6676|CIViC:5483|CIViC:5049|CIViC:5075|CIViC:5263|CIViC:5525|CIViC:6708|CIViC:5617|CIViC:6697|CIViC:6221|CIViC:5375|CIViC:6835|CIViC:6220|CIViC:5181|CIViC:6356|CIViC:5233|CIViC:6116|CIViC:6427|CIViC:6630	PubMed:28630796|PubMed:19270817|PubMed:17661816|PubMed:9327728|PubMed:7987327|PubMed:25867206|PubMed:20151405|PubMed:26763786|PubMed:24206762|PubMed:28849724|PubMed:8730290|PubMed:24301059|PubMed:7987306|PubMed:19574279|PubMed:25834951|PubMed:12114495|PubMed:9829911|PubMed:8956040|PubMed:9829912|PubMed:21362373|PubMed:26308528|PubMed:22156657|PubMed:28469506|PubMed:27617348|PubMed:8707293|PubMed:28388566|PubMed:29146893|PubMed:21463266|PubMed:28650583|PubMed:19215943|PubMed:14722919|PubMed:27527340	VHL (c.481C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5552|CIViC:5042	PubMed:12624160|PubMed:9829911	VHL (c.320G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:4924	PubMed:7728151	VHL (c.255insC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5410|CIViC:5473	PubMed:12000816|PubMed:20660572	VHL (c.593T>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5500	PubMed:12114495	VHL (c.217delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6534|CIViC:5064	PubMed:27617348|PubMed:9829911	VHL (c.430G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5272|CIViC:4896	PubMed:9829912|PubMed:12202531	VHL (c.154G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5334	PubMed:20560986	VHL (c.641G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6582|CIViC:5353|CIViC:5310|CIViC:5258|CIViC:5180	PubMed:26763786|PubMed:8707293|PubMed:19464396|PubMed:20120764|PubMed:21463266	VHL (c.481C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5737	PubMed:17024664	VHL (c.562delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5450|CIViC:5432|CIViC:5192	PubMed:20660572|PubMed:11409863|PubMed:21463266	VHL (c.277G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5651	PubMed:9829911	VHL (c.475delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6595|CIViC:5200	PubMed:26763786|PubMed:21463266	VHL (c.563T>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5162|CIViC:5841	PubMed:17024664|PubMed:25952756	VHL (c.214T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5769|CIViC:6519|CIViC:5796|CIViC:6731|CIViC:5695|CIViC:6747|CIViC:6879|CIViC:5527|CIViC:6350|CIViC:4995|CIViC:5184|CIViC:4912|CIViC:5313|CIViC:4980|CIViC:6631|CIViC:5667|CIViC:6700|CIViC:6926|CIViC:5012|CIViC:6477|CIViC:5848|CIViC:6618|CIViC:5558|CIViC:5382|CIViC:6586|CIViC:6777|CIViC:6117|CIViC:5253|CIViC:6416|CIViC:6491|CIViC:5468|CIViC:5621|CIViC:5484|CIViC:7142|CIViC:5077|CIViC:6689|CIViC:5545|CIViC:6840|CIViC:5265|CIViC:6490|CIViC:6761|CIViC:5786|CIViC:6667|CIViC:4952|CIViC:5663|CIViC:6773|CIViC:6652|CIViC:5052	PubMed:22357542|PubMed:24132471|PubMed:24466223|PubMed:24335534|PubMed:23397066|PubMed:27439424|PubMed:25078357|PubMed:21362373|PubMed:28650583|PubMed:8592333|PubMed:21463266|PubMed:7728151|PubMed:19464396|PubMed:7987306|PubMed:27527340|PubMed:9215674|PubMed:28697140|PubMed:7915601|PubMed:8730290|PubMed:16651847|PubMed:25952756|PubMed:25867206|PubMed:21519372|PubMed:10761708|PubMed:26763786|PubMed:29124493|PubMed:14722919|PubMed:19649731|PubMed:12000816|PubMed:17406817|PubMed:20660572|PubMed:22156657|PubMed:20846682|PubMed:8956040|PubMed:28432847|PubMed:12624160|PubMed:28388566|PubMed:9829912|PubMed:27539324|PubMed:25563310|PubMed:25834951|PubMed:7977367|PubMed:9156047|PubMed:28944243|PubMed:29616089|PubMed:9829911	VHL (c.499C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6130|CIViC:5509|CIViC:5160	PubMed:11505222|PubMed:12202531|PubMed:17024664	VHL (c.193T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:7004|CIViC:6591|CIViC:5149|CIViC:5470|CIViC:5316|CIViC:5198|CIViC:4983|CIViC:4914	PubMed:25867206|PubMed:26763786|PubMed:17024664|PubMed:20660572|PubMed:19464396|PubMed:21463266|PubMed:7987306|PubMed:7728151	VHL (c.533T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6108|CIViC:5439	PubMed:9663592|PubMed:11409863	VHL (c.463+8C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6923|CIViC:6838|CIViC:6615|CIViC:5581|CIViC:5563|CIViC:5493|CIViC:5383|CIViC:5010	PubMed:7915601|PubMed:28388566|PubMed:25867206|PubMed:14722919|PubMed:12807974|PubMed:12114495|PubMed:10761708|PubMed:8730290	VHL (c.485G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6666|CIViC:6357|CIViC:5655|CIViC:5302|CIViC:5011	PubMed:25834951|PubMed:28650583|PubMed:8550742|PubMed:9829912|PubMed:8730290	VHL (c.496G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5742	PubMed:17024664	VHL (c.165_166dupG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6563|CIViC:5406	PubMed:26763786|PubMed:12000816	VHL (c.277G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5460	PubMed:20660572	VHL (c.453C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6832|CIViC:5773	PubMed:28388566|PubMed:22357542	VHL (c.451A>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1830	PubMed:8956040	VHL (c.163delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5279	PubMed:9829912	VHL (c.417_to_418delTC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6695|CIViC:6543|CIViC:5713|CIViC:5169	PubMed:28469506|PubMed:27617348|PubMed:10088816|PubMed:17024664	VHL (c.264G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6332|CIViC:4922	PubMed:15709172|PubMed:7728151	VHL (c.233A>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5630|CIViC:5486	PubMed:22156657|PubMed:20846682	VHL 3)	differential	VHL	gene	sequence variation	uncertain	"The numerical suffix ""3)"" is highly ambiguous. It could refer to exon 3, a specific cluster/subtype, or a list item numbering from the source document, requiring manual review."
+civic	CIViC:5139|CIViC:6145|CIViC:4970	PubMed:17024664|PubMed:11505222|PubMed:7987306	VHL (c.340G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6553	PubMed:25867206	VHL (c.275A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6811|CIViC:6327|CIViC:6143|CIViC:5583|CIViC:5271|CIViC:5058	PubMed:28388566|PubMed:15709172|PubMed:11505222|PubMed:14722919|PubMed:9829912|PubMed:9829911	VHL (c.286C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5501	PubMed:12114495	VHL (c.445delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:2989|CIViC:1949	PubMed:8758206|PubMed:12114495	VHL (c.74C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6905|CIViC:5477|CIViC:5276|CIViC:5143|CIViC:5083|CIViC:5435|CIViC:4971|CIViC:5846	PubMed:7915601|PubMed:20846682|PubMed:9829912|PubMed:17024664|PubMed:8956040|PubMed:11409863|PubMed:7987306|PubMed:25952756	VHL (c.353T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5734|CIViC:5639	PubMed:17024664|PubMed:7987306	VHL (c.455insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5047	PubMed:9829911	VHL (c.395delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:4982	PubMed:7987306	VHL (c.508G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5420	PubMed:11409863	VHL (c.183insC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6596|CIViC:6623|CIViC:5691|CIViC:5472|CIViC:5404|CIViC:5360|CIViC:5134|CIViC:5097|CIViC:4987	PubMed:26763786|PubMed:25867206|PubMed:23298237|PubMed:20660572|PubMed:12000816|PubMed:8707293|PubMed:17024664|PubMed:17661816|PubMed:7987306	VHL (c.583C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5554	PubMed:12624160	VHL (c.305delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5736	PubMed:17024664	VHL (c.525delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5794	PubMed:24396697	VHL (c.291delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:4961	PubMed:7987306	VHL (c.228_229insC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6590|CIViC:5303|CIViC:5172|CIViC:5219	PubMed:26763786|PubMed:9829912|PubMed:17024664|PubMed:21463266	VHL (c.509T>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5247	PubMed:21972040	VHL (c.432insG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5427|CIViC:5415|CIViC:5371|CIViC:5106|CIViC:5289	PubMed:11409863|PubMed:12000816|PubMed:8707293|PubMed:17661816|PubMed:9829912	VHL (c.239G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:4907	PubMed:7728151	VHL (c.345C>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5434	PubMed:11409863	VHL (c.324InsCGC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6719|CIViC:6495|CIViC:5657|CIViC:5571|CIViC:5538|CIViC:5409|CIViC:5367|CIViC:5038|CIViC:5854	PubMed:7563486|PubMed:15383938|PubMed:8772572|PubMed:12844285|PubMed:12414898|PubMed:12000816|PubMed:8707293|PubMed:9829911|PubMed:15642680	VHL (c.562C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5153	PubMed:17024664	VHL (c.272T>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5048	PubMed:9829911	VHL (c.430delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:4963	PubMed:7987306	VHL (c.236G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5167|CIViC:5643	PubMed:17024664|PubMed:7987306	VHL (c.528delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6610|CIViC:6514	PubMed:25867206|PubMed:24132471	VHL (c.463+2T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6796|CIViC:6663|CIViC:6559|CIViC:4923|CIViC:5800|CIViC:5597|CIViC:5683|CIViC:5522|CIViC:5428|CIViC:5236|CIViC:5213	PubMed:28388566|PubMed:25834951|PubMed:26763786|PubMed:7728151|PubMed:24678776|PubMed:22156657|PubMed:23143947|PubMed:21362373|PubMed:11409863|PubMed:19574279|PubMed:21463266	VHL (c.239G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6167|CIViC:6119|CIViC:6027|CIViC:5055|CIViC:4943	PubMed:11505222|PubMed:14722919|PubMed:7591282|PubMed:9829911|PubMed:7728151	VHL (c.551T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5053	PubMed:9829911	VHL (c.523T>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5399|CIViC:5523	PubMed:12000816|PubMed:21362373	VHL (c.319C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5728	PubMed:17024664	VHL (c.214insGCCC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6547|CIViC:6712|CIViC:6711|CIViC:5650|CIViC:5654|CIViC:5540|CIViC:5497|CIViC:5421|CIViC:5378|CIViC:4919	PubMed:25867206|PubMed:26308528|PubMed:9829911|PubMed:9829912|PubMed:12624160|PubMed:12114495|PubMed:20567917|PubMed:8956040|PubMed:7728151	VHL (c.226_228delTTC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6800|CIViC:6135|CIViC:6023|CIViC:5431	PubMed:28388566|PubMed:11505222|PubMed:7591282|PubMed:11409863	VHL (c.254T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6722|CIViC:5726|CIViC:5637	PubMed:8493574|PubMed:17024664|PubMed:7987306	VHL (c.243_251delGCGCGTCGT)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:1896	PubMed:9435426	VHL (c.445G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5144	PubMed:17024664	VHL (c.383T>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6574|CIViC:5205	PubMed:26763786|PubMed:21463266	VHL (c.412C>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5603|CIViC:6673|CIViC:6353|CIViC:5304|CIViC:5492|CIViC:5352|CIViC:6681|CIViC:6602|CIViC:5379|CIViC:5073|CIViC:5043|CIViC:5260|CIViC:6566|CIViC:5802|CIViC:7143|CIViC:4969|CIViC:5177	PubMed:22156657|PubMed:25834951|PubMed:28650583|PubMed:19464396|PubMed:21103895|PubMed:8707293|PubMed:29330336|PubMed:25867206|PubMed:10761708|PubMed:8956040|PubMed:9829911|PubMed:9829912|PubMed:26763786|PubMed:25683602|PubMed:30278534|PubMed:7987306|PubMed:21463266	VHL (c.337C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5155|CIViC:4957	PubMed:17024664|PubMed:7987306	VHL (c.175delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6601|CIViC:6771|CIViC:4929|CIViC:5003|CIViC:5585|CIViC:5021	PubMed:25867206|PubMed:28849724|PubMed:7728151|PubMed:8730290|PubMed:14722919|PubMed:17024664	VHL (c.332G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6802|CIViC:6733|CIViC:6562|CIViC:6486|CIViC:5291|CIViC:5243|CIViC:5210|CIViC:5157|CIViC:4926	PubMed:28388566|PubMed:24335534|PubMed:26763786|PubMed:11257676|PubMed:19464396|PubMed:20157715|PubMed:21463266|PubMed:17024664|PubMed:7728151	VHL (c.257C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6554|CIViC:4906|CIViC:5372|CIViC:5451|CIViC:5807|CIViC:5707|CIViC:5601|CIViC:5519|CIViC:5474|CIViC:5418|CIViC:5256|CIViC:4967|CIViC:4990	PubMed:25867206|PubMed:7728151|PubMed:8707293|PubMed:20660572|PubMed:25883647|PubMed:23434161|PubMed:22156657|PubMed:21204227|PubMed:20846682|PubMed:12000816|PubMed:19808854|PubMed:7987306|PubMed:7977367	VHL (c.292T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5686|CIViC:5171	PubMed:23203444|PubMed:17024664	VHL (c.464T>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6617|CIViC:5620	PubMed:25867206|PubMed:22156657	VHL (c.491A>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6674|CIViC:5560|CIViC:6348|CIViC:5798|CIViC:5719|CIViC:5248|CIViC:5132	PubMed:25834951|PubMed:21853002|PubMed:28650583|PubMed:25586603|PubMed:10567493|PubMed:21972040|PubMed:17024664	VHL (c.433C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5720|CIViC:5141|CIViC:5101	PubMed:10567493|PubMed:17024664|PubMed:17661816	VHL (c.452T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:5475|CIViC:6428|CIViC:5658|CIViC:5520|CIViC:5091	PubMed:20846682|PubMed:7728151|PubMed:8863170|PubMed:21204227|PubMed:8956040	VHL (c.334T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6861|CIViC:6793|CIViC:5000|CIViC:5337|CIViC:5594|CIViC:5270|CIViC:5135|CIViC:5036|CIViC:4918|CIViC:5030	PubMed:25078357|PubMed:28388566|PubMed:8730290|PubMed:20567917|PubMed:22156657|PubMed:9829912|PubMed:17024664|PubMed:9829911|PubMed:7728151|PubMed:19270817	VHL (c.217C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	CIViC:6352|CIViC:5161|CIViC:6789|CIViC:5592|CIViC:6556|CIViC:5034|CIViC:6468|CIViC:4917|CIViC:5026|CIViC:5693|CIViC:5765|CIViC:4998|CIViC:6661|CIViC:5212|CIViC:5328|CIViC:4958	PubMed:28650583|PubMed:17024664|PubMed:28388566|PubMed:22156657|PubMed:26763786|PubMed:9829911|PubMed:26622630|PubMed:7728151|PubMed:17661816|PubMed:23384228|PubMed:22357542|PubMed:8730290|PubMed:25834951|PubMed:21463266|PubMed:20518900|PubMed:7987306	VHL (c.194C>G)	presence of	VHL	gene	sequence variation	mapped	
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									

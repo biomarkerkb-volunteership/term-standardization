@@ -2,12 +2,14 @@
 
 **Project goal:** Standardize non-compliant biomarker terms into structured `change | entity | aspect` components using the BiomarkerKB controlled vocabularies.  
 **Team:** 2 volunteers (Cynthia, Dia)  
-**Data split:** `terms4curation_a.csv` (Dataset A → Cynthia) and `terms4curation_b.csv` (Dataset B → Dia), swapped at Week 4 for cross-validation.
+**Data split:** `dataset_a_raw.csv` (Dataset A → Cynthia) and `dataset_b_raw.csv` (Dataset B → Dia), swapped at Week 4 for cross-validation.
 
 ---
 
 ## Week 1 - Kickoff
+
 **All hands**
+
 - Introduce the BiomarkerKB project
 
 ---
@@ -15,6 +17,7 @@
 ## Week 2 - Onboarding & Orientation
 
 **Documentation**
+
 - Introduce volunteers to the BiomarkerKB curation system and the `change | entity | aspect` framework
 - Walk through the three controlled vocabulary files (`change_type.txt`, `entity_type.txt`, `aspect_type.txt`) and their entry structures
 - Review worked examples (e.g., "Increased Carcinoembryonic antigen (CEA)" → `increased | CEA | level`)
@@ -65,6 +68,7 @@
 ## Week 7 - Documentation & Wrap-up
 
 **All hands**
+
 - Final review of all outputs against project requirements
 - Prepare a summary report covering:
   - Total biomarkers reviewed, normalized, and flagged
@@ -86,10 +90,10 @@
 
 ## Quick Reference: Key Decisions by Week
 
-| Week | Primary Focus | Dataset Owner |
-|------|--------------|---------------|
-| 1-2 | Onboarding | Both |
-| 3-4 | Unmapped biomarkers & rule proposals | A→A, B→B |
-| 5 | Check-in + dataset swap | Both |
-| 6 | Cross-validation & reconciliation | A→B, B→A |
-| 7-8 | Documentation & wrap-up | Both |
+| Week | Primary Focus                        | Dataset Owner |
+| ---- | ------------------------------------ | ------------- |
+| 1-2  | Onboarding                           | Both          |
+| 3-4  | Unmapped biomarkers & rule proposals | A→A, B→B      |
+| 5    | Check-in + dataset swap              | Both          |
+| 6    | Cross-validation & reconciliation    | A→B, B→A      |
+| 7-8  | Documentation & wrap-up              | Both          |

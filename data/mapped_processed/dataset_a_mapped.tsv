@@ -1,0 +1,5196 @@
+source	raw_term	change	entity	entity type	aspect	status	notes
+llm_glycan	absence of glycosylation on CD274	absence of	CD274	glycan; protein	glycosylation	mapped	
+llm_glycan	increased level of terminal GalNAc on KLK3	increased	terminal GalNAc on KLK3	glycan; protein	glycosylation	mapped	
+llm_glycan	_-glucans associated with immunoglobulin M	differential	_-glucans associated with immunoglobulin M	glycan; protein	/	uncertain	"Association-only term: no explicit increase/decrease direction or measurable aspect is provided. ""Differential"" is retained only as a temporary schema placeholder; do not assign level by default. Verify the source dataset and associated PMID/manuscript before final mapping; retain as uncertain until confirmed."
+llm_glycan	mannans associated with immunoglobulin M	differential	mannans associated with immunoglobulin M	glycan; protein	/	uncertain	"Association-only term: no explicit increase/decrease direction or measurable aspect is provided. ""Differential"" is retained only as a temporary schema placeholder; do not assign level by default. Verify the source dataset and associated PMID/manuscript before final mapping; retain as uncertain until confirmed."
+llm_glycan	decreased level of agalactosylated glycan on immunoglobulin G	decreased	agalactosylated glycan on immunoglobulin G	glycan; protein	galactosylation	mapped	
+llm_glycan	decreased level of FA2 on immunoglobulin G	decreased	FA2 on immunoglobulin G	glycan; protein	glycosylation	mapped	
+llm_glycan	increased level of galactosylated glycans on immunoglobulin G	increased	galactosylated glycans on immunoglobulin G	glycan; protein	glycosylation	mapped	
+llm_glycan	decreased level of galactosylation on immunoglobulin G	decreased	immunoglobulin G	glycan; protein	galactosylation	mapped	
+llm_glycan	decreased level of monosialylation on immunoglobulin G	decreased	immunoglobulin G	glycan; protein	sialylation	mapped	
+llm_glycan	decreased level of bisecting N-acetylglucosamine on immunoglobulin G	decreased	bisecting N-acetylglucosamine on immunoglobulin G	glycan; protein	glycosylation	mapped	
+llm_glycan	increased level of agalactosylation on immunoglobulin G	increased	immunoglobulin G	glycan; protein	galactosylation	mapped	
+llm_glycan	decreased level of sialylation on immunoglobulin G	decreased	immunoglobulin G	glycan; protein	sialylation	mapped	
+llm_glycan	decreased level of FS1/FS2 ratio on immunoglobulin G	decreased	FS1/FS2 ratio on immunoglobulin G	glycan; protein	glycosylation	mapped	
+llm_glycan	fucosylated IgG associated with immunoglobulin G	differential	fucosylated immunoglobulin G	glycan; protein	/	uncertain	"Association-only term: no explicit increase/decrease direction or measurable aspect is provided. ""Differential"" is retained only as a temporary schema placeholder; do not assign level by default. Verify the source dataset and associated PMID/manuscript before final mapping; retain as uncertain until confirmed."
+llm_glycan	afucosylated bisecting IgG associated with immunoglobulin G	differential	afucosylated bisecting immunoglobulin G	glycan; protein	/	uncertain	"Association-only term: no explicit increase/decrease direction or measurable aspect is provided. ""Differential"" is retained only as a temporary schema placeholder; do not assign level by default. Verify the source dataset and associated PMID/manuscript before final mapping; retain as uncertain until confirmed."
+llm_glycan	sialic acid containing IgG associated with immunoglobulin G	differential	sialic acid containing immunoglobulin G	glycan; protein	/	uncertain	"Association-only term: no explicit increase/decrease direction or measurable aspect is provided. ""Differential"" is retained only as a temporary schema placeholder; do not assign level by default. Verify the source dataset and associated PMID/manuscript before final mapping; retain as uncertain until confirmed."
+llm_glycan	agalactosylated fucosylated IgG (G0F) associated with immunoglobulin G	differential	agalactosylated fucosylated immunoglobulin G (G0F)	glycan; protein	/	uncertain	"Association-only term: no explicit increase/decrease direction or measurable aspect is provided. ""Differential"" is retained only as a temporary schema placeholder; do not assign level by default. Verify the source dataset and associated PMID/manuscript before final mapping; retain as uncertain until confirmed."
+llm_glycan	increased level of core 1-glycan on MUC1	increased	core 1-glycan on MUC1	glycan; protein	glycosylation	mapped	
+llm_glycan	decreased level of MUCST on MUC1	decreased	MUCST on MUC1	glycan; protein	glycosylation	mapped	
+llm_glycan	increased level of core 2 on MUC1	increased	core 2 on MUC1	glycan; protein	glycosylation	mapped	
+llm_glycan	increased level of fucosylated N-glycan on immunoglobulin G	increased	fucosylated N-glycan on immunoglobulin G	glycan; protein	fucosylation	mapped	
+llm_glycan	decreased level of N-acetylneuraminic acid on immunoglobulin G	decreased	N-acetylneuraminic acid on immunoglobulin G	glycan; protein	sialylation	mapped	
+llm_glycan	decreased level of sialylated IgG on immunoglobulin G	decreased	sialylated IgG on immunoglobulin G	glycan; protein	sialylation	mapped	
+llm_glycan	increased level of N-glycolylneuraminic acid on MUC1	increased	N-glycolylneuraminic acid on MUC1	glycan; protein	sialylation	mapped	
+llm_glycan	decreased level of 6-O-su-Le^c on immunoglobulin G	decreased	6-O-su-Le^c on immunoglobulin G	glycan; protein	sulfation	mapped	
+llm_glycan	decreased level of Le^y on immunoglobulin M	decreased	Le^y on immunoglobulin M	glycan; protein	glycosylation	mapped	
+llm_glycan	decreased level of digalactosylated on immunoglobulin G	decreased	digalactosylated on immunoglobulin G	glycan; protein	galactosylation	mapped	
+llm_glycan	increased level of agalactosylated on immunoglobulin G	increased	agalactosylated on immunoglobulin G	glycan; protein	galactosylation	mapped	
+llm_glycan	decreased level of F1H5N4S1 on IQGAP1	decreased	F1H5N4S1 on IQGAP1	glycan; protein	glycosylation	mapped	
+llm_glycan	decreased level of H5N4S1 on HP (Haptoglobin)	decreased	H5N4S1 on HP (Haptoglobin)	glycan; protein	glycosylation	mapped	
+llm_glycan	increased level of high-mannose-type glycans on CEACAM6	increased	high-mannose-type glycans on CEACAM6	glycan; protein	glycosylation	mapped	
+llm_glycan	sialylated HPT associated with HP (Haptoglobin)	differential	sialylated HPT associated with HP (Haptoglobin)	glycan; protein	/	uncertain	"Association-only term: no explicit increase/decrease direction or measurable aspect is provided. ""Differential"" is retained only as a temporary schema placeholder; do not assign level by default. Verify the source dataset and associated PMID/manuscript before final mapping; retain as uncertain until confirmed."
+llm_glycan	fucosylated HPT associated with HP (Haptoglobin)	differential	fucosylated HPT associated with HP (Haptoglobin)	glycan; protein	/	uncertain	"Association-only term: no explicit increase/decrease direction or measurable aspect is provided. ""Differential"" is retained only as a temporary schema placeholder; do not assign level by default. Verify the source dataset and associated PMID/manuscript before final mapping; retain as uncertain until confirmed."
+llm_glycan	increased level of GalNAc�glycan structure on ITGA3	increased	GalNAc�glycan structure on ITGA3	glycan; protein	glycosylation	mapped	
+llm_glycan	decreased level of fucosylation on ITGA2	decreased	ITGA2	glycan; protein	fucosylation	mapped	
+llm_glycan	decreased level of G1FN on immunoglobulin G	decreased	G1FN on immunoglobulin G	glycan; protein	glycosylation	mapped	
+llm_glycan	decreased level of G2 on immunoglobulin G	decreased	G2 on immunoglobulin G	glycan; protein	galactosylation	mapped	
+llm_glycan	decreased level of O-GlcNAcylated MYC on MYC	decreased	MYC	glycan; protein	O-GlcNAcylation	mapped	
+llm_glycan	increased level of Tn antigen on FN1	increased	Tn antigen on FN1	glycan; protein	O-Glycosylation	mapped	
+llm_glycan	increased level of sialyl Tn antigen on FN1	increased	sialyl Tn antigen on FN1	glycan; protein	sialylation	mapped	
+llm_glycan	decreased level of T antigen on FN1	decreased	T antigen on FN1	glycan; protein	O-Glycosylation	mapped	
+llm_glycan	decreased level of sialyl T antigen on FN1	decreased	sialyl T antigen on FN1	glycan; protein	sialylation	mapped	
+llm_glycan	increased level of Gal_3GalNAc on immunoglobulin G	increased	Gal_3GalNAc on immunoglobulin G	glycan; protein	glycosylation	mapped	
+llm_glycan	decreased level of core fucose on immunoglobulin G	decreased	core fucose on immunoglobulin G	glycan; protein	fucosylation	mapped	
+llm_glycan	decreased level of high mannose on immunoglobulin G	decreased	high mannose on immunoglobulin G	glycan; protein	glycosylation	mapped	
+llm_glycan	decreased level of GlcNAc on immunoglobulin G	decreased	GlcNAc on immunoglobulin G	glycan; protein	glycosylation	mapped	
+llm_glycan	decreased level of Gal_4GlcNAc on immunoglobulin G	decreased	Gal_4GlcNAc on immunoglobulin G	glycan; protein	glycosylation	mapped	
+llm_glycan	increased level of galactose on immunoglobulin G	increased	galactose on immunoglobulin G	glycan; protein	galactosylation	mapped	
+llm_glycan	decreased level of galactose on immunoglobulin G	decreased	galactose on immunoglobulin G	glycan; protein	galactosylation	mapped	
+llm_glycan	decreased level of GalNAc on immunoglobulin G	decreased	GalNAc on immunoglobulin G	glycan; protein	glycosylation	mapped	
+civic	ABCB1 S893A/T mutation	presence of	ABCB1	gene	sequence variation	mapped	
+civic	ABL1 Double Ph	presence of	ABL1	gene	sequence variation	mapped	
+civic	ABL1 Non-P-Loop Mutation	presence of	ABL1	gene	sequence variation	mapped	
+civic	ABL1 P-Loop Mutation	presence of	ABL1	gene	sequence variation	mapped	
+civic	ABL1 TKD MUTATION	presence of	ABL1	gene	sequence variation	mapped	
+civic	ABL2 Fusion	presence of	ABL2	gene	sequence variation	mapped	
+civic	ACVR1 Gain-of-Function	presence of	ACVR1	gene	sequence variation	mapped	
+civic	ACVR1 Mutation	presence of	ACVR1	gene	sequence variation	mapped	
+civic	AKT1 S473 Phosphorylation	presence of	AKT1	protein	phosphorylation	mapped	
+civic	ALK Alternative Transcript (ATI)	presence of	ALK	RNA	sequence variation	uncertain	Provisional mapping: entity type = RNA and aspect = sequence variation. An alternative transcript reflects transcript/splicing variation rather than increased or decreased expression. Final classification should be confirmed by the ontology team.
+civic	ALK EML4::ALK e2-e20	presence of	EML4::ALK	gene	sequence variation	mapped	
+civic	ALK EML4::ALK e20-e20	presence of	EML4::ALK	gene	sequence variation	mapped	
+civic	ALK EML4::ALK e6-e20	presence of	EML4::ALK	gene	sequence variation	mapped	
+civic	ALK Exon 4-11 Deletion	presence of	ALK	gene	sequence variation	mapped	
+civic	ALK Fusion	presence of	ALK	gene	sequence variation	mapped	
+civic	ALK Mutation	presence of	ALK	gene	sequence variation	mapped	
+civic	ALK T1151dup mutation	presence of	ALK	gene	sequence variation	mapped	
+civic	APC Mutation	presence of	APC	gene	sequence variation	mapped	
+civic	AR Mutation	presence of	AR	gene	sequence variation	mapped	
+civic	ARID1A Loss	presence of	ARID1A	gene	sequence variation	mapped	
+civic	ARID1A P1175FS*5 mutation	presence of	ARID1A	gene	sequence variation	mapped	
+civic	ARID1A Wildtype	absence of	ARID1A	gene	sequence variation	mapped	
+civic	ASS1 Loss	presence of	ASS1	gene	sequence variation	mapped	
+civic	ASXL1 EXON 12 MUTATION	presence of	ASXL1	gene	sequence variation	mapped	
+civic	ASXL1 Mutation	presence of	ASXL1	gene	sequence variation	mapped	
+civic	ATM K468FS mutation	presence of	ATM	gene	sequence variation	mapped	
+civic	ATM Mutation	presence of	ATM	gene	sequence variation	mapped	
+civic	ATM c.7089+1del	presence of	ATM	gene	sequence variation	mapped	
+civic	ATM c.7515+1_2del	presence of	ATM	gene	sequence variation	mapped	
+civic	ATM c.902-1G>T mutation	presence of	ATM	gene	sequence variation	mapped	
+civic	ATR I774FS mutation	presence of	ATR	gene	sequence variation	mapped	
+civic	ATRX Deletion	presence of	ATRX	gene	sequence variation	mapped	
+civic	ATRX Mutation	presence of	ATRX	gene	sequence variation	mapped	
+civic	BAP1 ALTERNATIVE TRANSCRIPT (ATI)	presence of	BAP1	RNA	sequence variation	uncertain	Provisional mapping: entity type = RNA and aspect = sequence variation. An alternative transcript reflects transcript/splicing variation rather than increased or decreased expression. Final classification should be confirmed by the ontology team.
+civic	BAP1 Mutation	presence of	BAP1	gene	sequence variation	mapped	
+civic	BARD1 Loss-of-function	presence of	BARD1	gene	sequence variation	mapped	
+civic	BARD1 Mutation	presence of	BARD1	gene	sequence variation	mapped	
+civic	BCL2 Mutation	presence of	BCL2	gene	sequence variation	mapped	
+civic	BCL2L11 Deletion Polymorphism	presence of	BCL2L11	gene	sequence variation	mapped	
+civic	BCOR ITD  mutation	presence of	BCOR	gene	sequence variation	mapped	
+civic	BCOR Mutation	presence of	BCOR	gene	sequence variation	mapped	
+civic	BIRC3 TRUNCATING MUTATION	presence of	BIRC3	gene	sequence variation	mapped	
+civic	BRAF DEL 485-490	presence of	BRAF	gene	sequence variation	mapped	
+civic	BRAF Exon 15 Mutation	presence of	BRAF	gene	sequence variation	mapped	
+civic	BRAF Mutation	presence of	BRAF	gene	sequence variation	mapped	
+civic	BRAF N486_P490del	presence of	BRAF	gene	sequence variation	mapped	
+civic	BRAF Non-V600 mutation	presence of	BRAF	gene	sequence variation	mapped	
+civic	BRAF V600_K601>E mutation	presence of	BRAF	gene	sequence variation	mapped	
+civic	BRAF Wildtype	absence of	BRAF	gene	sequence variation	mapped	
+civic	BRAF intron 10 rearrangement	presence of	BRAF	gene	sequence variation	mapped	
+civic	BRAF intron 9 rearrangement	presence of	BRAF	gene	sequence variation	mapped	
+civic	BRCA1 Alu insertion	presence of	BRCA1	gene	sequence variation	mapped	
+civic	BRCA1 Loss-of-function	presence of	BRCA1	gene	sequence variation	mapped	
+civic	BRCA1 Mutation	presence of	BRCA1	gene	sequence variation	mapped	
+civic	BRCA1 P968FS mutation	presence of	BRCA1	gene	sequence variation	mapped	
+civic	BRCA2 Loss-of-function	presence of	BRCA2	gene	sequence variation	mapped	
+civic	BRCA2 Mutation	presence of	BRCA2	gene	sequence variation	mapped	
+civic	BRCA2 TRUNCATING MUTATION	presence of	BRCA2	gene	sequence variation	mapped	
+civic	BRIP1 Mutation	presence of	BRIP1	gene	sequence variation	mapped	
+civic	BTK MUTATION	presence of	BTK	gene	sequence variation	mapped	
+civic	CALR EXON 9 FRAMESHIFT	presence of	CALR	gene	sequence variation	mapped	
+civic	CALR Mutation	presence of	CALR	gene	sequence variation	mapped	
+civic	CBLB RS2305035 mutation	presence of	CBLB	gene	sequence variation	mapped	
+civic	CCND2 PROMOTER DEMETHYLATION	decreased	CCND2	DNA	methylation	mapped	
+civic	CCND3 Loss	presence of	CCND3	gene	sequence variation	mapped	
+civic	CD44 CD44v6 mutation	presence of	CD44	gene	sequence variation	mapped	
+civic	CDH1 MUTATION	presence of	CDH1	gene	sequence variation	mapped	
+civic	CDK12 Loss-of-function	presence of	CDK12	gene	sequence variation	mapped	
+civic	CDK12 Mutation	presence of	CDK12	gene	sequence variation	mapped	
+civic	CDKN1A rs1059234 mutation	presence of	CDKN1A	gene	sequence variation	mapped	
+civic	CDKN1A rs1801270 mutation	presence of	CDKN1A	gene	sequence variation	mapped	
+civic	CDKN1B CYTOPLASMIC MISLOCALIZATION	differential	CDKN1B	protein	/	cannot map	This term describes a protein subcellular-localization event. The current controlled vocabulary has no approved localization aspect; proposed addition: localization or subcellular localization. Retain as cannot map pending ontology review.
+civic	CDKN2A Deletion	presence of	CDKN2A	gene	sequence variation	mapped	
+civic	CDKN2A Loss	presence of	CDKN2A	gene	sequence variation	mapped	
+civic	CDKN2A Mutation	presence of	CDKN2A	gene	sequence variation	mapped	
+civic	CDKN2A Mutation )	presence of	CDKN2A	gene	sequence variation	mapped	
+civic	CDKN2A Promoter Hypermethylation	increased	CDKN2A	DNA	methylation	mapped	
+civic	CDKN2A RS3814960 mutation	presence of	CDKN2A	gene	sequence variation	mapped	
+civic	CDKN2A c.151-1G>C mutation	presence of	CDKN2A	gene	sequence variation	mapped	
+civic	CDKN2B Loss	presence of	CDKN2B	gene	sequence variation	mapped	
+civic	CDKN2B METHYLATION	presence of	CDKN2B	DNA	methylation	mapped	
+civic	CEBPA BIALLELIC INACTIVATION	presence of	CEBPA	gene	sequence variation	mapped	
+civic	CEBPA Mutation	presence of	CEBPA	gene	sequence variation	mapped	
+civic	CEBPA N-TERMINAL FRAME SHIFT	presence of	CEBPA	gene	sequence variation	mapped	
+civic	CHEK1 Mutation	presence of	CHEK1	gene	sequence variation	mapped	
+civic	CHEK2 1100DELC	presence of	CHEK2	gene	sequence variation	mapped	
+civic	CHEK2 IVS2+1G>A mutation	presence of	CHEK2	gene	sequence variation	mapped	
+civic	CHEK2 Loss-of-function	presence of	CHEK2	gene	sequence variation	mapped	
+civic	CHEK2 mutation	presence of	CHEK2	gene	sequence variation	mapped	
+civic	CRBN Mutation	presence of	CRBN	gene	sequence variation	mapped	
+civic	CSF3R Mutation	presence of	CSF3R	gene	sequence variation	mapped	
+civic	CTNNB1 Activating Mutation	presence of	CTNNB1	gene	sequence variation	mapped	
+civic	CTNNB1 Exon 3 Mutation	presence of	CTNNB1	gene	sequence variation	mapped	
+civic	CYP2D6 Loss-of-function	presence of	CYP2D6	gene	sequence variation	mapped	
+civic	DNMT3A Mutation	presence of	DNMT3A	gene	sequence variation	mapped	
+civic	DPYD DPYD*13 HOMOZYGOSITY	presence of	DPYD	gene	sequence variation	mapped	
+civic	DPYD DPYD*2A HOMOZYGOSITY	presence of	DPYD	gene	sequence variation	mapped	
+civic	DPYD EXON 11-19 DELETION	presence of	DPYD	gene	sequence variation	mapped	
+civic	DPYD RS67376798 HOMOZYGOSITY	presence of	DPYD	gene	sequence variation	mapped	
+civic	DUX4 Fusion	presence of	DUX4	gene	sequence variation	mapped	
+civic	EGFR A763_Y764insFQEA	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR A767_V769dupASV mutation	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR Copy Number Variation	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR D770_N771insG	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR D770_N771insGL	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR D770_N771insGT	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR D770_N771insNPG	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR D770_N771insSVD	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR D770delinsGY	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR E746_A750del	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR E746_T751>I mutation	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR EGFRVIII mutation	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR Exon 19 Deletion	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR Exon 20 Insertion	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR Exon 4 Deletion	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR Gain-of-function	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR H773_V774insH	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR H773_V774insNPH	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR L747_P753delinsS	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR L747_S752delinsQ	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR M766_A767insAI	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR M766_A767insASV	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR Mutation	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR N771_P772insL	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR P772_H773insYNP	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR P772_V774insPHV	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR Rare Exon 18-21 Mutation	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR Rare Mutation	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR S768_D770dup mutation	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR V769_D770insASV	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR VIII mutation	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR Wildtype	absence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR Y1092 PHOSPHORYLATION	presence of	EGFR	protein	phosphorylation	mapped	
+civic	EGFR Y764_V765insHH	presence of	EGFR	gene	sequence variation	mapped	
+civic	EIF1AX MUTATION	presence of	EIF1AX	gene	sequence variation	mapped	
+civic	EIF4EBP1 PHOSPHORYLATION	presence of	EIF4EBP1	protein	phosphorylation	mapped	
+civic	EPCAM 3' Exon Deletion	presence of	EPCAM	gene	sequence variation	mapped	
+civic	ERBB2 Activating Mutation	presence of	ERBB2	gene	sequence variation	mapped	
+civic	ERBB2 Exon 20 Insertion	presence of	ERBB2	gene	sequence variation	mapped	
+civic	ERBB2 G778_P780DUP mutation	presence of	ERBB2	gene	sequence variation	mapped	
+civic	ERBB2 Kinase Domain Mutation	presence of	ERBB2	gene	sequence variation	mapped	
+civic	ERBB2 L755_T759del	presence of	ERBB2	gene	sequence variation	mapped	
+civic	ERBB2 M774DELINSWLV	presence of	ERBB2	gene	sequence variation	mapped	
+civic	ERBB2 Mutation	presence of	ERBB2	gene	sequence variation	mapped	
+civic	ERBB2 P780INS	presence of	ERBB2	gene	sequence variation	mapped	
+civic	ERBB2 S310F/Y mutation	presence of	ERBB2	gene	sequence variation	mapped	
+civic	ERBB2 SERUM LEVELS	differential	ERBB2	protein	level	mapped	
+civic	ERBB2 Y772_A775DUP mutation	presence of	ERBB2	gene	sequence variation	mapped	
+civic	ERBB3 Mutation	presence of	ERBB3	gene	sequence variation	mapped	
+civic	ERBB4 Mutation	presence of	ERBB4	gene	sequence variation	mapped	
+civic	ERBB4 NUCLEAR TRANSLOCATION	differential	ERBB4	protein	/	cannot map	This term describes a protein subcellular-localization event. The current controlled vocabulary has no approved localization aspect; proposed addition: localization or subcellular localization. Retain as cannot map pending ontology review.
+civic	ERCC5 RS751402 mutation	presence of	ERCC5	gene	sequence variation	mapped	
+civic	ESR1 MUTATION	presence of	ESR1	gene	sequence variation	mapped	
+civic	ETS2 RS461155 mutation	presence of	ETS2	gene	sequence variation	mapped	
+civic	EZH2 Activating Mutation	presence of	EZH2	gene	sequence variation	mapped	
+civic	EZH2 Intron 6 Mutation	presence of	EZH2	gene	sequence variation	mapped	
+civic	EZH2 Mutation	presence of	EZH2	gene	sequence variation	mapped	
+civic	FANCC Loss-of-function	presence of	FANCC	gene	sequence variation	mapped	
+civic	FBXW7 Loss-of-function	presence of	FBXW7	gene	sequence variation	mapped	
+civic	FBXW7 Mutation	presence of	FBXW7	gene	sequence variation	mapped	
+civic	FGFR1 Fusion	presence of	FGFR1	gene	sequence variation	mapped	
+civic	FGFR1 Internal Duplication	presence of	FGFR1	gene	sequence variation	mapped	
+civic	FGFR2 Fusion	presence of	FGFR2	gene	sequence variation	mapped	
+civic	FGFR2 Mutation	presence of	FGFR2	gene	sequence variation	mapped	
+civic	FGFR3 Fusion	presence of	FGFR3	gene	sequence variation	mapped	
+civic	FGFR3 Mutation	presence of	FGFR3	gene	sequence variation	mapped	
+civic	FLCN c.1285dupC mutation	presence of	FLCN	gene	sequence variation	mapped	
+civic	FLI1 EWSR1::FLI1 e7-e6	presence of	EWSR1::FLI1	gene	sequence variation	mapped	
+civic	FLT3 D835H/Y mutation	presence of	FLT3	gene	sequence variation	mapped	
+civic	FLT3 ITD mutation	presence of	FLT3	gene	sequence variation	mapped	
+civic	FLT3 Mutation	presence of	FLT3	gene	sequence variation	mapped	
+civic	FLT3 TKD MUTATION	presence of	FLT3	gene	sequence variation	mapped	
+civic	FNTB RS11623866 mutation	presence of	FNTB	gene	sequence variation	mapped	
+civic	FOS TRUNCATING FUSION	presence of	FOS	gene	sequence variation	mapped	
+civic	FOXR2 Rearrangement	presence of	FOXR2	gene	sequence variation	mapped	
+civic	GADD45A rs681673 mutation	presence of	GADD45A	gene	sequence variation	mapped	
+civic	GNA11 Mutation	presence of	GNA11	gene	sequence variation	mapped	
+civic	GNAQ Mutation	presence of	GNAQ	gene	sequence variation	mapped	
+civic	GNAS c.393T>C mutation	presence of	GNAS	gene	sequence variation	mapped	
+civic	GSTP1 Deletion	presence of	GSTP1	gene	sequence variation	mapped	
+civic	H3-3A MUTATION	presence of	H3-3A	gene	sequence variation	mapped	
+civic	HIF1A 3' UTR Polymorphism	presence of	HIF1A	gene	sequence variation	mapped	
+civic	HLA-C COPY-NEUTRAL LOSS OF HETEROZYGOSITY	presence of	HLA-C	gene	sequence variation	mapped	
+civic	HRAS Mutation	presence of	HRAS	gene	sequence variation	mapped	
+civic	HSPH1 T17 DELETION	presence of	HSPH1	gene	sequence variation	mapped	
+civic	IDH1 Mutation	presence of	IDH1	gene	sequence variation	mapped	
+civic	IDH2 Mutation	presence of	IDH2	gene	sequence variation	mapped	
+civic	IKZF1 Deletion	presence of	IKZF1	gene	sequence variation	mapped	
+civic	IKZF1 IKZF1 deletion	presence of	IKZF1	gene	sequence variation	mapped	
+civic	IKZF1 IKZF1 mutation	presence of	IKZF1	gene	sequence variation	mapped	
+civic	JAK2 Splice Site (c.1641+2T>G)	presence of	JAK2	gene	sequence variation	mapped	
+civic	JAK2 c.1641+1dup mutation	presence of	JAK2	gene	sequence variation	mapped	
+civic	KIT A502_Y503insAY	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT D579del	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT Exon 11 Mutation	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT Exon 13 Mutation	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT Exon 14 Mutation	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT Exon 9 Mutation	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT F506_F508DUP mutation	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT Internal Duplication	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT K484_G487DEL	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT K550_K558del	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT K550_K559DEL	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT K550_W557del	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT K558_V559del	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT K558delinsNP	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT Mutation	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT P551_E554delPMYE	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT RS3733542 mutation	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT T417_D419delinsY	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT V555_V559DEL	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT V560DEL	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT V560_L576DEL	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT W557_K558del	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT Wildtype	absence of	KIT	gene	sequence variation	mapped	
+civic	KIT Y503_F504insAY	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT rs17084733 mutation	presence of	KIT	gene	sequence variation	mapped	
+civic	KLLN PROMOTER METHYLATION	presence of	KLLN	DNA	methylation	mapped	
+civic	KMT2C Loss	presence of	KMT2C	gene	sequence variation	mapped	
+civic	KMT2C MUTATION	presence of	KMT2C	gene	sequence variation	mapped	
+civic	KMT2D Loss-of-function	presence of	KMT2D	gene	sequence variation	mapped	
+civic	KRAS A11_G12insGA	presence of	KRAS	gene	sequence variation	mapped	
+civic	KRAS Exon 2 Mutation	presence of	KRAS	gene	sequence variation	mapped	
+civic	KRAS G10_A11insG	presence of	KRAS	gene	sequence variation	mapped	
+civic	KRAS G12/G13 mutation	presence of	KRAS	gene	sequence variation	mapped	
+civic	KRAS Mutation	presence of	KRAS	gene	sequence variation	mapped	
+civic	KRAS RS61764370 mutation	presence of	KRAS	gene	sequence variation	mapped	
+civic	KRAS Wildtype	absence of	KRAS	gene	sequence variation	mapped	
+civic	LRP1B DELETION	presence of	LRP1B	gene	sequence variation	mapped	
+civic	LRP1B EXON 12-22 DELETION	presence of	LRP1B	gene	sequence variation	mapped	
+civic	MAP2K1 Q56_V60del	presence of	MAP2K1	gene	sequence variation	mapped	
+civic	MDM2 RS34886328 mutation	presence of	MDM2	gene	sequence variation	mapped	
+civic	MDM2 SNP309 mutation	presence of	MDM2	gene	sequence variation	mapped	
+civic	MEN1 FRAMESHIFT TRUNCATION	presence of	MEN1	gene	sequence variation	mapped	
+civic	MET Exon 14 Skipping Mutation	presence of	MET	gene	sequence variation	mapped	
+civic	MET Mutation	presence of	MET	gene	sequence variation	mapped	
+civic	MET Splice Site (c.3028G>A)	presence of	MET	gene	sequence variation	mapped	
+civic	MGMT Promoter Methylation	presence of	MGMT	DNA	methylation	mapped	
+civic	MGMT RS16906252 mutation	presence of	MGMT	gene	sequence variation	mapped	
+civic	MLH1 D667FS mutation	presence of	MLH1	gene	sequence variation	mapped	
+civic	MLH1 E13fs mutation	presence of	MLH1	gene	sequence variation	mapped	
+civic	MLH1 G606FS*2 mutation	presence of	MLH1	gene	sequence variation	mapped	
+civic	MLH1 K618DEL	presence of	MLH1	gene	sequence variation	mapped	
+civic	MLH1 Loss	presence of	MLH1	gene	sequence variation	mapped	
+civic	MLH1 METHYLATION	presence of	MLH1	DNA	methylation	mapped	
+civic	MLH1 P536FS mutation	presence of	MLH1	gene	sequence variation	mapped	
+civic	MLH1 Q426FS mutation	presence of	MLH1	gene	sequence variation	mapped	
+civic	MLH1 R687FS mutation	presence of	MLH1	gene	sequence variation	mapped	
+civic	MLH1 V213FS mutation	presence of	MLH1	gene	sequence variation	mapped	
+civic	MLH1 c.790+1G>A mutation	presence of	MLH1	gene	sequence variation	mapped	
+civic	MMP2 SERUM LEVELS	differential	MMP2	protein	level	mapped	
+civic	MMP9 SERUM LEVELS	differential	MMP9	protein	level	mapped	
+civic	MRE11 Frameshift	presence of	MRE11	gene	sequence variation	mapped	
+civic	MRE11 Loss	presence of	MRE11	gene	sequence variation	mapped	
+civic	MS4A1 Mutation	presence of	MS4A1	gene	sequence variation	mapped	
+civic	MSH2 E28FS mutation	presence of	MSH2	gene	sequence variation	mapped	
+civic	MSH2 Loss	presence of	MSH2	gene	sequence variation	mapped	
+civic	MSH2 V273FS mutation	presence of	MSH2	gene	sequence variation	mapped	
+civic	MSH6 I891FS mutation	presence of	MSH6	gene	sequence variation	mapped	
+civic	MSH6 LOSS	presence of	MSH6	gene	sequence variation	mapped	
+civic	MTOR Mutation	presence of	MTOR	gene	sequence variation	mapped	
+civic	MYB Rearrangement	presence of	MYB	gene	sequence variation	mapped	
+civic	MYBL1 Rearrangement	presence of	MYBL1	gene	sequence variation	mapped	
+civic	NAPRT Promoter Hypermethylation	increased	NAPRT	DNA	methylation	mapped	
+civic	NF1 Inactivating Mutation	presence of	NF1	gene	sequence variation	mapped	
+civic	NF1 Loss	presence of	NF1	gene	sequence variation	mapped	
+civic	NF1 Mutation	presence of	NF1	gene	sequence variation	mapped	
+civic	NF2 K159fs mutation	presence of	NF2	gene	sequence variation	mapped	
+civic	NF2 Loss	presence of	NF2	gene	sequence variation	mapped	
+civic	NF2 Y177fs mutation	presence of	NF2	gene	sequence variation	mapped	
+civic	NF2 c.1396C>T mutation	presence of	NF2	gene	sequence variation	mapped	
+civic	NFE2L2 Mutation	presence of	NFE2L2	gene	sequence variation	mapped	
+civic	NOTCH1 Loss-of-function	presence of	NOTCH1	gene	sequence variation	mapped	
+civic	NOTCH1 Mutation	presence of	NOTCH1	gene	sequence variation	mapped	
+civic	NOTCH1 P2514FS mutation	presence of	NOTCH1	gene	sequence variation	mapped	
+civic	NOTCH1 S2275FS mutation	presence of	NOTCH1	gene	sequence variation	mapped	
+civic	NOTCH1 V2444FS mutation	presence of	NOTCH1	gene	sequence variation	mapped	
+civic	NPM1 EXON 12 MUTATION	presence of	NPM1	gene	sequence variation	mapped	
+civic	NPM1 W288FS mutation	presence of	NPM1	gene	sequence variation	mapped	
+civic	NRAS G12/G13 mutation	presence of	NRAS	gene	sequence variation	mapped	
+civic	NRAS Mutation	presence of	NRAS	gene	sequence variation	mapped	
+civic	NRG1 Fusion	presence of	NRG1	gene	sequence variation	mapped	
+civic	NT5C2 Mutation	presence of	NT5C2	gene	sequence variation	mapped	
+civic	NTRK1 Fusion	presence of	NTRK1	gene	sequence variation	mapped	
+civic	NTRK2 Fusion	presence of	NTRK2	gene	sequence variation	mapped	
+civic	NTRK3 Fusion	presence of	NTRK3	gene	sequence variation	mapped	
+civic	PALB2 Biallelic Inactivation	presence of	PALB2	gene	sequence variation	mapped	
+civic	PALB2 L531FS*30 mutation	presence of	PALB2	gene	sequence variation	mapped	
+civic	PALB2 Mutation	presence of	PALB2	gene	sequence variation	mapped	
+civic	PBRM1 Mutation	presence of	PBRM1	gene	sequence variation	mapped	
+civic	PDGFRA D842_H845DELDIMH	presence of	PDGFRA	gene	sequence variation	mapped	
+civic	PDGFRA D842_I843delinsVM	presence of	PDGFRA	gene	sequence variation	mapped	
+civic	PDGFRA Exon 18 Mutation	presence of	PDGFRA	gene	sequence variation	mapped	
+civic	PDGFRA Fusion	presence of	PDGFRA	gene	sequence variation	mapped	
+civic	PDGFRA I843DEL	presence of	PDGFRA	gene	sequence variation	mapped	
+civic	PDGFRA Mutation	presence of	PDGFRA	gene	sequence variation	mapped	
+civic	PDGFRB Fusion	presence of	PDGFRB	gene	sequence variation	mapped	
+civic	PIK3CA EXON 20 MUTATION	presence of	PIK3CA	gene	sequence variation	mapped	
+civic	PIK3CA EXON 9 MUTATION	presence of	PIK3CA	gene	sequence variation	mapped	
+civic	PIK3CA Exon 10 Mutation	presence of	PIK3CA	gene	sequence variation	mapped	
+civic	PIK3CA Exon 10 mutation	presence of	PIK3CA	gene	sequence variation	mapped	
+civic	PIK3CA Exon 21 Mutation	presence of	PIK3CA	gene	sequence variation	mapped	
+civic	PIK3CA Exon 21 mutation	presence of	PIK3CA	gene	sequence variation	mapped	
+civic	PIK3CA Mutation	presence of	PIK3CA	gene	sequence variation	mapped	
+civic	PIK3CA Rare Mutation	presence of	PIK3CA	gene	sequence variation	mapped	
+civic	PIK3CA Wildtype	absence of	PIK3CA	gene	sequence variation	mapped	
+civic	PIK3R1 Mutation	presence of	PIK3R1	gene	sequence variation	mapped	
+civic	PLCG2 MUTATION	presence of	PLCG2	gene	sequence variation	mapped	
+civic	PML B2 DOMAIN MUTATION	presence of	PML	gene	sequence variation	mapped	
+civic	PMS2 K706FS*19 mutation	presence of	PMS2	gene	sequence variation	mapped	
+civic	POLE Mutation	presence of	POLE	gene	sequence variation	mapped	
+civic	POT1 MUTATION	presence of	POT1	gene	sequence variation	mapped	
+civic	PPP1R15A RS557806 mutation	presence of	PPP1R15A	gene	sequence variation	mapped	
+civic	PPP2R2A Mutation	presence of	PPP2R2A	gene	sequence variation	mapped	
+civic	PRDM1 MUTATION	presence of	PRDM1	gene	sequence variation	mapped	
+civic	PRKAA2 T172 PHOSPHORYLATION	presence of	PRKAA2	protein	phosphorylation	mapped	
+civic	PRPS1 PRPS1 MUTATION	presence of	PRPS1	gene	sequence variation	mapped	
+civic	PTCH1 LOH mutation	presence of	PTCH1	gene	sequence variation	mapped	
+civic	PTCH1 Mutation	presence of	PTCH1	gene	sequence variation	mapped	
+civic	PTEN Deletion	presence of	PTEN	gene	sequence variation	mapped	
+civic	PTEN Loss	presence of	PTEN	gene	sequence variation	mapped	
+civic	PTEN Mutation	presence of	PTEN	gene	sequence variation	mapped	
+civic	PTEN V317FS mutation	presence of	PTEN	gene	sequence variation	mapped	
+civic	PTPRB Loss-of-function	presence of	PTPRB	gene	sequence variation	mapped	
+civic	PTPRD Mutation	presence of	PTPRD	gene	sequence variation	mapped	
+civic	PTPRT Promoter Hypermethylation	increased	PTPRT	DNA	methylation	mapped	
+civic	RAD51B Mutation	presence of	RAD51B	gene	sequence variation	mapped	
+civic	RAD51D Mutation	presence of	RAD51D	gene	sequence variation	mapped	
+civic	RAD54L Mutation	presence of	RAD54L	gene	sequence variation	mapped	
+civic	RASA1 Loss-of-function	presence of	RASA1	gene	sequence variation	mapped	
+civic	RB1 Loss-of-function	presence of	RB1	gene	sequence variation	mapped	
+civic	RB1 M695FS*26 mutation	presence of	RB1	gene	sequence variation	mapped	
+civic	RB1 Mutation	presence of	RB1	gene	sequence variation	mapped	
+civic	RB1 PHOSPHORYLATION	presence of	RB1	protein	phosphorylation	mapped	
+civic	RB1 Wildtype	absence of	RB1	gene	sequence variation	mapped	
+civic	RET Fusion	presence of	RET	gene	sequence variation	mapped	
+civic	RET Mutation	presence of	RET	gene	sequence variation	mapped	
+civic	RHOA MUTATION	presence of	RHOA	gene	sequence variation	mapped	
+civic	RIT1 Mutation	presence of	RIT1	gene	sequence variation	mapped	
+civic	ROS1 Fusion	presence of	ROS1	gene	sequence variation	mapped	
+civic	ROS1 Rearrangement	presence of	ROS1	gene	sequence variation	mapped	
+civic	RPS6 PHOSPHORYLATION	presence of	RPS6	protein	phosphorylation	mapped	
+civic	RUNX1 Mutation	presence of	RUNX1	gene	sequence variation	mapped	
+civic	RUNX1 R135FSX177 mutation	presence of	RUNX1	gene	sequence variation	mapped	
+civic	RUNX1 T148HFSX9 mutation	presence of	RUNX1	gene	sequence variation	mapped	
+civic	SDHB p.193_196dupSTSC (c.577_588dupAGCACCAGCTGC)	presence of	SDHB	gene	sequence variation	mapped	
+civic	SETBP1 Exon 4 Mutation	presence of	SETBP1	gene	sequence variation	mapped	
+civic	SF3B1 Mutation	presence of	SF3B1	gene	sequence variation	mapped	
+civic	SH2B3 RS3184504 mutation	presence of	SH2B3	gene	sequence variation	mapped	
+civic	SLCO1B1 RS4149056 mutation	presence of	SLCO1B1	gene	sequence variation	mapped	
+civic	SMAD4 Deletion	presence of	SMAD4	gene	sequence variation	mapped	
+civic	SMAD4 LOSS	presence of	SMAD4	gene	sequence variation	mapped	
+civic	SMAD4 Mutation	presence of	SMAD4	gene	sequence variation	mapped	
+civic	SMARCA4 INACTIVATING MUTATION	presence of	SMARCA4	gene	sequence variation	mapped	
+civic	SMARCA4 Loss	presence of	SMARCA4	gene	sequence variation	mapped	
+civic	SMARCA4 MUTATION	presence of	SMARCA4	gene	sequence variation	mapped	
+civic	SMARCB1 Deletion	presence of	SMARCB1	gene	sequence variation	mapped	
+civic	SMARCB1 Loss	presence of	SMARCB1	gene	sequence variation	mapped	
+civic	SMO Mutation	presence of	SMO	gene	sequence variation	mapped	
+civic	SOX10 Loss	presence of	SOX10	gene	sequence variation	mapped	
+civic	SRSF2 MUTATION	presence of	SRSF2	gene	sequence variation	mapped	
+civic	STAG2 MUTATION	presence of	STAG2	gene	sequence variation	mapped	
+civic	STAT3 SH2 DOMAIN MUTATION	presence of	STAT3	gene	sequence variation	mapped	
+civic	STK11 EXON 1-2 MUTATION	presence of	STK11	gene	sequence variation	mapped	
+civic	STK11 Loss	presence of	STK11	gene	sequence variation	mapped	
+civic	STK11 Mutation	presence of	STK11	gene	sequence variation	mapped	
+civic	TERT Promoter Mutation	presence of	TERT	gene	sequence variation	mapped	
+civic	TERT RS2736100 mutation	presence of	TERT	gene	sequence variation	mapped	
+civic	TET2 Mutation	presence of	TET2	gene	sequence variation	mapped	
+civic	TFE3 Fusion	presence of	TFE3	gene	sequence variation	mapped	
+civic	TFEB Fusion	presence of	TFEB	gene	sequence variation	mapped	
+civic	TP53 ALTERATION	differential	TP53	gene	sequence variation	uncertain	"Alteration is broad,so I used differential and flagged for review."
+civic	TP53 CONSERVED DOMAIN MUT	presence of	TP53	gene	sequence variation	mapped	
+civic	TP53 DNA Binding Domain Mutation	presence of	TP53	gene	sequence variation	mapped	
+civic	TP53 Deleterious Mutation	presence of	TP53	gene	sequence variation	mapped	
+civic	TP53 Loss	presence of	TP53	gene	sequence variation	mapped	
+civic	TP53 Mutation	presence of	TP53	gene	sequence variation	mapped	
+civic	TP53 Truncating Mutation	presence of	TP53	gene	sequence variation	mapped	
+civic	TP53 Wildtype	absence of	TP53	gene	sequence variation	mapped	
+civic	TSC1 Frameshift Truncation	presence of	TSC1	gene	sequence variation	mapped	
+civic	TSC1 Loss-of-function	presence of	TSC1	gene	sequence variation	mapped	
+civic	TYMS 5' TANDEM REPEAT	presence of	TYMS	gene	sequence variation	mapped	
+civic	TYMS RS34743033 mutation	presence of	TYMS	gene	sequence variation	mapped	
+civic	U2AF1 MUTATION	presence of	U2AF1	gene	sequence variation	mapped	
+civic	U2AF1 Q157P/R mutation	presence of	U2AF1	gene	sequence variation	mapped	
+civic	U2AF1 S34Y/F mutation	presence of	U2AF1	gene	sequence variation	mapped	
+civic	UGT1A1 UGT1A1*28 mutation	presence of	UGT1A1	gene	sequence variation	mapped	
+civic	UGT1A1 UGT1A1*60 mutation	presence of	UGT1A1	gene	sequence variation	mapped	
+civic	VHL 106insR (c.316insGCC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL 3'UTR alteration (c.*70C>A)	differential	VHL	gene	sequence variation	uncertain	"Alteration is broad,so I used differential and flagged for review."
+civic	VHL 3'UTR alteration (c.639+10C>G)	differential	VHL	gene	sequence variation	uncertain	"Alteration is broad,so I used differential and flagged for review."
+civic	VHL 3p26.3-25.3 11Mb del	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL A149fs (c.445delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL A149fs (c.449del14-nt)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL A56FS (c.164_165insG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL A56_P59del (c.166_178del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL A56fs (c.164_165insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL A56fs (c.166_167insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL A56fs (c.166dup)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL C162fs (c.483del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL C77_N78insL (c.230_231insTCT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL C77fs (c.228dup)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL C77fs (c.230del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL D121_A122del (c.361_366del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL D126FS (c.375_376insC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL D143fs (c.430delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL D197FS (c.589delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Deletion	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL E160FS (c.479_480delAG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL E160fs (c.477del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL E189fs (c.565del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL E55FS (c.163_164delGA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL E55RfsTer11 (c.163delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL E94FS (c.279delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL EXON 2-3 DELETION	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Exon 1 Deletion	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Exon 1-2 Deletion	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Exon 1-3 Deletion	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Exon 2 Deletion	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Exon 3 Deletion	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL F76del (c.224_226delTCT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL F76del (c.227_229del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL F76fs (c.223_224insT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL G114Vfs*45 (c.339delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL G114dup (c.342dupGGT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL G123fs (c.369_375delGACACAC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL G144fs (c.429_439del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL G144fs (c.432insG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL G93_Y98del (c.275_292del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL H115fs (c.344del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL H125fs (c.374insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL H191FS (c.571delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Intronic deletion (c.341-13delCGTTTCCAACAATTTCTCGGTGT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL K159fs (c.473dup)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL K159fs (c.474_476delGAAinsC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL K159fs (c.477_478insCA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL K196fs (c.584_585delAG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL L118fs (c.352_353insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL L129fs (c.384delT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL L135fs (c.404del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL L140fs (c.417_418delTC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL L153fs (c.457delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL L158fs (c.471dupT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL L188fs (c.562delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Loss	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Loss-of-function	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL M1FS (c.1_17del17)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL M54IFS (c.162_166delGGAGG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL M54fs (c.161dup)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Mutation	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL N131fs (c.390_391del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL N150fs (c.445_458del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL N150fs (c.447del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL N150fs (c.449del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Null (Large deletion)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Null (Partial deletion of Exons 2 & 3)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL P102fs (c.305delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL P103FS (c.309_310delTG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL P146fs (c.437del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL P154fs (c.462delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL P40fs (c.118ins)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL P59fs (c.173_174insC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL P59fs (c.176delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL P61FS (c.182_185delCCGT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL P61fs (c.183insC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL P71fs (c.211insT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL P86fs (c.254_255insC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Q73FS (c.217delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Q73fs (c.214insGCCC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Q96_P97delinsH (c.288_290del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL R108dup (c.322_324dup)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL R113FS (c.337delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL R120fs (c.358_359insAC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL R176fs (c.526del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL R177fs (c.528del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL R177ins (c.531insCTGAGAGTAAAGCCTGAA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL R60FS (c.179delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL R69fs (c.204insG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL R79_S80del (c.236_241delGCAGTC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL R82_V84del (c.243_251del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL R82_V84del (c.244_252del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Rearrangement	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL S111FS (c.331delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL S65FS (c.194delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL S72fs (c.214del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL S80fs (c.239del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Splice Region (c.340+5G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Splice Region (c.463+8C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Splice Site (c.340+1G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Splice Site (c.341-2A>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Splice Site (c.463+1G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Splice Site (c.463+2T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Splice Site (c.464-1G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Splice Site (c.464-1G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Splice Site (c.464-1G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Splice Site (c.464-2A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Splice Site (c.464-2A>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL T133fs (c.397del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL T152fs (c.455insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL T157fs (c.472ins)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL T202fs (c.606insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL V181fs (c.540_543del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL V194fs (c.581_582del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL V62Cfs*5 (c.180del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL V66Gfs*89 (c.197_209del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL V66del (c.197_220del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL V87fs (c.259_260insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL W117fs (c.349dup)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL W88FS (c.263_265delGGCinsTT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL W88fs (c.261dup)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Y98FS (c.291_310del20)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL Y98FS (c.291delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL c.128-?_250+? mutation	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL c.341-59_341-14del	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL c._213_ ?_463 ?del	presence of	VHL	gene	sequence variation	mapped	
+civic	WEE1 RS3910384 mutation	presence of	WEE1	gene	sequence variation	mapped	
+civic	WT1 Exon 7 Mutation	presence of	WT1	gene	sequence variation	mapped	
+civic	WT1 Exon 9 Mutation	presence of	WT1	gene	sequence variation	mapped	
+civic	ZFTA ZFTA::RELA Methylation Profile	presence of	ZFTA::RELA	DNA	methylation	mapped	
+civic	ALK (ATI)	presence of	ALK	RNA	sequence variation	uncertain	Provisional mapping: entity type = RNA and aspect = sequence variation. An alternative transcript reflects transcript/splicing variation rather than increased or decreased expression. Final classification should be confirmed by the ontology team.
+civic	RANBP2-ALK	presence of	RANBP2-ALK	gene	sequence variation	mapped	
+civic	ALK MUTATION	presence of	ALK	gene	sequence variation	mapped	
+civic	ALK E20;A20	presence of	ALK	gene	sequence variation	mapped	
+civic	EML4-ALK	presence of	EML4-ALK	gene	sequence variation	mapped	
+civic	NPM-ALK	presence of	NPM-ALK	gene	sequence variation	mapped	
+civic	ALK I1171	presence of	ALK	gene	sequence variation	mapped	
+civic	ALK E6;A20	presence of	ALK	gene	sequence variation	mapped	
+civic	ALK C1156Y�L1198F	presence of	ALK	gene	sequence variation	mapped	
+civic	ALK FUSIONS	presence of	ALK	gene	sequence variation	mapped	
+civic	CLTC-ALK	presence of	CLTC-ALK	gene	sequence variation	mapped	
+civic	ALK E2;A20	presence of	ALK	gene	sequence variation	mapped	
+civic	DEL4-11	presence of	missing	/	sequence variation	cannot map	"The raw term indicates a deletion but does not identify the affected gene/entity. Check the source dataset and associated PMID; if the entity cannot be recovered, retain as cannot map."
+civic	ALK T1151INST	presence of	ALK	gene	sequence variation	mapped	
+civic	ALK C1156Y�L1196M	presence of	ALK	gene	sequence variation	mapped	
+civic	ABL1 MUTATION	presence of	ABL1	gene	sequence variation	mapped	
+civic	ABL1 Mutation	presence of	ABL1	gene	sequence variation	mapped	
+civic	BCR-ABL	presence of	BCR-ABL	gene	sequence variation	mapped	
+civic	Non-V600	presence of	missing	/	sequence variation	cannot map	"Indicates a non-V600 mutation status (sequence variation), but the specific gene entity (e.g., BRAF) is not stated in the raw term. Requires escalation or source context to map."
+civic	AKAP9-BRAF	presence of	AKAP9-BRAF	gene	sequence variation	mapped	
+civic	KIAA1549-BRAF	presence of	KIAA1549-BRAF	gene	sequence variation	mapped	
+civic	BRAF MUTATION	presence of	BRAF	gene	sequence variation	mapped	
+civic	PPFIBP2-BRAF	presence of	PPFIBP2-BRAF	gene	sequence variation	mapped	
+civic	BRAF DEL	presence of	BRAF	gene	sequence variation	mapped	
+civic	CUX1-BRAF	presence of	CUX1-BRAF	gene	sequence variation	mapped	
+civic	BRAF rearrangement	presence of	BRAF	gene	sequence variation	mapped	
+civic	TRIM24-BRAF	presence of	TRIM24-BRAF	gene	sequence variation	mapped	
+civic	BRAF TYPE	presence of	BRAF	gene	sequence variation	uncertain	"""Type"" is insufficiently specific to guarantee it means mutation type rather than protein-level classification. Flagged for expert review."
+civic	BRAF V600E+V600M	presence of	BRAF	gene	sequence variation	mapped	
+civic	BRAF-CUL1	presence of	BRAF-CUL1	gene	sequence variation	mapped	
+civic	BRAF Fusion	presence of	BRAF	gene	sequence variation	mapped	
+civic	PAPSS1-BRAF	presence of	PAPSS1-BRAF	gene	sequence variation	mapped	
+civic	ZKSCAN1-BRAF	presence of	ZKSCAN1-BRAF	gene	sequence variation	mapped	
+civic	BRAF V600	presence of	BRAF	gene	sequence variation	mapped	
+civic	AGK-BRAF	presence of	AGK-BRAF	gene	sequence variation	mapped	
+civic	BRCA1 MUTATION	presence of	BRCA1	gene	sequence variation	mapped	
+civic	BRCA1 W1815X	presence of	BRCA1	gene	sequence variation	mapped	
+civic	BRCA1 Q1467*	presence of	BRCA1	gene	sequence variation	mapped	
+civic	BRCA1 P968FS	presence of	BRCA1	gene	sequence variation	mapped	
+civic	BRCA1 insertion	presence of	BRCA1	gene	sequence variation	mapped	
+civic	LOSS-OF-FUNCTION	presence of	missing	/	sequence variation	cannot map	"Indicates a loss-of-function molecular status, but the specific host gene/protein entity is not stated in the raw term. Requires escalation or source database context to resolve."
+civic	BRCA1 R1443*	presence of	BRCA1	gene	sequence variation	mapped	Default gene alteration pattern: presence of entity sequence variation.
+civic	BRCA2 MUTATION	presence of	BRCA2	gene	sequence variation	mapped	
+civic	CCND2 DEMETHYLATION	decreased	CCND2	DNA	methylation	mapped	
+civic	CCND3 LOSS	presence of	CCND3	gene	sequence variation	mapped	
+civic	CDKN2A LOSS	presence of	CDKN2A	gene	sequence variation	mapped	
+civic	CDKN2A RS3814960	presence of	CDKN2A	gene	sequence variation	mapped	
+civic	CEBPA MUTATION	presence of	CEBPA	gene	sequence variation	mapped	
+civic	CEBPA INACTIVATION	presence of	CEBPA	gene	sequence variation	mapped	
+civic	CEBPA SHIFT	presence of	CEBPA	gene	sequence variation	mapped	
+civic	DNAJB1-PRKACA	presence of	DNAJB1-PRKACA	gene	sequence variation	mapped	
+civic	DNMT3A R882	presence of	DNMT3A	gene	sequence variation	mapped	
+civic	DNMT3A MUTATION	presence of	DNMT3A	gene	sequence variation	mapped	
+civic	EGFR WILDTYPE	absence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR MUT	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR VIII	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR D770_N771insGY	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR V769_770INSASV	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR VARIATION	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR L861	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR MUTATION	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR A767_V769dupASV	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR PHOSPHORYLATION	presence of	EGFR	protein	phosphorylation	mapped	
+civic	EGFR DELETION	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR S720	presence of	EGFR	gene	sequence variation	mapped	
+civic	EGFR G719	presence of	EGFR	gene	sequence variation	mapped	
+civic	Gain-of-function	presence of	missing	/	sequence variation	cannot map	"Indicates a gain-of-function molecular status, but the specific host gene/protein entity is not stated in the raw term. Requires escalation or source database context to resolve."
+civic	EGFR INSERTION	presence of	EGFR	gene	sequence variation	mapped	
+civic	ERBB2 G778_P780DUP	presence of	ERBB2	gene	sequence variation	mapped	
+civic	ERBB2 LEVELS	differential	ERBB2	protein	level	mapped	
+civic	ERBB2 M774INSAYVM	presence of	ERBB2	gene	sequence variation	mapped	
+civic	ERBB2 MUTATION	presence of	ERBB2	gene	sequence variation	mapped	
+civic	ERBB2 DEL	presence of	ERBB2	gene	sequence variation	mapped	
+civic	ERBB2 S310F/Y	presence of	ERBB2	gene	sequence variation	mapped	
+civic	FGFR2-AHCYL1	presence of	FGFR2-AHCYL1	gene	sequence variation	mapped	
+civic	FGFR2 mutations	presence of	FGFR2	gene	sequence variation	mapped	
+civic	FGFR2-TACC3	presence of	FGFR2-TACC3	gene	sequence variation	mapped	
+civic	FGFR2 fusions	presence of	FGFR2	gene	sequence variation	mapped	
+civic	FGFR2 MUTATION	presence of	FGFR2	gene	sequence variation	mapped	
+civic	FGFR2 FUSION	presence of	FGFR2	gene	sequence variation	mapped	
+civic	FGFR2-MGEA5	presence of	FGFR2-MGEA5	gene	sequence variation	mapped	
+civic	FGFR2-BICC1	presence of	FGFR2-BICC1	gene	sequence variation	mapped	
+civic	FGFR3-TACC3	presence of	FGFR3-TACC3	gene	sequence variation	mapped	
+civic	FGFR3-BAIAP2L1	presence of	FGFR3-BAIAP2L1	gene	sequence variation	mapped	
+civic	FGFR3 MUTATION	presence of	FGFR3	gene	sequence variation	mapped	
+civic	FLT3 MUTATION	presence of	FLT3	gene	sequence variation	mapped	
+civic	FLT3 D835H/Y	presence of	FLT3	gene	sequence variation	mapped	
+civic	FLT3 ITD	presence of	FLT3	gene	sequence variation	mapped	
+civic	FLT3 D835	presence of	FLT3	gene	sequence variation	mapped	
+civic	IDH1 MUTATION	presence of	IDH1	gene	sequence variation	mapped	
+civic	IDH1 R132	presence of	IDH1	gene	sequence variation	mapped	
+civic	IDH2 R140	presence of	IDH2	gene	sequence variation	mapped	
+civic	IDH2 R172	presence of	IDH2	gene	sequence variation	mapped	
+civic	IDH2 MUTATION	presence of	IDH2	gene	sequence variation	mapped	
+civic	JAK2 MUTATION	presence of	JAK2	gene	sequence variation	mapped	
+civic	PCM1-JAK2	presence of	PCM1-JAK2	gene	sequence variation	mapped	
+civic	JAK2 insertion	presence of	JAK2	gene	sequence variation	mapped	
+civic	KIT WILDTYPE	absence of	KIT	gene	sequence variation	mapped	
+civic	KIT MUTATION	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT W557_K558DELWK	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT RS3733542	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT F506_F508DUP	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT D579DEL	presence of	KIT	gene	sequence variation	mapped	
+civic	KIT DUPLICATION	presence of	KIT	gene	sequence variation	mapped	
+civic	KRAS G12/G13	presence of	KRAS	gene	sequence variation	mapped	
+civic	KRAS Q61	presence of	KRAS	gene	sequence variation	mapped	
+civic	KRAS G12	presence of	KRAS	gene	sequence variation	mapped	
+civic	KRAS G13	presence of	KRAS	gene	sequence variation	mapped	
+civic	KRAS Q22*	presence of	KRAS	gene	sequence variation	mapped	
+civic	KRAS RS61764370	presence of	KRAS	gene	sequence variation	mapped	
+civic	KRAS MUTATION	presence of	KRAS	gene	sequence variation	mapped	
+civic	MEF2D-CSF1R	presence of	MEF2D-CSF1R	gene	sequence variation	mapped	
+civic	MGMT RS16906252	presence of	MGMT	gene	sequence variation	mapped	
+civic	MGMT METHYLATION	presence of	MGMT	DNA	methylation	mapped	
+civic	NPM1 MUTATION	presence of	NPM1	gene	sequence variation	mapped	
+civic	NPM1 W288FS	presence of	NPM1	gene	sequence variation	mapped	
+civic	NRAS Q61	presence of	NRAS	gene	sequence variation	mapped	
+civic	NRAS G12/G13	presence of	NRAS	gene	sequence variation	mapped	
+civic	NRAS MUTATION	presence of	NRAS	gene	sequence variation	mapped	
+civic	NRAS G12	presence of	NRAS	gene	sequence variation	mapped	
+civic	PIK3CA TYPE	differential	PIK3CA	gene	sequence variation	uncertain	"The modifier ""TYPE"" is insufficiently specific to guarantee the exact clinical assay type. "
+civic	PIK3CA MUTATION	presence of	PIK3CA	gene	sequence variation	mapped	
+civic	PDGFRA MUTATION	presence of	PDGFRA	gene	sequence variation	mapped	
+civic	DI842-843VM	presence of	missing	/	sequence variation	cannot map	"The sequence variant details are mathematically precise, but the host entity is completely missing from the raw term. "
+civic	TNKS2-PDGFRA	presence of	TNKS2-PDGFRA	gene	sequence variation	mapped	
+civic	PDGFRA FUSIONS	presence of	PDGFRA	gene	sequence variation	mapped	
+civic	FIP1L1-PDGFRA	presence of	FIP1L1-PDGFRA	gene	sequence variation	mapped	
+civic	PML MUTATION	presence of	PML	gene	sequence variation	mapped	
+civic	PML-RARA	presence of	PML-RARA	gene	sequence variation	mapped	
+civic	PTEN MUTATION	presence of	PTEN	gene	sequence variation	mapped	
+civic	PTEN LOSS	presence of	PTEN	gene	sequence variation	mapped	
+civic	PTEN DELETION	presence of	PTEN	gene	sequence variation	mapped	
+civic	PTEN R130*	presence of	PTEN	gene	sequence variation	mapped	
+civic	PTEN V317FS	presence of	PTEN	gene	sequence variation	mapped	
+civic	PTEN R233*	presence of	PTEN	gene	sequence variation	mapped	
+civic	RET FUSION	presence of	RET	gene	sequence variation	mapped	
+civic	CCDC6-RET	presence of	CCDC6-RET	gene	sequence variation	mapped	
+civic	KIF5B-RET	presence of	KIF5B-RET	gene	sequence variation	mapped	
+civic	RUNX1 T148HFSX9	presence of	RUNX1	gene	sequence variation	mapped	
+civic	RUNX1 R135FSX177	presence of	RUNX1	gene	sequence variation	mapped	
+civic	RUNX1 MUTATION	presence of	RUNX1	gene	sequence variation	mapped	
+civic	RUNX1 Y260*	presence of	RUNX1	gene	sequence variation	mapped	
+civic	SF3B1 MUTATION	presence of	SF3B1	gene	sequence variation	mapped	
+civic	TP53 MUTATION	presence of	TP53	gene	sequence variation	mapped	
+civic	TP53 MUT	presence of	TP53	gene	sequence variation	mapped	
+civic	TP53 R249	presence of	TP53	gene	sequence variation	mapped	
+civic	TP53 TYPE	differential	TP53	gene	sequence variation	uncertain	"The modifier ""TYPE"" is structurally ambiguous and cannot guarantee the exact assay measurement. Marked as uncertain for manual context review."
+civic	TSC1 TRUNCATION	presence of	TSC1	gene	sequence variation	mapped	
+civic	U2AF1 Q157P/R	presence of	U2AF1	gene	sequence variation	mapped	
+civic	U2AF1 S34Y/F	presence of	U2AF1	gene	sequence variation	mapped	
+civic	WT1 MUTATION	presence of	WT1	gene	sequence variation	mapped	
+civic	NOTCH1 P2514FS	presence of	NOTCH1	gene	sequence variation	mapped	
+civic	NOTCH1 V2444FS	presence of	NOTCH1	gene	sequence variation	mapped	
+civic	NOTCH1 S2275FS	presence of	NOTCH1	gene	sequence variation	mapped	
+civic	NOTCH1 MUTATION	presence of	NOTCH1	gene	sequence variation	mapped	
+civic	MET MUTATION	presence of	MET	gene	sequence variation	mapped	
+civic	FLI1 1	differential	FLI1	gene	sequence variation	uncertain	"The numerical modifier ""1"" is highly ambiguous. It could refer to an exon number, a cluster type, or a variant type, which requires source context to clarify."
+civic	EWSR1-FLI1	presence of	EWSR1-FLI1	gene	sequence variation	mapped	
+civic	TET2 MUTATION	presence of	TET2	gene	sequence variation	mapped	
+civic	VHL (c.164_165insG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.467A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.482G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL D92fs	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.538A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.262T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.180delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.341delCGTTTCCAACAATTTCTCGGTGT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.472C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.473insT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.491A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.238A>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.525C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.162_166delGGAGG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.640T>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.392A>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.551T>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (C.291_310DEL20)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.458T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.345C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.166_178del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.337delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.250G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL DELETION	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.481C>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.240T>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.473T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.488T>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.136G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.540_543delCGTC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.313A>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.404T>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.490C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.589delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.340G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.197_220del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.374insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.565delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.449A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.563T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.381_382GC>TT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.263_265delGGCinsTT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.482G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.388G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.642+70C>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.390_391delTA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.191G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.394C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.204insG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.457delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.293A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.236_241delGCAGTC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.500G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.472ins)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.163G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.194delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.386T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.478_479delGA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.266T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.227T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.581_582delTG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL M1?	presence of	VHL	gene	sequence variation	uncertain	Refers to a suspected or questionable alteration at the start codon (M1) of the VHL gene. Marked as uncertain due to the trailing question mark indicating unverified status.
+civic	VHL (c.263G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.556G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.208G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.161insT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.364_365GC>AT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.118ins)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.339delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.445_458del)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.280G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.346C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL c.128_?_250+?	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.431G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.233A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.223_224insT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.331delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.498C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.194C>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.227insC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.533T>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.486C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.202T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL MUTATION	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.407T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.445G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.315insAC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.506T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.639+10C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.230_insTCT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.533T>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.179delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.642A>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.462delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.555C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL alteration	differential	VHL	gene	sequence variation	uncertain	"Broad alteration term: the exact molecular event and assay context are not specified. Verify the CIViC source record and associated PMID before final mapping. The current gene/sequence-variation interpretation is provisional, so the status remains uncertain."
+civic	VHL (c.479_480delAG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.340+5G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.485G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.277G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.182_185delCCGT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.3G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.352insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.261dupA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.586A>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.262T>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL LOSS	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.256C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.395A>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.173_174insC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.483delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.598C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.330CA>TT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.448delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.203C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.211insT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.256C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.642A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.584_585delAG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.466T>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.509T>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.466T>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.463+1G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.548C>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.233A>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.526delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.19A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.163_164delGA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.344A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.336C>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL A149fs	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.1_17del17)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.367delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.484T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.461C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.362A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.208G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.351G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.241C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.309_310delTG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.214delT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.384delT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.232A>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.357C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.165G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.481C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.320G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.255insC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.593T>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.217delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.430G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.154G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.641G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.481C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.562delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.277G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.475delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.563T>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.214T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.499C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.193T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.533T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.463+8C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.485G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.496G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.165_166dupG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.277G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.453C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.451A>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.163delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.417_to_418delTC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.264G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.233A>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL 3)	differential	VHL	gene	sequence variation	uncertain	"The numerical suffix ""3)"" is highly ambiguous. It could refer to exon 3, a specific cluster/subtype, or a list item numbering from the source document, requiring manual review."
+civic	VHL (c.340G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.275A>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.286C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.445delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.74C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.353T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.455insA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.395delA)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.508G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.183insC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.583C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.305delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.525delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.291delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.228_229insC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.509T>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.432insG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.239G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.345C>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.324InsCGC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.562C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.272T>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.430delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.236G>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.528delG)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.463+2T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.239G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.551T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.523T>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.319C>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.214insGCCC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.226_228delTTC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.254T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.243_251delGCGCGTCGT)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.445G>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.383T>G)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.412C>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.337C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.175delC)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.332G>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.257C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.292T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.464T>A)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.491A>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.433C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.452T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.334T>C)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.217C>T)	presence of	VHL	gene	sequence variation	mapped	
+civic	VHL (c.194C>G)	presence of	VHL	gene	sequence variation	mapped	
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
