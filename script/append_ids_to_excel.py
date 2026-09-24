@@ -10,8 +10,8 @@ Usage:
         --excel "Dataset A by Cynthia（final version）.xlsx" \
         --out   "Dataset_A_with_IDs.xlsx"
 
-The TSV is expected to have NO header row and exactly 10 tab-separated columns:
-    0  source       (always "civic" for rows we care about)
+The TSV is expected to have exactly 10 tab-separated columns:
+    0  source       
     1  civic_ids    (e.g. "CIViC:447" or "CIViC:495|CIViC:4311")
     2  pmids        (e.g. "PubMed:22906996" or "PubMed:21345110|PubMed:28787259")
     3  raw_term
