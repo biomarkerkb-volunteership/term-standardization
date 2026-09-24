@@ -1,4 +1,6 @@
 .DS_Store
-
+.venv
 # 284MB uncompressed masterlist; the zipped copy is committed instead
 data/mapped_processed/masterlist_v3.5.2.tsv
+data/mapped_processed/dataset_a_appended.xlsx
+data/mapped_processed/dataset_b_appended.xlsx
